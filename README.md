@@ -41,8 +41,8 @@ Our approach achieves **0.84 Recall@3** on single-hop retrieval tasks using 109 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/knowledge-compression-qa.git
-cd knowledge-compression-qa
+git clone https://github.com/anvix9/llama2-chat.git
+cd llama2-chat
 
 # Install dependencies
 pip install -r requirements.txt
@@ -130,18 +130,6 @@ python eval_e.py # Creates visualization plots
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [contributing guidelines](CONTRIBUTING.md) for details.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
 ## 📧 Contact
 
 **Anvi Alex Eponon** - [epononanvi@gmail.com](mailto:epononanvi@gmail.com)
@@ -152,10 +140,6 @@ For questions about the research or implementation, feel free to open an issue o
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://choosealicense.com/licenses/mit/)) file for details.
 
 ---
-
-## 🙏 Acknowledgments
-
-We thank the research community for their valuable feedback and the developers of the open-source tools that made this work possible.
