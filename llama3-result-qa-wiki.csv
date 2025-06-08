@@ -1,0 +1,889 @@
+id,original_question,rank,predicted_id,score
+8c17c1259ed0c31bff3ee48ef8a6c4c54469c7769ffbc1c1,"Who is Hermann Ii, Count Palatine Of Lotharingia's paternal grandfather?",1,8c17c1259ed0c31bff3ee48ef8a6c4c54469c7769ffbc1c1,0.9996486
+8c17c1259ed0c31bff3ee48ef8a6c4c54469c7769ffbc1c1,"Who is Hermann Ii, Count Palatine Of Lotharingia's paternal grandfather?",2,32482945828a5aab162d7534d56b2b39f5292f6cd0fe0587,0.96801925
+8c17c1259ed0c31bff3ee48ef8a6c4c54469c7769ffbc1c1,"Who is Hermann Ii, Count Palatine Of Lotharingia's paternal grandfather?",3,8e74e61b04f497cda285fdb613c9297b39c2f35c78a46bb4,0.5503014
+52150ca076ef6a156239c8fd2cb45983ba9b8cd446312f22,Where was the director of film Requiem For Dominic born?,1,52150ca076ef6a156239c8fd2cb45983ba9b8cd446312f22,0.99897987
+52150ca076ef6a156239c8fd2cb45983ba9b8cd446312f22,Where was the director of film Requiem For Dominic born?,2,feac1266126ef65a017535d551c19f741c29144a057bac71,0.019239197
+52150ca076ef6a156239c8fd2cb45983ba9b8cd446312f22,Where was the director of film Requiem For Dominic born?,3,df74c88567561261707555fa8504bf93678834b5fce5f943,0.0004439872
+61fa50e62866fbeeffc9822aa76f8f363578e72c1a7436af,What is the place of birth of Ibrahim Ibn Muhammad's mother?,1,61fa50e62866fbeeffc9822aa76f8f363578e72c1a7436af,0.998487
+61fa50e62866fbeeffc9822aa76f8f363578e72c1a7436af,What is the place of birth of Ibrahim Ibn Muhammad's mother?,2,8af6d8a5fbee80d8de94359d33a5894a0c5169c9a33c7509,4.374463e-05
+61fa50e62866fbeeffc9822aa76f8f363578e72c1a7436af,What is the place of birth of Ibrahim Ibn Muhammad's mother?,3,87932b85c9972f32d1e88477d93d8115a87d42eaf0091ee9,3.185652e-05
+4adca5ba1654b740d1e25c6e73d45aa2f3621537bed9086b,"Which film has the director died earlier, Kadamba (1983 Film) or Mickey'S Tent Show?",1,4adca5ba1654b740d1e25c6e73d45aa2f3621537bed9086b,0.99968755
+4adca5ba1654b740d1e25c6e73d45aa2f3621537bed9086b,"Which film has the director died earlier, Kadamba (1983 Film) or Mickey'S Tent Show?",2,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.9596765
+4adca5ba1654b740d1e25c6e73d45aa2f3621537bed9086b,"Which film has the director died earlier, Kadamba (1983 Film) or Mickey'S Tent Show?",3,dd3a33f7a133c0cf642f5c916366314d4a4833334e35e724,0.7349651
+3ec0722ff6e0d8361ed2ab093a992915fe5b1ddb10ee39a9,"Who was born first, Damien Hétu or Matan Cohen?",1,3ec0722ff6e0d8361ed2ab093a992915fe5b1ddb10ee39a9,0.9995461
+3ec0722ff6e0d8361ed2ab093a992915fe5b1ddb10ee39a9,"Who was born first, Damien Hétu or Matan Cohen?",2,8e33b783534c90d43c07617f4106a5056cb93ba21758b91c,0.02589376
+3ec0722ff6e0d8361ed2ab093a992915fe5b1ddb10ee39a9,"Who was born first, Damien Hétu or Matan Cohen?",3,24144554a83a55c968553f1def746d606e45881afe44feff,0.005720624
+16a0130f95804e9b0791a89e2d18e46f611c1620891658b8,Do director of film Happy Days (1929 Film) and director of film Hero (1982 Film) share the same nationality?,1,16a0130f95804e9b0791a89e2d18e46f611c1620891658b8,0.9998267
+16a0130f95804e9b0791a89e2d18e46f611c1620891658b8,Do director of film Happy Days (1929 Film) and director of film Hero (1982 Film) share the same nationality?,2,6e020fda91702d5ab63283c032fc436f3a6b7fd6c568aba7,0.09798464
+16a0130f95804e9b0791a89e2d18e46f611c1620891658b8,Do director of film Happy Days (1929 Film) and director of film Hero (1982 Film) share the same nationality?,3,df74c88567561261707555fa8504bf93678834b5fce5f943,0.010383491
+6e020fda91702d5ab63283c032fc436f3a6b7fd6c568aba7,"Which film has the director who is older than the other, A Hungarian Fairy Tale or The Hero Of My Dreams? ",1,6e020fda91702d5ab63283c032fc436f3a6b7fd6c568aba7,0.99929106
+6e020fda91702d5ab63283c032fc436f3a6b7fd6c568aba7,"Which film has the director who is older than the other, A Hungarian Fairy Tale or The Hero Of My Dreams? ",2,16a0130f95804e9b0791a89e2d18e46f611c1620891658b8,0.1707551
+6e020fda91702d5ab63283c032fc436f3a6b7fd6c568aba7,"Which film has the director who is older than the other, A Hungarian Fairy Tale or The Hero Of My Dreams? ",3,feac1266126ef65a017535d551c19f741c29144a057bac71,0.09726089
+7a0b2aa530cd3c6c74154e334e96c8aae27f68fa12d65bb1,Are both Flying Fifty-Five and Approaching Midnight from the same country?,1,d1cd11866ff12ea793c26c2d19db1259fcaa9cc2c7ebc1dc,1.5632497e-05
+7a0b2aa530cd3c6c74154e334e96c8aae27f68fa12d65bb1,Are both Flying Fifty-Five and Approaching Midnight from the same country?,2,7e9f113e82fc06b71e2d1791d35e6fb5d9548f7e2d37e68a,1.5604628e-05
+7a0b2aa530cd3c6c74154e334e96c8aae27f68fa12d65bb1,Are both Flying Fifty-Five and Approaching Midnight from the same country?,3,d4b716f9cc9884457dbe3369ee030d8b2c0e39a26036c592,1.5441774e-05
+14387a7ce67635d6f5c75fd29b6d3344758a8be64311ea6e,What is the place of birth of Anne Elizabeth Rector's husband?,1,14387a7ce67635d6f5c75fd29b6d3344758a8be64311ea6e,0.9988427
+14387a7ce67635d6f5c75fd29b6d3344758a8be64311ea6e,What is the place of birth of Anne Elizabeth Rector's husband?,2,bf38d1ee9dcb2c26f2a55cde167dae2eeb4047687079a45a,0.043379746
+14387a7ce67635d6f5c75fd29b6d3344758a8be64311ea6e,What is the place of birth of Anne Elizabeth Rector's husband?,3,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,0.029723765
+8e33b783534c90d43c07617f4106a5056cb93ba21758b91c,Was Bronisław Dembowski or Carlo Delle Piane born first?,1,8e33b783534c90d43c07617f4106a5056cb93ba21758b91c,0.999881
+8e33b783534c90d43c07617f4106a5056cb93ba21758b91c,Was Bronisław Dembowski or Carlo Delle Piane born first?,2,24144554a83a55c968553f1def746d606e45881afe44feff,0.0003933153
+8e33b783534c90d43c07617f4106a5056cb93ba21758b91c,Was Bronisław Dembowski or Carlo Delle Piane born first?,3,04a89b092e375c921d967a3cb6cb77c6caf28ff1ec3a0dbf,3.029669e-05
+d8cde3372e47344e4aed4fca9f307ea80b7172960d153325,"Which film has the director who was born later, Alludugaru or The Laughing Woman?",1,04a89b092e375c921d967a3cb6cb77c6caf28ff1ec3a0dbf,0.95929843
+d8cde3372e47344e4aed4fca9f307ea80b7172960d153325,"Which film has the director who was born later, Alludugaru or The Laughing Woman?",2,feac1266126ef65a017535d551c19f741c29144a057bac71,0.808332
+d8cde3372e47344e4aed4fca9f307ea80b7172960d153325,"Which film has the director who was born later, Alludugaru or The Laughing Woman?",3,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.22410566
+df74c88567561261707555fa8504bf93678834b5fce5f943,Who is the father of the director of film Kajraare?,1,df74c88567561261707555fa8504bf93678834b5fce5f943,0.99932647
+df74c88567561261707555fa8504bf93678834b5fce5f943,Who is the father of the director of film Kajraare?,2,b6fdd8f9d56c029b83580e36d6b3642dbb387a9d60da03df,0.41154888
+df74c88567561261707555fa8504bf93678834b5fce5f943,Who is the father of the director of film Kajraare?,3,59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,0.0016052842
+5f9a67c086d5912df85495d94281982fd5bc0abe67c3d266,"Which film has the director died earlier, The Coca-Cola Kid or Ayul Kaithi?",1,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.9733776
+5f9a67c086d5912df85495d94281982fd5bc0abe67c3d266,"Which film has the director died earlier, The Coca-Cola Kid or Ayul Kaithi?",2,feac1266126ef65a017535d551c19f741c29144a057bac71,0.034799483
+5f9a67c086d5912df85495d94281982fd5bc0abe67c3d266,"Which film has the director died earlier, The Coca-Cola Kid or Ayul Kaithi?",3,8d5000c1cbd7582bdf96735f824c713974eb9c63797a2e48,0.012311428
+fbbe6a3e39955eca34caa6cf37d147f6af697a70eb83a30c,"Who lived longer, Ole Arntzen or Harry Albert Willis?",1,fbbe6a3e39955eca34caa6cf37d147f6af697a70eb83a30c,0.9995204
+fbbe6a3e39955eca34caa6cf37d147f6af697a70eb83a30c,"Who lived longer, Ole Arntzen or Harry Albert Willis?",2,a404b5f1c4663d5e1aca2ddf6e5cc0f2b00a45c53c9181c9,1.8816774e-05
+fbbe6a3e39955eca34caa6cf37d147f6af697a70eb83a30c,"Who lived longer, Ole Arntzen or Harry Albert Willis?",3,e2f6373f7d78bc79306ca8454e38329e511a920f224a26f4,1.740127e-05
+0e1a7715016522e4285d6db621310d72b3db49464271cf47,"Which film came out earlier, Olavina Udugore or A Pearl In The Forest?",1,0e1a7715016522e4285d6db621310d72b3db49464271cf47,0.9994821
+0e1a7715016522e4285d6db621310d72b3db49464271cf47,"Which film came out earlier, Olavina Udugore or A Pearl In The Forest?",2,b058a6541fba988d17aa0172344f2b537993008bedd729d5,0.29545087
+0e1a7715016522e4285d6db621310d72b3db49464271cf47,"Which film came out earlier, Olavina Udugore or A Pearl In The Forest?",3,d9a612aad6d6d6f504633151e88dd819e36ed39303c0658b,0.1359043
+e9a287057b6f318c6cef9d0e2b12256c7b9473f4b783d38d,"Which song was released first, L'Histoire D'Une Fée, C'Est... or I Can Change (Lcd Soundsystem Song)?",1,e9a287057b6f318c6cef9d0e2b12256c7b9473f4b783d38d,0.9996259
+e9a287057b6f318c6cef9d0e2b12256c7b9473f4b783d38d,"Which song was released first, L'Histoire D'Une Fée, C'Est... or I Can Change (Lcd Soundsystem Song)?",2,b058a6541fba988d17aa0172344f2b537993008bedd729d5,0.0007608819
+e9a287057b6f318c6cef9d0e2b12256c7b9473f4b783d38d,"Which song was released first, L'Histoire D'Une Fée, C'Est... or I Can Change (Lcd Soundsystem Song)?",3,2820f5f6db2a73a11f6269437ced07bf92dd3636cfda02ee,0.00030065217
+e2f6373f7d78bc79306ca8454e38329e511a920f224a26f4,What is the place of birth of the director of film Sweepstakes (Film)?,1,4bc4e1176125b7f02876ca7fe1a08ec4d69b220e5a43f36f,0.017588513
+e2f6373f7d78bc79306ca8454e38329e511a920f224a26f4,What is the place of birth of the director of film Sweepstakes (Film)?,2,df74c88567561261707555fa8504bf93678834b5fce5f943,0.003997921
+e2f6373f7d78bc79306ca8454e38329e511a920f224a26f4,What is the place of birth of the director of film Sweepstakes (Film)?,3,78877dc3800b31f7831cf2f941219ee29493e35b53b059a1,0.0019006868
+d214078fd2eaaa345d77f1f06bbb7765253b476fec74d965,Where was the director of film En Aasai Rasave born?,1,d214078fd2eaaa345d77f1f06bbb7765253b476fec74d965,0.99918085
+d214078fd2eaaa345d77f1f06bbb7765253b476fec74d965,Where was the director of film En Aasai Rasave born?,2,feac1266126ef65a017535d551c19f741c29144a057bac71,0.0040710056
+d214078fd2eaaa345d77f1f06bbb7765253b476fec74d965,Where was the director of film En Aasai Rasave born?,3,df74c88567561261707555fa8504bf93678834b5fce5f943,0.001146544
+fa494d162bf954ce5abc26536928ea95cd81a82a832b2eb2,Where did the director of film The Eagle'S Eye study?,1,fa494d162bf954ce5abc26536928ea95cd81a82a832b2eb2,0.99871397
+fa494d162bf954ce5abc26536928ea95cd81a82a832b2eb2,Where did the director of film The Eagle'S Eye study?,2,8e55a3cb4c213a132ff3bfef7a6df6290427488e9b732883,0.0024912925
+fa494d162bf954ce5abc26536928ea95cd81a82a832b2eb2,Where did the director of film The Eagle'S Eye study?,3,59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,0.0004852275
+8e74e61b04f497cda285fdb613c9297b39c2f35c78a46bb4,"Who is Stephen, Count Palatine Of Simmern-Zweibrücken's maternal grandmother?",1,8e74e61b04f497cda285fdb613c9297b39c2f35c78a46bb4,0.99961203
+8e74e61b04f497cda285fdb613c9297b39c2f35c78a46bb4,"Who is Stephen, Count Palatine Of Simmern-Zweibrücken's maternal grandmother?",2,8c17c1259ed0c31bff3ee48ef8a6c4c54469c7769ffbc1c1,0.6319912
+8e74e61b04f497cda285fdb613c9297b39c2f35c78a46bb4,"Who is Stephen, Count Palatine Of Simmern-Zweibrücken's maternal grandmother?",3,7d16ac30561f6c27fcc89c64935d0f3a9367123cb90045fe,0.0007408479
+126e59f70d78a02c20e400e5b0ad54b85643c1d6bae5ac01,"What is the place of birth of the composer of film Yandé Codou, La Griotte De Senghor?",1,126e59f70d78a02c20e400e5b0ad54b85643c1d6bae5ac01,0.99875784
+126e59f70d78a02c20e400e5b0ad54b85643c1d6bae5ac01,"What is the place of birth of the composer of film Yandé Codou, La Griotte De Senghor?",2,f920e9270cd0ef6a7db5e9f31c830c591a4e6443084ad25d,8.137743e-05
+126e59f70d78a02c20e400e5b0ad54b85643c1d6bae5ac01,"What is the place of birth of the composer of film Yandé Codou, La Griotte De Senghor?",3,69a87bbff8b28f72b9fe9fc39b9c920466f6f939e8289675,4.104809e-05
+0bc3341fffaad3e92d14d64b539df741528ef4e2b76e9632,"Which film has the director who is older than the other, The Man With The Glass Eye or The Pom Pom Girls? ",1,36a31748c55843a2c648cdf6950227889b90f9fd10707c64,0.15501077
+0bc3341fffaad3e92d14d64b539df741528ef4e2b76e9632,"Which film has the director who is older than the other, The Man With The Glass Eye or The Pom Pom Girls? ",2,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.023090597
+0bc3341fffaad3e92d14d64b539df741528ef4e2b76e9632,"Which film has the director who is older than the other, The Man With The Glass Eye or The Pom Pom Girls? ",3,0df95375e082998e11c14660675ca1d4d28cbf40c094fa47,0.0168063
+10bc38f76e4c289c34c3bad79da384763efb03b79c19d98b,"Who is older, Maksim Kedrin or Peggy Pettitt?",1,10bc38f76e4c289c34c3bad79da384763efb03b79c19d98b,0.9992673
+10bc38f76e4c289c34c3bad79da384763efb03b79c19d98b,"Who is older, Maksim Kedrin or Peggy Pettitt?",2,4eeccc001e35bae71774c67f0e0041ba5da92bfed98ae62f,0.0015958796
+10bc38f76e4c289c34c3bad79da384763efb03b79c19d98b,"Who is older, Maksim Kedrin or Peggy Pettitt?",3,895501bb4736e0444f51d79ad89dbf1ba864fbe5746bf60d,1.6523385e-05
+d222c2ad4ec9ae9a46900e5d0cc6653c72760ed24077b7fa,"Which film was released more recently, Free China: The Courage To Believe or The Rebel Set?",1,d222c2ad4ec9ae9a46900e5d0cc6653c72760ed24077b7fa,0.99971575
+d222c2ad4ec9ae9a46900e5d0cc6653c72760ed24077b7fa,"Which film was released more recently, Free China: The Courage To Believe or The Rebel Set?",2,891a3e506822e0c94cdbc63c673cf78d6b919a7479c1e961,0.4775465
+d222c2ad4ec9ae9a46900e5d0cc6653c72760ed24077b7fa,"Which film was released more recently, Free China: The Courage To Believe or The Rebel Set?",3,b058a6541fba988d17aa0172344f2b537993008bedd729d5,0.0026174048
+7a35cea15d31d9e58aa0be79ce68499e365ba3a55c7456e5,"Are both villages, Little Rock Village and Jamal Beyg, located in the same country?",1,7a35cea15d31d9e58aa0be79ce68499e365ba3a55c7456e5,0.9998155
+7a35cea15d31d9e58aa0be79ce68499e365ba3a55c7456e5,"Are both villages, Little Rock Village and Jamal Beyg, located in the same country?",2,74f0f31fc1a89028c0fffa4052d8acb2c92729e0122c67b2,1.6781298e-05
+7a35cea15d31d9e58aa0be79ce68499e365ba3a55c7456e5,"Are both villages, Little Rock Village and Jamal Beyg, located in the same country?",3,65590dadf33ffaf6588e11574f9534f5bd2cfd6be6ed04af,1.677325e-05
+baf705ab274b5f13bc3bb9d0807a2042a4681a3ef60a6719,"Which film whose director is younger, The Goose Woman or You Can No Longer Remain Silent?",1,baf705ab274b5f13bc3bb9d0807a2042a4681a3ef60a6719,0.9995772
+baf705ab274b5f13bc3bb9d0807a2042a4681a3ef60a6719,"Which film whose director is younger, The Goose Woman or You Can No Longer Remain Silent?",2,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.017318629
+baf705ab274b5f13bc3bb9d0807a2042a4681a3ef60a6719,"Which film whose director is younger, The Goose Woman or You Can No Longer Remain Silent?",3,feac1266126ef65a017535d551c19f741c29144a057bac71,0.010826703
+69a87bbff8b28f72b9fe9fc39b9c920466f6f939e8289675,Where was the director of film La Grande Meute born?,1,69a87bbff8b28f72b9fe9fc39b9c920466f6f939e8289675,0.9989531
+69a87bbff8b28f72b9fe9fc39b9c920466f6f939e8289675,Where was the director of film La Grande Meute born?,2,ec96dad9bf806f1c5597178f476df39ad6603170efabe914,0.02995917
+69a87bbff8b28f72b9fe9fc39b9c920466f6f939e8289675,Where was the director of film La Grande Meute born?,3,df74c88567561261707555fa8504bf93678834b5fce5f943,0.00065812573
+336f4ca1a6c9a0eb88b4620d111a2f99412fafde0ccda30f,Are Edmonton/Twin Island Airpark and Mayerthorpe Airport located in the same country?,1,336f4ca1a6c9a0eb88b4620d111a2f99412fafde0ccda30f,0.9998661
+336f4ca1a6c9a0eb88b4620d111a2f99412fafde0ccda30f,Are Edmonton/Twin Island Airpark and Mayerthorpe Airport located in the same country?,2,7a35cea15d31d9e58aa0be79ce68499e365ba3a55c7456e5,0.00036794876
+336f4ca1a6c9a0eb88b4620d111a2f99412fafde0ccda30f,Are Edmonton/Twin Island Airpark and Mayerthorpe Airport located in the same country?,3,7e9f113e82fc06b71e2d1791d35e6fb5d9548f7e2d37e68a,2.2041344e-05
+36a31748c55843a2c648cdf6950227889b90f9fd10707c64,"Which film has the director who was born later, The Man Is Armed or Wolf Warrior?",1,36a31748c55843a2c648cdf6950227889b90f9fd10707c64,0.99952364
+36a31748c55843a2c648cdf6950227889b90f9fd10707c64,"Which film has the director who was born later, The Man Is Armed or Wolf Warrior?",2,04a89b092e375c921d967a3cb6cb77c6caf28ff1ec3a0dbf,0.9536363
+36a31748c55843a2c648cdf6950227889b90f9fd10707c64,"Which film has the director who was born later, The Man Is Armed or Wolf Warrior?",3,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.24254657
+448ddfeb3a427402454dcd05d7b41bd39204415877001ebb,Where did the director of film I Live On Danger die?,1,448ddfeb3a427402454dcd05d7b41bd39204415877001ebb,0.99817216
+448ddfeb3a427402454dcd05d7b41bd39204415877001ebb,Where did the director of film I Live On Danger die?,2,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.1094845
+448ddfeb3a427402454dcd05d7b41bd39204415877001ebb,Where did the director of film I Live On Danger die?,3,dd3a33f7a133c0cf642f5c916366314d4a4833334e35e724,0.092540234
+f2ed3f27a7f66e531b09f0eb6e57275ed822f1e5376e3530,"Which film came out earlier, Just Friends or Enkeyo Ketta Kural?",1,f2ed3f27a7f66e531b09f0eb6e57275ed822f1e5376e3530,0.99958307
+f2ed3f27a7f66e531b09f0eb6e57275ed822f1e5376e3530,"Which film came out earlier, Just Friends or Enkeyo Ketta Kural?",2,d9a612aad6d6d6f504633151e88dd819e36ed39303c0658b,0.43225116
+f2ed3f27a7f66e531b09f0eb6e57275ed822f1e5376e3530,"Which film came out earlier, Just Friends or Enkeyo Ketta Kural?",3,b058a6541fba988d17aa0172344f2b537993008bedd729d5,0.40610558
+13544cb436cbe98f1b565d58244f53f8b38eb63b4a5177e4,Who is Domhnall Mac Alasdair's paternal grandfather?,1,13544cb436cbe98f1b565d58244f53f8b38eb63b4a5177e4,0.9994311
+13544cb436cbe98f1b565d58244f53f8b38eb63b4a5177e4,Who is Domhnall Mac Alasdair's paternal grandfather?,2,5d2435c261cf4ec0635d68b92006f7926e6739eea53c202b,0.0075400867
+13544cb436cbe98f1b565d58244f53f8b38eb63b4a5177e4,Who is Domhnall Mac Alasdair's paternal grandfather?,3,32482945828a5aab162d7534d56b2b39f5292f6cd0fe0587,0.0016477486
+14d2d8683a1b9eeec9c699b34d541076b43ecdd3eb37b30f,"Who is John Of Luxembourg, Count Of Soissons's maternal grandfather?",1,14d2d8683a1b9eeec9c699b34d541076b43ecdd3eb37b30f,0.99952376
+14d2d8683a1b9eeec9c699b34d541076b43ecdd3eb37b30f,"Who is John Of Luxembourg, Count Of Soissons's maternal grandfather?",2,8e74e61b04f497cda285fdb613c9297b39c2f35c78a46bb4,0.16431385
+14d2d8683a1b9eeec9c699b34d541076b43ecdd3eb37b30f,"Who is John Of Luxembourg, Count Of Soissons's maternal grandfather?",3,8c17c1259ed0c31bff3ee48ef8a6c4c54469c7769ffbc1c1,0.09588525
+5ea1b7cf56629956855b229046acb45cc77f03b262ce7aaa,What is the cause of death of director of film Disgraced!?,1,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.011424187
+5ea1b7cf56629956855b229046acb45cc77f03b262ce7aaa,What is the cause of death of director of film Disgraced!?,2,d8a4ba25a31cde41c5ce4581f3c4cbd827cc6fc61b31ffe1,0.00093860016
+5ea1b7cf56629956855b229046acb45cc77f03b262ce7aaa,What is the cause of death of director of film Disgraced!?,3,feac1266126ef65a017535d551c19f741c29144a057bac71,0.00039835187
+dde2c006bfa530403e8c9bafc6497d0e65aad8cf1b6813ee,Which country the director of film Mrs. Gibbons' Boys (Film) is from?,1,dde2c006bfa530403e8c9bafc6497d0e65aad8cf1b6813ee,0.9994236
+dde2c006bfa530403e8c9bafc6497d0e65aad8cf1b6813ee,Which country the director of film Mrs. Gibbons' Boys (Film) is from?,2,59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,0.041259725
+dde2c006bfa530403e8c9bafc6497d0e65aad8cf1b6813ee,Which country the director of film Mrs. Gibbons' Boys (Film) is from?,3,d1cd11866ff12ea793c26c2d19db1259fcaa9cc2c7ebc1dc,0.019388001
+8ef697f16406fa0adcfe2782da3091e6a4000ce420f70720,"Who is the mother of Nicholas Crispo, Lord Of Syros?",1,8ef697f16406fa0adcfe2782da3091e6a4000ce420f70720,0.99965286
+8ef697f16406fa0adcfe2782da3091e6a4000ce420f70720,"Who is the mother of Nicholas Crispo, Lord Of Syros?",2,8af6d8a5fbee80d8de94359d33a5894a0c5169c9a33c7509,0.0003248667
+8ef697f16406fa0adcfe2782da3091e6a4000ce420f70720,"Who is the mother of Nicholas Crispo, Lord Of Syros?",3,005c463249f9b25799798627fade1ca97e3dede4f8245a23,4.5468576e-05
+1f1f8f7d0e3fe9ec70cf846d6d3f8e64167a9d3a571484f9,"Who is the paternal grandfather of Louis Iv, Count Of Chiny?",1,1f1f8f7d0e3fe9ec70cf846d6d3f8e64167a9d3a571484f9,0.9995919
+1f1f8f7d0e3fe9ec70cf846d6d3f8e64167a9d3a571484f9,"Who is the paternal grandfather of Louis Iv, Count Of Chiny?",2,8c17c1259ed0c31bff3ee48ef8a6c4c54469c7769ffbc1c1,0.26865792
+1f1f8f7d0e3fe9ec70cf846d6d3f8e64167a9d3a571484f9,"Who is the paternal grandfather of Louis Iv, Count Of Chiny?",3,8e74e61b04f497cda285fdb613c9297b39c2f35c78a46bb4,0.011009676
+478b8a4df45d2ca383f2a7b1f446915ade95b4d32be9229f,"What is the date of birth of George Ernest, Count Of Erbach-Wildenstein's father?",1,478b8a4df45d2ca383f2a7b1f446915ade95b4d32be9229f,0.9988194
+478b8a4df45d2ca383f2a7b1f446915ade95b4d32be9229f,"What is the date of birth of George Ernest, Count Of Erbach-Wildenstein's father?",2,14d2d8683a1b9eeec9c699b34d541076b43ecdd3eb37b30f,7.3481664e-05
+478b8a4df45d2ca383f2a7b1f446915ade95b4d32be9229f,"What is the date of birth of George Ernest, Count Of Erbach-Wildenstein's father?",3,8c17c1259ed0c31bff3ee48ef8a6c4c54469c7769ffbc1c1,6.447079e-05
+883b4b8a680112178587dfb9511033c219999312a8e283e8,What nationality is the director of film World And Time Enough?,1,883b4b8a680112178587dfb9511033c219999312a8e283e8,0.99868435
+883b4b8a680112178587dfb9511033c219999312a8e283e8,What nationality is the director of film World And Time Enough?,2,d214078fd2eaaa345d77f1f06bbb7765253b476fec74d965,0.0011306475
+883b4b8a680112178587dfb9511033c219999312a8e283e8,What nationality is the director of film World And Time Enough?,3,004f56357e6d3851026b1a760360d2edc0e23d1d997bfea8,0.0010056305
+54a23d6cb838dd2a56c1ef30e4b4ecf742735f659c470879,Where was the director of film The Dangerous Talent born?,1,54a23d6cb838dd2a56c1ef30e4b4ecf742735f659c470879,0.9990779
+54a23d6cb838dd2a56c1ef30e4b4ecf742735f659c470879,Where was the director of film The Dangerous Talent born?,2,feac1266126ef65a017535d551c19f741c29144a057bac71,0.13802062
+54a23d6cb838dd2a56c1ef30e4b4ecf742735f659c470879,Where was the director of film The Dangerous Talent born?,3,59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,0.002838035
+89c07ef3f30f2e55bae0db0e61b73f9213bf9cac755d3add,"Which album was released more recently, Full Length Lp or Blow In The Wind?",1,89c07ef3f30f2e55bae0db0e61b73f9213bf9cac755d3add,0.9995179
+89c07ef3f30f2e55bae0db0e61b73f9213bf9cac755d3add,"Which album was released more recently, Full Length Lp or Blow In The Wind?",2,d9a612aad6d6d6f504633151e88dd819e36ed39303c0658b,5.85247e-05
+89c07ef3f30f2e55bae0db0e61b73f9213bf9cac755d3add,"Which album was released more recently, Full Length Lp or Blow In The Wind?",3,b058a6541fba988d17aa0172344f2b537993008bedd729d5,4.27823e-05
+36844ec83d10cb7589958db002ce0acf4524a1bd5f23dc22,Who is the paternal grandfather of Trịnh Doanh?,1,32482945828a5aab162d7534d56b2b39f5292f6cd0fe0587,0.0077285725
+36844ec83d10cb7589958db002ce0acf4524a1bd5f23dc22,Who is the paternal grandfather of Trịnh Doanh?,2,4b564dc097e7bbbd647ac1a6e70a11ab76351cc8415a733f,2.0263362e-05
+36844ec83d10cb7589958db002ce0acf4524a1bd5f23dc22,Who is the paternal grandfather of Trịnh Doanh?,3,60163d86d206aaa179b61a2d43b27a7ec909b724b5685b50,1.7299311e-05
+468e9ec2970d43aaea9e630d607c971e70bfc4488c526d65,Are Breville and Jakab Industries both located in the same country?,1,7a35cea15d31d9e58aa0be79ce68499e365ba3a55c7456e5,0.0064234203
+468e9ec2970d43aaea9e630d607c971e70bfc4488c526d65,Are Breville and Jakab Industries both located in the same country?,2,4eb5e12b259e10e05b72f9afe6c05e40bf42a1911896e417,0.0034834738
+468e9ec2970d43aaea9e630d607c971e70bfc4488c526d65,Are Breville and Jakab Industries both located in the same country?,3,7e9f113e82fc06b71e2d1791d35e6fb5d9548f7e2d37e68a,1.7102875e-05
+c37d17a5c509660a9c90556ef5c695867186af73a9ab4390,"Which film was released more recently, Eager Bodies or We Dive At Dawn?",1,c37d17a5c509660a9c90556ef5c695867186af73a9ab4390,0.99972075
+c37d17a5c509660a9c90556ef5c695867186af73a9ab4390,"Which film was released more recently, Eager Bodies or We Dive At Dawn?",2,891a3e506822e0c94cdbc63c673cf78d6b919a7479c1e961,0.8956351
+c37d17a5c509660a9c90556ef5c695867186af73a9ab4390,"Which film was released more recently, Eager Bodies or We Dive At Dawn?",3,b058a6541fba988d17aa0172344f2b537993008bedd729d5,0.022029936
+b18a8d110828baf5ddd8cb6c3f7bc31fa54f8e47523cf13f,Where was the director of film Ashwamedha (Film) born?,1,8d5000c1cbd7582bdf96735f824c713974eb9c63797a2e48,0.06642209
+b18a8d110828baf5ddd8cb6c3f7bc31fa54f8e47523cf13f,Where was the director of film Ashwamedha (Film) born?,2,feac1266126ef65a017535d551c19f741c29144a057bac71,0.019475
+b18a8d110828baf5ddd8cb6c3f7bc31fa54f8e47523cf13f,Where was the director of film Ashwamedha (Film) born?,3,59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,0.0040070396
+e8414789dbe64525d8927dc2ff636d000a1f12af8d03b3a8,"Which film has the director born earlier, Dos Basuras or Day Of The Painter?",1,feac1266126ef65a017535d551c19f741c29144a057bac71,0.83722377
+e8414789dbe64525d8927dc2ff636d000a1f12af8d03b3a8,"Which film has the director born earlier, Dos Basuras or Day Of The Painter?",2,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.61047965
+e8414789dbe64525d8927dc2ff636d000a1f12af8d03b3a8,"Which film has the director born earlier, Dos Basuras or Day Of The Painter?",3,b058a6541fba988d17aa0172344f2b537993008bedd729d5,0.0016017511
+4015ec843357a57ba15b7c35c8009145d500a305dbd67416,"Who was born first, Lương Hoàng Nam or Ross Mcmillan?",1,4015ec843357a57ba15b7c35c8009145d500a305dbd67416,0.99961424
+4015ec843357a57ba15b7c35c8009145d500a305dbd67416,"Who was born first, Lương Hoàng Nam or Ross Mcmillan?",2,8e33b783534c90d43c07617f4106a5056cb93ba21758b91c,0.004433721
+4015ec843357a57ba15b7c35c8009145d500a305dbd67416,"Who was born first, Lương Hoàng Nam or Ross Mcmillan?",3,24144554a83a55c968553f1def746d606e45881afe44feff,0.00037212312
+512800a34732b97170358b8e1372c0f708126ae08372c441,"Which country Eric Longlegs, Lord Of Langeland's father is from?",1,f47a70ebc3471bb3fc81f93c8c812af1fb71048a720c3a47,0.016335016
+512800a34732b97170358b8e1372c0f708126ae08372c441,"Which country Eric Longlegs, Lord Of Langeland's father is from?",2,8b06481342514795c94dba8c3908439d584f6e4cdd87c2cd,5.3610565e-05
+512800a34732b97170358b8e1372c0f708126ae08372c441,"Which country Eric Longlegs, Lord Of Langeland's father is from?",3,79e5312122eb8a7811f0ac120e76d2ff7576287cab7c6a63,3.3692726e-05
+a7fc0716a3d94af7381c25a4e1c0eb2e697631de06c9ebb2,What is the place of birth of the director of film Northville Cemetery Massacre?,1,4bc4e1176125b7f02876ca7fe1a08ec4d69b220e5a43f36f,0.004073798
+a7fc0716a3d94af7381c25a4e1c0eb2e697631de06c9ebb2,What is the place of birth of the director of film Northville Cemetery Massacre?,2,df74c88567561261707555fa8504bf93678834b5fce5f943,0.00023742807
+a7fc0716a3d94af7381c25a4e1c0eb2e697631de06c9ebb2,What is the place of birth of the director of film Northville Cemetery Massacre?,3,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.0001091228
+b9995c8b89dd0bc26c2f2b4a77c7604ca4b60339b79a7744,Which country the director of film Secrets Of A Door-To-Door Salesman is from?,1,b9995c8b89dd0bc26c2f2b4a77c7604ca4b60339b79a7744,0.99913186
+b9995c8b89dd0bc26c2f2b4a77c7604ca4b60339b79a7744,Which country the director of film Secrets Of A Door-To-Door Salesman is from?,2,59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,0.019332593
+b9995c8b89dd0bc26c2f2b4a77c7604ca4b60339b79a7744,Which country the director of film Secrets Of A Door-To-Door Salesman is from?,3,d1cd11866ff12ea793c26c2d19db1259fcaa9cc2c7ebc1dc,0.0054181768
+5e46e20a637625300d8e198a1d11435e9c83592bb527321a,Where did the director of film The Little Door Into The World die?,1,5e46e20a637625300d8e198a1d11435e9c83592bb527321a,0.9989209
+5e46e20a637625300d8e198a1d11435e9c83592bb527321a,Where did the director of film The Little Door Into The World die?,2,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.11735319
+5e46e20a637625300d8e198a1d11435e9c83592bb527321a,Where did the director of film The Little Door Into The World die?,3,d214078fd2eaaa345d77f1f06bbb7765253b476fec74d965,0.0024630527
+4bc4e1176125b7f02876ca7fe1a08ec4d69b220e5a43f36f,Where was the place of death of the director of film The Divine Nymph?,1,4bc4e1176125b7f02876ca7fe1a08ec4d69b220e5a43f36f,0.99877065
+4bc4e1176125b7f02876ca7fe1a08ec4d69b220e5a43f36f,Where was the place of death of the director of film The Divine Nymph?,2,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.0060001817
+4bc4e1176125b7f02876ca7fe1a08ec4d69b220e5a43f36f,Where was the place of death of the director of film The Divine Nymph?,3,d8a4ba25a31cde41c5ce4581f3c4cbd827cc6fc61b31ffe1,0.0015681187
+6ed335d2f7555854fe36dce42f97d56693aba9a53fe82406,"Which film was released earlier, Battle For Brooklyn or Crime In The Streets?",1,6ed335d2f7555854fe36dce42f97d56693aba9a53fe82406,0.99969196
+6ed335d2f7555854fe36dce42f97d56693aba9a53fe82406,"Which film was released earlier, Battle For Brooklyn or Crime In The Streets?",2,b058a6541fba988d17aa0172344f2b537993008bedd729d5,0.7094187
+6ed335d2f7555854fe36dce42f97d56693aba9a53fe82406,"Which film was released earlier, Battle For Brooklyn or Crime In The Streets?",3,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.0707624
+10f214e9e44886b887a7fe742c949ab4d18d851df9ee68d2,Where did Agnes Of Meissen's mother die?,1,10f214e9e44886b887a7fe742c949ab4d18d851df9ee68d2,0.99890065
+10f214e9e44886b887a7fe742c949ab4d18d851df9ee68d2,Where did Agnes Of Meissen's mother die?,2,8af6d8a5fbee80d8de94359d33a5894a0c5169c9a33c7509,2.4246026e-05
+10f214e9e44886b887a7fe742c949ab4d18d851df9ee68d2,Where did Agnes Of Meissen's mother die?,3,9354c44bd9db99cfb2b8f803def7504f1a8bf16e182b5514,1.9082128e-05
+08329413599479c4da9c37f070361d36e0a440aa56deda69,Which award the director of film Mithunam (2012 Film) received?,1,6e020fda91702d5ab63283c032fc436f3a6b7fd6c568aba7,0.0010360122
+08329413599479c4da9c37f070361d36e0a440aa56deda69,Which award the director of film Mithunam (2012 Film) received?,2,a404b5f1c4663d5e1aca2ddf6e5cc0f2b00a45c53c9181c9,0.0006256683
+08329413599479c4da9c37f070361d36e0a440aa56deda69,Which award the director of film Mithunam (2012 Film) received?,3,e2f6373f7d78bc79306ca8454e38329e511a920f224a26f4,0.00059676584
+4a4a07a6b382ffd4b59514dc2c3f2263cd97e0a17ef08897,Did Kenneth Duberstein and Lee Mcgeorge Durrell share the same nationality?,1,4a4a07a6b382ffd4b59514dc2c3f2263cd97e0a17ef08897,0.9999181
+4a4a07a6b382ffd4b59514dc2c3f2263cd97e0a17ef08897,Did Kenneth Duberstein and Lee Mcgeorge Durrell share the same nationality?,2,fe435be4a12cc594fc8802bfcf90f347b021af5ad41e8bff,0.0004676788
+4a4a07a6b382ffd4b59514dc2c3f2263cd97e0a17ef08897,Did Kenneth Duberstein and Lee Mcgeorge Durrell share the same nationality?,3,0f356f26b81fba8d85f6f24e82f2d11dfdd8ee32bc7025bd,3.170166e-05
+4eb5e12b259e10e05b72f9afe6c05e40bf42a1911896e417,"Are both museums, Halifax Historical Museum and William P. Didusch Center For Urologic History, located in the same country?",1,4eb5e12b259e10e05b72f9afe6c05e40bf42a1911896e417,0.9998123
+4eb5e12b259e10e05b72f9afe6c05e40bf42a1911896e417,"Are both museums, Halifax Historical Museum and William P. Didusch Center For Urologic History, located in the same country?",2,0c7274b5100ebeee9e7c1437949590cf5722c3f00b454f92,5.966948e-05
+4eb5e12b259e10e05b72f9afe6c05e40bf42a1911896e417,"Are both museums, Halifax Historical Museum and William P. Didusch Center For Urologic History, located in the same country?",3,4b75cc29103067312be5cecb01b75f9a573d51a384f3fc99,3.5969017e-05
+d0719e52ba728ca7ce774af5f3800a9096561ed96e75594e,Are Kakwa River and Bighead River located in the same country?,1,d0719e52ba728ca7ce774af5f3800a9096561ed96e75594e,0.9998747
+d0719e52ba728ca7ce774af5f3800a9096561ed96e75594e,Are Kakwa River and Bighead River located in the same country?,2,7a35cea15d31d9e58aa0be79ce68499e365ba3a55c7456e5,0.008645356
+d0719e52ba728ca7ce774af5f3800a9096561ed96e75594e,Are Kakwa River and Bighead River located in the same country?,3,336f4ca1a6c9a0eb88b4620d111a2f99412fafde0ccda30f,0.000840931
+853a76d5cce07034f8d10c1f94bd8beb70f4e34f4a5638ee,"When is Henry Ii, Margrave Of The Nordmark's father's birthday?",1,853a76d5cce07034f8d10c1f94bd8beb70f4e34f4a5638ee,0.9989209
+853a76d5cce07034f8d10c1f94bd8beb70f4e34f4a5638ee,"When is Henry Ii, Margrave Of The Nordmark's father's birthday?",2,40877325ac5773a0259a6e7a86ab477a4654a4cf8f94c149,8.5569955e-05
+853a76d5cce07034f8d10c1f94bd8beb70f4e34f4a5638ee,"When is Henry Ii, Margrave Of The Nordmark's father's birthday?",3,8c17c1259ed0c31bff3ee48ef8a6c4c54469c7769ffbc1c1,3.543662e-05
+41787a3d84bc8bec3d0d10839881ec35adfb4142d49b5482,When is the director of film Les Tuche 2 's birthday?,1,41787a3d84bc8bec3d0d10839881ec35adfb4142d49b5482,0.99821484
+41787a3d84bc8bec3d0d10839881ec35adfb4142d49b5482,When is the director of film Les Tuche 2 's birthday?,2,78877dc3800b31f7831cf2f941219ee29493e35b53b059a1,0.0006883958
+41787a3d84bc8bec3d0d10839881ec35adfb4142d49b5482,When is the director of film Les Tuche 2 's birthday?,3,6a1b88bdf6b4452fbdbbc79f52f47b1ef42fa1c058e9d236,0.00058660685
+37eb33998e8bd7ffe40969ac3161ad695983fcf651dac639,Do Thomas Wykes (Chronicler) and Robert Simpson (Meteorologist) have the same nationality?,1,37eb33998e8bd7ffe40969ac3161ad695983fcf651dac639,0.9999169
+37eb33998e8bd7ffe40969ac3161ad695983fcf651dac639,Do Thomas Wykes (Chronicler) and Robert Simpson (Meteorologist) have the same nationality?,2,3ff90e4a03bbab1ee558b8f8c49f99ede2a353921d9a63ad,0.033430494
+37eb33998e8bd7ffe40969ac3161ad695983fcf651dac639,Do Thomas Wykes (Chronicler) and Robert Simpson (Meteorologist) have the same nationality?,3,ffb74b527f19f9e8c0fdc8a392174309f50696c95cbd7c97,0.00011969283
+4eeccc001e35bae71774c67f0e0041ba5da92bfed98ae62f,"Who is younger, Vrindavan Lal Verma or Kerem İnan?",1,4eeccc001e35bae71774c67f0e0041ba5da92bfed98ae62f,0.9990439
+4eeccc001e35bae71774c67f0e0041ba5da92bfed98ae62f,"Who is younger, Vrindavan Lal Verma or Kerem İnan?",2,0292c4357991b8aba2eb4fc1f5cc48af3ce3724b33287e34,0.00014361205
+4eeccc001e35bae71774c67f0e0041ba5da92bfed98ae62f,"Who is younger, Vrindavan Lal Verma or Kerem İnan?",3,8af6d8a5fbee80d8de94359d33a5894a0c5169c9a33c7509,1.5653291e-05
+444af702474de881b7b810a1aa62ff8de378e213c31300fe,When was John Scott (Died 1533)'s father born?,1,0b8977d31c66e37a03d592bb1a798d21c257493fc55cda10,0.00014023065
+444af702474de881b7b810a1aa62ff8de378e213c31300fe,When was John Scott (Died 1533)'s father born?,2,4ad3d43b4e53817be115414af1638d04328f437bb748ebf1,7.4395364e-05
+444af702474de881b7b810a1aa62ff8de378e213c31300fe,When was John Scott (Died 1533)'s father born?,3,e367499fba5b229051bc79021a1ad30bbd066b1f89c277f6,5.5346452e-05
+72b0975d7878f72d5b0142cf8e1551a8b8f124eaaa99a715,"Which film has the director who was born first, Our Crazy Aunts or Dearest (2014 Film)?",1,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.031513415
+72b0975d7878f72d5b0142cf8e1551a8b8f124eaaa99a715,"Which film has the director who was born first, Our Crazy Aunts or Dearest (2014 Film)?",2,dde2c006bfa530403e8c9bafc6497d0e65aad8cf1b6813ee,0.0065743565
+72b0975d7878f72d5b0142cf8e1551a8b8f124eaaa99a715,"Which film has the director who was born first, Our Crazy Aunts or Dearest (2014 Film)?",3,df74c88567561261707555fa8504bf93678834b5fce5f943,0.0047938814
+e04fb667c00a2c99ad1a1a102b81865d021708de9a64e58e,What nationality is the director of film The Tower Of Lies?,1,e04fb667c00a2c99ad1a1a102b81865d021708de9a64e58e,0.9988846
+e04fb667c00a2c99ad1a1a102b81865d021708de9a64e58e,What nationality is the director of film The Tower Of Lies?,2,feac1266126ef65a017535d551c19f741c29144a057bac71,0.01018375
+e04fb667c00a2c99ad1a1a102b81865d021708de9a64e58e,What nationality is the director of film The Tower Of Lies?,3,59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,0.01004863
+d7159102f8034cb0ad4834df59b0734f052a63c3a1d0f0bb,"Which film has the director who was born first, Who'S Your Brother? or The Last Outpost (1951 Film)?",1,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.044569537
+d7159102f8034cb0ad4834df59b0734f052a63c3a1d0f0bb,"Which film has the director who was born first, Who'S Your Brother? or The Last Outpost (1951 Film)?",2,df74c88567561261707555fa8504bf93678834b5fce5f943,0.005119992
+d7159102f8034cb0ad4834df59b0734f052a63c3a1d0f0bb,"Which film has the director who was born first, Who'S Your Brother? or The Last Outpost (1951 Film)?",3,dde2c006bfa530403e8c9bafc6497d0e65aad8cf1b6813ee,0.003414286
+51abb90e2dff9602a1fc42256819bf66b0c6b4746a872307,Where was the place of death of Halldóra Eldjárn's husband?,1,bf38d1ee9dcb2c26f2a55cde167dae2eeb4047687079a45a,0.03927399
+51abb90e2dff9602a1fc42256819bf66b0c6b4746a872307,Where was the place of death of Halldóra Eldjárn's husband?,2,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,7.9161066e-05
+51abb90e2dff9602a1fc42256819bf66b0c6b4746a872307,Where was the place of death of Halldóra Eldjárn's husband?,3,10f214e9e44886b887a7fe742c949ab4d18d851df9ee68d2,2.8393248e-05
+be2f02ca083a2f21854d8f24984ac450cf11215000ec1910,What is the date of death of Parimala Nagappa's husband?,1,580cf59074e3c57611569b2ea0f0916626954abb02804e6b,0.00037940353
+be2f02ca083a2f21854d8f24984ac450cf11215000ec1910,What is the date of death of Parimala Nagappa's husband?,2,2f09ba9e44f712209fb73586e9f4fcc3b4080409689fe4b0,2.828679e-05
+be2f02ca083a2f21854d8f24984ac450cf11215000ec1910,What is the date of death of Parimala Nagappa's husband?,3,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,2.7179807e-05
+c67a466a8e3d23bf26e8943352ef9239007495c8bd6febec,Was Shahanuddin Choudhury or Domenico Distilo born first?,1,c67a466a8e3d23bf26e8943352ef9239007495c8bd6febec,0.99983394
+c67a466a8e3d23bf26e8943352ef9239007495c8bd6febec,Was Shahanuddin Choudhury or Domenico Distilo born first?,2,8e33b783534c90d43c07617f4106a5056cb93ba21758b91c,0.00777753
+c67a466a8e3d23bf26e8943352ef9239007495c8bd6febec,Was Shahanuddin Choudhury or Domenico Distilo born first?,3,24144554a83a55c968553f1def746d606e45881afe44feff,0.0011284531
+eb67e4946d8c54784c30aa61dc756d82e2ed9030765f3ca5,"What is the date of death of William Jolliffe, 4Th Baron Hylton's father?",1,f47a70ebc3471bb3fc81f93c8c812af1fb71048a720c3a47,2.6807451e-05
+eb67e4946d8c54784c30aa61dc756d82e2ed9030765f3ca5,"What is the date of death of William Jolliffe, 4Th Baron Hylton's father?",2,580cf59074e3c57611569b2ea0f0916626954abb02804e6b,1.9490446e-05
+eb67e4946d8c54784c30aa61dc756d82e2ed9030765f3ca5,"What is the date of death of William Jolliffe, 4Th Baron Hylton's father?",3,4b75cc29103067312be5cecb01b75f9a573d51a384f3fc99,1.7757422e-05
+b6fdd8f9d56c029b83580e36d6b3642dbb387a9d60da03df,Who is the father of the director of film Sources Of Life?,1,b6fdd8f9d56c029b83580e36d6b3642dbb387a9d60da03df,0.9988838
+b6fdd8f9d56c029b83580e36d6b3642dbb387a9d60da03df,Who is the father of the director of film Sources Of Life?,2,df74c88567561261707555fa8504bf93678834b5fce5f943,0.86882234
+b6fdd8f9d56c029b83580e36d6b3642dbb387a9d60da03df,Who is the father of the director of film Sources Of Life?,3,feac1266126ef65a017535d551c19f741c29144a057bac71,0.0015629259
+8e5c5292e42825f60d52f62ffc53006513725eb27a831c48,Are both The Bloom Of Yesterday and Fireworks (1954 Film) from the same country?,1,8e5c5292e42825f60d52f62ffc53006513725eb27a831c48,0.9998368
+8e5c5292e42825f60d52f62ffc53006513725eb27a831c48,Are both The Bloom Of Yesterday and Fireworks (1954 Film) from the same country?,2,d1cd11866ff12ea793c26c2d19db1259fcaa9cc2c7ebc1dc,9.900884e-05
+8e5c5292e42825f60d52f62ffc53006513725eb27a831c48,Are both The Bloom Of Yesterday and Fireworks (1954 Film) from the same country?,3,f2ed3f27a7f66e531b09f0eb6e57275ed822f1e5376e3530,3.462907e-05
+180297f3e27b4439fddc8a088a52f37a1bae1605d57602f2,"Which film whose director is younger, Mr. Fix-It or People Not As Bad As They Seem?",1,feac1266126ef65a017535d551c19f741c29144a057bac71,0.013852907
+180297f3e27b4439fddc8a088a52f37a1bae1605d57602f2,"Which film whose director is younger, Mr. Fix-It or People Not As Bad As They Seem?",2,8d5000c1cbd7582bdf96735f824c713974eb9c63797a2e48,0.009350539
+180297f3e27b4439fddc8a088a52f37a1bae1605d57602f2,"Which film whose director is younger, Mr. Fix-It or People Not As Bad As They Seem?",3,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.007866217
+214b402d003800d93cac0719cd79368392a320201cef08c9,What is the place of birth of the director of film Sweet Substitute (Film)?,1,4bc4e1176125b7f02876ca7fe1a08ec4d69b220e5a43f36f,0.006735432
+214b402d003800d93cac0719cd79368392a320201cef08c9,What is the place of birth of the director of film Sweet Substitute (Film)?,2,df74c88567561261707555fa8504bf93678834b5fce5f943,0.0020165106
+214b402d003800d93cac0719cd79368392a320201cef08c9,What is the place of birth of the director of film Sweet Substitute (Film)?,3,78877dc3800b31f7831cf2f941219ee29493e35b53b059a1,0.0005073489
+0d5f36c56955cf6fd4509bacb40473a5f5a3e01e8638e0a9,"Which film came out earlier, Where Are You? I'M Here or Patnam Vachina Pativrathalu?",1,0d5f36c56955cf6fd4509bacb40473a5f5a3e01e8638e0a9,0.9993511
+0d5f36c56955cf6fd4509bacb40473a5f5a3e01e8638e0a9,"Which film came out earlier, Where Are You? I'M Here or Patnam Vachina Pativrathalu?",2,d9a612aad6d6d6f504633151e88dd819e36ed39303c0658b,0.1534918
+0d5f36c56955cf6fd4509bacb40473a5f5a3e01e8638e0a9,"Which film came out earlier, Where Are You? I'M Here or Patnam Vachina Pativrathalu?",3,b058a6541fba988d17aa0172344f2b537993008bedd729d5,0.093138784
+67153c83335bef7039781a9416b3497c9dcf884dcd7bda0b,"Which film has the director born first, Stella'S Oorlog or Don Juan In A Girls' School?",1,67153c83335bef7039781a9416b3497c9dcf884dcd7bda0b,0.9995648
+67153c83335bef7039781a9416b3497c9dcf884dcd7bda0b,"Which film has the director born first, Stella'S Oorlog or Don Juan In A Girls' School?",2,dd3a33f7a133c0cf642f5c916366314d4a4833334e35e724,0.33016092
+67153c83335bef7039781a9416b3497c9dcf884dcd7bda0b,"Which film has the director born first, Stella'S Oorlog or Don Juan In A Girls' School?",3,e2f6373f7d78bc79306ca8454e38329e511a920f224a26f4,0.0032346854
+40877325ac5773a0259a6e7a86ab477a4654a4cf8f94c149,"What is the date of birth of Magnus I, Duke Of Mecklenburg's mother?",1,40877325ac5773a0259a6e7a86ab477a4654a4cf8f94c149,0.9982857
+40877325ac5773a0259a6e7a86ab477a4654a4cf8f94c149,"What is the date of birth of Magnus I, Duke Of Mecklenburg's mother?",2,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,0.0033736213
+40877325ac5773a0259a6e7a86ab477a4654a4cf8f94c149,"What is the date of birth of Magnus I, Duke Of Mecklenburg's mother?",3,f47a70ebc3471bb3fc81f93c8c812af1fb71048a720c3a47,0.000111640846
+62b8538f15d1af02f2e87a24e7ee549034906c5a870cac97,Are both directors of films It'S Never Too Late (1956 Film) and The Slaughter Rule from the same country?,1,62b8538f15d1af02f2e87a24e7ee549034906c5a870cac97,0.99982506
+62b8538f15d1af02f2e87a24e7ee549034906c5a870cac97,Are both directors of films It'S Never Too Late (1956 Film) and The Slaughter Rule from the same country?,2,ff147ffa9d6d295cdd0bfe0d0c99ec8dc6c212c3a4d3086a,0.7758836
+62b8538f15d1af02f2e87a24e7ee549034906c5a870cac97,Are both directors of films It'S Never Too Late (1956 Film) and The Slaughter Rule from the same country?,3,d1cd11866ff12ea793c26c2d19db1259fcaa9cc2c7ebc1dc,0.0037636613
+0df95375e082998e11c14660675ca1d4d28cbf40c094fa47,"Which film has the director died first, Mcguire Of The Mounted or The Man Unconquerable?",1,0df95375e082998e11c14660675ca1d4d28cbf40c094fa47,0.99966025
+0df95375e082998e11c14660675ca1d4d28cbf40c094fa47,"Which film has the director died first, Mcguire Of The Mounted or The Man Unconquerable?",2,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.8372052
+0df95375e082998e11c14660675ca1d4d28cbf40c094fa47,"Which film has the director died first, Mcguire Of The Mounted or The Man Unconquerable?",3,23c31f6cbc44072212b709b7348b2b6f8a012d997aaa706d,0.5332232
+edb60ceb434cc994df4b00ae08a49efb2f66a2ba0df1adf0,"Who is Charles James Irwin Grant, 6Th Baron De Longueuil's paternal grandfather?",1,edb60ceb434cc994df4b00ae08a49efb2f66a2ba0df1adf0,0.9997135
+edb60ceb434cc994df4b00ae08a49efb2f66a2ba0df1adf0,"Who is Charles James Irwin Grant, 6Th Baron De Longueuil's paternal grandfather?",2,ca06c3f82b647eb99a1c7b5d69047e9b373e600144bb80ee,0.4334064
+edb60ceb434cc994df4b00ae08a49efb2f66a2ba0df1adf0,"Who is Charles James Irwin Grant, 6Th Baron De Longueuil's paternal grandfather?",3,ee5d9f9d86e7e98659e3e81baff53f13807147550593b3bb,6.0789906e-05
+9a74e9b9111e3d13efa2b9b43c522354f7d5f3dae6ca5e96,"Which film has the director who is older than the other, Women'S Weapons or She Wants Me? ",1,9a74e9b9111e3d13efa2b9b43c522354f7d5f3dae6ca5e96,0.99897504
+9a74e9b9111e3d13efa2b9b43c522354f7d5f3dae6ca5e96,"Which film has the director who is older than the other, Women'S Weapons or She Wants Me? ",2,feac1266126ef65a017535d551c19f741c29144a057bac71,0.10244357
+9a74e9b9111e3d13efa2b9b43c522354f7d5f3dae6ca5e96,"Which film has the director who is older than the other, Women'S Weapons or She Wants Me? ",3,8d5000c1cbd7582bdf96735f824c713974eb9c63797a2e48,0.08524153
+6967a9e68d49dd2ad975640d7f7f3d658d75a1c46b68c602,"Which film has the director who died earlier, Tangled Destinies or The Daltons' Women?",1,6967a9e68d49dd2ad975640d7f7f3d658d75a1c46b68c602,0.9995974
+6967a9e68d49dd2ad975640d7f7f3d658d75a1c46b68c602,"Which film has the director who died earlier, Tangled Destinies or The Daltons' Women?",2,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.9886036
+6967a9e68d49dd2ad975640d7f7f3d658d75a1c46b68c602,"Which film has the director who died earlier, Tangled Destinies or The Daltons' Women?",3,dbf1e1aaf4bb930e3520de800091020e5b391556904e0ed9,0.98579293
+6ee099c71de8536b8f73518c6ba8d3c96366caa4869aa429,"Which film has the director who died first, The Flesh Is Weak or One Does Not Play With Love?",1,6ee099c71de8536b8f73518c6ba8d3c96366caa4869aa429,0.9991879
+6ee099c71de8536b8f73518c6ba8d3c96366caa4869aa429,"Which film has the director who died first, The Flesh Is Weak or One Does Not Play With Love?",2,dd3a33f7a133c0cf642f5c916366314d4a4833334e35e724,0.9695449
+6ee099c71de8536b8f73518c6ba8d3c96366caa4869aa429,"Which film has the director who died first, The Flesh Is Weak or One Does Not Play With Love?",3,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.7397548
+1acac2b501c918db8649deb5d075095b32a6c6eab6541f69,"Who was born first, Selahattin Seyhun or Nil Tun Maung?",1,1acac2b501c918db8649deb5d075095b32a6c6eab6541f69,0.9994137
+1acac2b501c918db8649deb5d075095b32a6c6eab6541f69,"Who was born first, Selahattin Seyhun or Nil Tun Maung?",2,8e33b783534c90d43c07617f4106a5056cb93ba21758b91c,0.0069036745
+1acac2b501c918db8649deb5d075095b32a6c6eab6541f69,"Who was born first, Selahattin Seyhun or Nil Tun Maung?",3,24144554a83a55c968553f1def746d606e45881afe44feff,0.0008642335
+ec96dad9bf806f1c5597178f476df39ad6603170efabe914,"Which film has the director born earlier, Everyone Else or The Girl From The Chartreuse?",1,ec96dad9bf806f1c5597178f476df39ad6603170efabe914,0.9995409
+ec96dad9bf806f1c5597178f476df39ad6603170efabe914,"Which film has the director born earlier, Everyone Else or The Girl From The Chartreuse?",2,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.38498494
+ec96dad9bf806f1c5597178f476df39ad6603170efabe914,"Which film has the director born earlier, Everyone Else or The Girl From The Chartreuse?",3,6e020fda91702d5ab63283c032fc436f3a6b7fd6c568aba7,0.04699219
+0292c4357991b8aba2eb4fc1f5cc48af3ce3724b33287e34,"Which film whose director is younger, College Lovers or The Dixie Flyer?",1,0292c4357991b8aba2eb4fc1f5cc48af3ce3724b33287e34,0.9994435
+0292c4357991b8aba2eb4fc1f5cc48af3ce3724b33287e34,"Which film whose director is younger, College Lovers or The Dixie Flyer?",2,feac1266126ef65a017535d551c19f741c29144a057bac71,0.014097573
+0292c4357991b8aba2eb4fc1f5cc48af3ce3724b33287e34,"Which film whose director is younger, College Lovers or The Dixie Flyer?",3,8d5000c1cbd7582bdf96735f824c713974eb9c63797a2e48,0.012067437
+6d8a1896713b9716c02241ade5e30c401dea7f0dde5294b8,Are Yadboro River and Pigna Barney River both located in the same country?,1,6d8a1896713b9716c02241ade5e30c401dea7f0dde5294b8,0.9998753
+6d8a1896713b9716c02241ade5e30c401dea7f0dde5294b8,Are Yadboro River and Pigna Barney River both located in the same country?,2,7a35cea15d31d9e58aa0be79ce68499e365ba3a55c7456e5,0.008020465
+6d8a1896713b9716c02241ade5e30c401dea7f0dde5294b8,Are Yadboro River and Pigna Barney River both located in the same country?,3,4eb5e12b259e10e05b72f9afe6c05e40bf42a1911896e417,0.0029317075
+801ba86d35c6efeed83facf9986520e8a6f12e000c1b963a,What is the place of birth of the director of film Martian Child?,1,df74c88567561261707555fa8504bf93678834b5fce5f943,0.0016024201
+801ba86d35c6efeed83facf9986520e8a6f12e000c1b963a,What is the place of birth of the director of film Martian Child?,2,4bc4e1176125b7f02876ca7fe1a08ec4d69b220e5a43f36f,0.0009068639
+801ba86d35c6efeed83facf9986520e8a6f12e000c1b963a,What is the place of birth of the director of film Martian Child?,3,78877dc3800b31f7831cf2f941219ee29493e35b53b059a1,9.631102e-05
+16b98a59e06d1c72b4da73f79e5c99f936e8c2fdbee29a0b,"Which film has the director who was born later, A Cafe In Cairo or War Drums?",1,16b98a59e06d1c72b4da73f79e5c99f936e8c2fdbee29a0b,0.9992298
+16b98a59e06d1c72b4da73f79e5c99f936e8c2fdbee29a0b,"Which film has the director who was born later, A Cafe In Cairo or War Drums?",2,04a89b092e375c921d967a3cb6cb77c6caf28ff1ec3a0dbf,0.8964368
+16b98a59e06d1c72b4da73f79e5c99f936e8c2fdbee29a0b,"Which film has the director who was born later, A Cafe In Cairo or War Drums?",3,883b4b8a680112178587dfb9511033c219999312a8e283e8,0.004195977
+f479830ec67206a7edd48ae2ac6f8fc1f639da89caf1a0d2,"Who was born earlier, Helen Clifton or Steve Barancik?",1,04a89b092e375c921d967a3cb6cb77c6caf28ff1ec3a0dbf,0.09864009
+f479830ec67206a7edd48ae2ac6f8fc1f639da89caf1a0d2,"Who was born earlier, Helen Clifton or Steve Barancik?",2,8e33b783534c90d43c07617f4106a5056cb93ba21758b91c,7.4438234e-05
+f479830ec67206a7edd48ae2ac6f8fc1f639da89caf1a0d2,"Who was born earlier, Helen Clifton or Steve Barancik?",3,2820f5f6db2a73a11f6269437ced07bf92dd3636cfda02ee,2.2436978e-05
+ef3661117fc4fcb6bdf3ca0d2fff3c750290a808b18e9403,Where did the director of film Cloudy Sunday study?,1,ef3661117fc4fcb6bdf3ca0d2fff3c750290a808b18e9403,0.9982357
+ef3661117fc4fcb6bdf3ca0d2fff3c750290a808b18e9403,Where did the director of film Cloudy Sunday study?,2,8e55a3cb4c213a132ff3bfef7a6df6290427488e9b732883,0.0011912816
+ef3661117fc4fcb6bdf3ca0d2fff3c750290a808b18e9403,Where did the director of film Cloudy Sunday study?,3,883b4b8a680112178587dfb9511033c219999312a8e283e8,0.0001453321
+313350f4cf6f6589899303d892f49d9f83a79df302126841,"Which film was released more recently, Hotel Reserve or Return To The Hiding Place?",1,313350f4cf6f6589899303d892f49d9f83a79df302126841,0.9996722
+313350f4cf6f6589899303d892f49d9f83a79df302126841,"Which film was released more recently, Hotel Reserve or Return To The Hiding Place?",2,b058a6541fba988d17aa0172344f2b537993008bedd729d5,0.008135587
+313350f4cf6f6589899303d892f49d9f83a79df302126841,"Which film was released more recently, Hotel Reserve or Return To The Hiding Place?",3,0e1a7715016522e4285d6db621310d72b3db49464271cf47,0.0054822327
+ad729152e6da9d8dded0f7a24f7a99722af9d02e38d8446d,"When did Leka, Crown Prince Of Albania (Born 1982)'s mother die?",1,8af6d8a5fbee80d8de94359d33a5894a0c5169c9a33c7509,0.000118549884
+ad729152e6da9d8dded0f7a24f7a99722af9d02e38d8446d,"When did Leka, Crown Prince Of Albania (Born 1982)'s mother die?",2,38387b0175b1713c6f7cc99561f16413ccb360fdcb00e814,4.7033725e-05
+ad729152e6da9d8dded0f7a24f7a99722af9d02e38d8446d,"When did Leka, Crown Prince Of Albania (Born 1982)'s mother die?",3,97dd525d6b0d91e4d483f22988607e87048cfe088af93d80,2.9491152e-05
+e9ee8d6374657050f223db31eca26a8d512940a7940fba4e,Who is Carlo I Cybo-Malaspina's maternal grandfather?,1,8c17c1259ed0c31bff3ee48ef8a6c4c54469c7769ffbc1c1,0.009533123
+e9ee8d6374657050f223db31eca26a8d512940a7940fba4e,Who is Carlo I Cybo-Malaspina's maternal grandfather?,2,8e33b783534c90d43c07617f4106a5056cb93ba21758b91c,8.2944025e-05
+e9ee8d6374657050f223db31eca26a8d512940a7940fba4e,Who is Carlo I Cybo-Malaspina's maternal grandfather?,3,9354c44bd9db99cfb2b8f803def7504f1a8bf16e182b5514,4.7611087e-05
+07263575ae94e0561ab9d85e1227eadf18812836bc4f1dd8,"Which film was released first, The Pirate'S Dream or Prem Mhanje Prem Mhanje Prem Asta?",1,07263575ae94e0561ab9d85e1227eadf18812836bc4f1dd8,0.9997602
+07263575ae94e0561ab9d85e1227eadf18812836bc4f1dd8,"Which film was released first, The Pirate'S Dream or Prem Mhanje Prem Mhanje Prem Asta?",2,b058a6541fba988d17aa0172344f2b537993008bedd729d5,0.005405434
+07263575ae94e0561ab9d85e1227eadf18812836bc4f1dd8,"Which film was released first, The Pirate'S Dream or Prem Mhanje Prem Mhanje Prem Asta?",3,1c58a30eb49959465cf6b97dc7e86d22b05436c8813c9499,0.00019532314
+e1439b2d77ce90280f85c9b3aaca79d8880aa1f7d97545ea,"Who lived longer, Fredy Schmidtke or Chou Meng-Tieh?",1,e1439b2d77ce90280f85c9b3aaca79d8880aa1f7d97545ea,0.9992663
+4757e04814693a1a0ddc4c330f892f678a9c74bb49599efb,What is the place of birth of the composer of song Ma Che Freddo Fa?,1,4757e04814693a1a0ddc4c330f892f678a9c74bb49599efb,0.99880934
+4757e04814693a1a0ddc4c330f892f678a9c74bb49599efb,What is the place of birth of the composer of song Ma Che Freddo Fa?,2,081c47a97a4d7be7bdce61ef84d30fc6bb33ca65c913523b,9.483601e-05
+4757e04814693a1a0ddc4c330f892f678a9c74bb49599efb,What is the place of birth of the composer of song Ma Che Freddo Fa?,3,9a1ec3f581a0267d71a30d7661ceb6e277b0be8a58c12e6e,8.0147365e-05
+4feab58950d63f3cc9a90c985f3d8be23e9dc97d53f03989,"Which film was released earlier, Komaligal or Times Of Joy And Sorrow?",1,b058a6541fba988d17aa0172344f2b537993008bedd729d5,0.35540816
+4feab58950d63f3cc9a90c985f3d8be23e9dc97d53f03989,"Which film was released earlier, Komaligal or Times Of Joy And Sorrow?",2,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.037460666
+4feab58950d63f3cc9a90c985f3d8be23e9dc97d53f03989,"Which film was released earlier, Komaligal or Times Of Joy And Sorrow?",3,7de7d760b636aee90f01cbc0d33fcd4f3029bfbe12edf862,0.011890033
+3cd55b0826fed3ba2514f1f3477412ceb1d54c958b74d2a1,Where was the place of death of Salin Mibaya's husband?,1,3cd55b0826fed3ba2514f1f3477412ceb1d54c958b74d2a1,0.99847597
+3cd55b0826fed3ba2514f1f3477412ceb1d54c958b74d2a1,Where was the place of death of Salin Mibaya's husband?,2,bf38d1ee9dcb2c26f2a55cde167dae2eeb4047687079a45a,0.038193982
+3cd55b0826fed3ba2514f1f3477412ceb1d54c958b74d2a1,Where was the place of death of Salin Mibaya's husband?,3,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,0.000106181426
+f920e9270cd0ef6a7db5e9f31c830c591a4e6443084ad25d,What is the award that the composer of film Shivaay got?,1,f920e9270cd0ef6a7db5e9f31c830c591a4e6443084ad25d,0.99777275
+f920e9270cd0ef6a7db5e9f31c830c591a4e6443084ad25d,What is the award that the composer of film Shivaay got?,2,df74c88567561261707555fa8504bf93678834b5fce5f943,4.2872605e-05
+f920e9270cd0ef6a7db5e9f31c830c591a4e6443084ad25d,What is the award that the composer of film Shivaay got?,3,b6fdd8f9d56c029b83580e36d6b3642dbb387a9d60da03df,3.7238235e-05
+04a89b092e375c921d967a3cb6cb77c6caf28ff1ec3a0dbf,"Which film has the director who was born earlier, Born Into Brothels or Dr. Goldfoot And The Bikini Machine?",1,feac1266126ef65a017535d551c19f741c29144a057bac71,0.69708824
+04a89b092e375c921d967a3cb6cb77c6caf28ff1ec3a0dbf,"Which film has the director who was born earlier, Born Into Brothels or Dr. Goldfoot And The Bikini Machine?",2,8d5000c1cbd7582bdf96735f824c713974eb9c63797a2e48,0.5368653
+04a89b092e375c921d967a3cb6cb77c6caf28ff1ec3a0dbf,"Which film has the director who was born earlier, Born Into Brothels or Dr. Goldfoot And The Bikini Machine?",3,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.16216287
+d1cd11866ff12ea793c26c2d19db1259fcaa9cc2c7ebc1dc,What is the date of death of the director of film The Man Without A Country (1917 Film)?,1,d1cd11866ff12ea793c26c2d19db1259fcaa9cc2c7ebc1dc,0.99926883
+d1cd11866ff12ea793c26c2d19db1259fcaa9cc2c7ebc1dc,What is the date of death of the director of film The Man Without A Country (1917 Film)?,2,0df95375e082998e11c14660675ca1d4d28cbf40c094fa47,0.042244863
+d1cd11866ff12ea793c26c2d19db1259fcaa9cc2c7ebc1dc,What is the date of death of the director of film The Man Without A Country (1917 Film)?,3,36a31748c55843a2c648cdf6950227889b90f9fd10707c64,0.002732909
+8af6d8a5fbee80d8de94359d33a5894a0c5169c9a33c7509,Who is the mother-in-law of Queen Insun?,1,8af6d8a5fbee80d8de94359d33a5894a0c5169c9a33c7509,0.99919325
+8af6d8a5fbee80d8de94359d33a5894a0c5169c9a33c7509,Who is the mother-in-law of Queen Insun?,2,ee5d9f9d86e7e98659e3e81baff53f13807147550593b3bb,0.00022951284
+8af6d8a5fbee80d8de94359d33a5894a0c5169c9a33c7509,Who is the mother-in-law of Queen Insun?,3,70601344d5c269a97df44b9d3429bfcc5230800d6c97ac3a,7.927339e-05
+9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,What is the place of birth of Princess Amalia Of Saxe-Weimar-Eisenach's husband?,1,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,0.99919444
+9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,What is the place of birth of Princess Amalia Of Saxe-Weimar-Eisenach's husband?,2,bf38d1ee9dcb2c26f2a55cde167dae2eeb4047687079a45a,9.089432e-05
+9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,What is the place of birth of Princess Amalia Of Saxe-Weimar-Eisenach's husband?,3,8af6d8a5fbee80d8de94359d33a5894a0c5169c9a33c7509,3.3587985e-05
+1e7b44a5002efba074f208c9778567477cc4d4a1ac53d7ef,"Which country Albertine, Baroness Staël Von Holstein's father is from?",1,1e7b44a5002efba074f208c9778567477cc4d4a1ac53d7ef,0.99955255
+1e7b44a5002efba074f208c9778567477cc4d4a1ac53d7ef,"Which country Albertine, Baroness Staël Von Holstein's father is from?",2,d3624780a9e9ffd5d7685f3f14e4df5d2a52601c151067fa,3.3602755e-05
+1e7b44a5002efba074f208c9778567477cc4d4a1ac53d7ef,"Which country Albertine, Baroness Staël Von Holstein's father is from?",3,154a6622a73d4e3db1f02476113b94d8c527b7d0ac01ed9a,3.2533393e-05
+238c9791d4b5657f901615f165c478530891a2986fe93d05,"Who was born later, Faiz Muhammad or Guillermo Capetillo?",1,238c9791d4b5657f901615f165c478530891a2986fe93d05,0.99964833
+238c9791d4b5657f901615f165c478530891a2986fe93d05,"Who was born later, Faiz Muhammad or Guillermo Capetillo?",2,16b98a59e06d1c72b4da73f79e5c99f936e8c2fdbee29a0b,0.0053397473
+238c9791d4b5657f901615f165c478530891a2986fe93d05,"Who was born later, Faiz Muhammad or Guillermo Capetillo?",3,04a89b092e375c921d967a3cb6cb77c6caf28ff1ec3a0dbf,0.00030779795
+ef06eb197dec40c7fd672fcd6a3c2780917ec8c686049956,Are the directors of both films When Lovers Part and Ladies In Distress from the same country?,1,ff147ffa9d6d295cdd0bfe0d0c99ec8dc6c212c3a4d3086a,0.89369345
+ef06eb197dec40c7fd672fcd6a3c2780917ec8c686049956,Are the directors of both films When Lovers Part and Ladies In Distress from the same country?,2,e073fe98e7399449d3472ff2c32bb8dedfc57fb49c773ee3,0.0031526333
+ef06eb197dec40c7fd672fcd6a3c2780917ec8c686049956,Are the directors of both films When Lovers Part and Ladies In Distress from the same country?,3,0bc3341fffaad3e92d14d64b539df741528ef4e2b76e9632,0.0010921109
+8a758fe292d901d43c7729a09392968963811f61842518f3,What nationality is the performer of song Mimi (Song)?,1,8a758fe292d901d43c7729a09392968963811f61842518f3,0.998792
+8a758fe292d901d43c7729a09392968963811f61842518f3,What nationality is the performer of song Mimi (Song)?,2,a761220766aeb2fafc85b9753e54c449fb1464f03a4b51df,0.47860995
+8a758fe292d901d43c7729a09392968963811f61842518f3,What nationality is the performer of song Mimi (Song)?,3,0a115dd145605a6f2b0eeb01830ff1b3c2a38f81e6734097,0.23905848
+6c9e7d34cc840d3ef62aba7cf1fddf9501e0e238a3e56c80,"Who lived longer, Werner Mensching or Karel Zich?",1,e1439b2d77ce90280f85c9b3aaca79d8880aa1f7d97545ea,0.19289364
+6c9e7d34cc840d3ef62aba7cf1fddf9501e0e238a3e56c80,"Who lived longer, Werner Mensching or Karel Zich?",2,4adca5ba1654b740d1e25c6e73d45aa2f3621537bed9086b,1.8346793e-05
+6c9e7d34cc840d3ef62aba7cf1fddf9501e0e238a3e56c80,"Who lived longer, Werner Mensching or Karel Zich?",3,0df95375e082998e11c14660675ca1d4d28cbf40c094fa47,1.6887141e-05
+b058a6541fba988d17aa0172344f2b537993008bedd729d5,"Which film was released earlier, Nous, Princesses De Clèves or It'S A King?",1,b058a6541fba988d17aa0172344f2b537993008bedd729d5,0.9995952
+b058a6541fba988d17aa0172344f2b537993008bedd729d5,"Which film was released earlier, Nous, Princesses De Clèves or It'S A King?",2,0e1a7715016522e4285d6db621310d72b3db49464271cf47,0.5223825
+b058a6541fba988d17aa0172344f2b537993008bedd729d5,"Which film was released earlier, Nous, Princesses De Clèves or It'S A King?",3,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.085619636
+44fb06a1df8d376125f751d0bdee7696585e5c0d1a4e9f02,What is the date of birth of Alfonso Fadrique's father?,1,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,4.1530904e-05
+44fb06a1df8d376125f751d0bdee7696585e5c0d1a4e9f02,What is the date of birth of Alfonso Fadrique's father?,2,ab93c8b5c1a68316d04c11e7a9a4e9816cd754d7f655e6f6,2.0363088e-05
+44fb06a1df8d376125f751d0bdee7696585e5c0d1a4e9f02,What is the date of birth of Alfonso Fadrique's father?,3,3498041a8960ebd62cd1567bd884cd559d65792fc3014299,1.9788742e-05
+0c7274b5100ebeee9e7c1437949590cf5722c3f00b454f92,Do both films A Trial In Prague and Three Strangers have the directors that share the same nationality?,1,ff147ffa9d6d295cdd0bfe0d0c99ec8dc6c212c3a4d3086a,0.27724043
+0c7274b5100ebeee9e7c1437949590cf5722c3f00b454f92,Do both films A Trial In Prague and Three Strangers have the directors that share the same nationality?,2,e04fb667c00a2c99ad1a1a102b81865d021708de9a64e58e,0.0008722353
+0c7274b5100ebeee9e7c1437949590cf5722c3f00b454f92,Do both films A Trial In Prague and Three Strangers have the directors that share the same nationality?,3,0bc3341fffaad3e92d14d64b539df741528ef4e2b76e9632,0.00031753603
+1f69042b1b5c54db57567137b3cc824c3cf27504897bd17d,"Who was born later, Kiplangat Sang or Stein Erik Hagen?",1,1f69042b1b5c54db57567137b3cc824c3cf27504897bd17d,0.9990779
+1f69042b1b5c54db57567137b3cc824c3cf27504897bd17d,"Who was born later, Kiplangat Sang or Stein Erik Hagen?",2,04a89b092e375c921d967a3cb6cb77c6caf28ff1ec3a0dbf,0.00013124062
+1f69042b1b5c54db57567137b3cc824c3cf27504897bd17d,"Who was born later, Kiplangat Sang or Stein Erik Hagen?",3,8e33b783534c90d43c07617f4106a5056cb93ba21758b91c,0.0001071296
+f5baef0cdea8281ca147cfad48a104a418e04e3a8667cde5,What is the place of birth of the director of film Confusion Na Wa?,1,4bc4e1176125b7f02876ca7fe1a08ec4d69b220e5a43f36f,0.0023076213
+f5baef0cdea8281ca147cfad48a104a418e04e3a8667cde5,What is the place of birth of the director of film Confusion Na Wa?,2,df74c88567561261707555fa8504bf93678834b5fce5f943,0.0005919275
+f5baef0cdea8281ca147cfad48a104a418e04e3a8667cde5,What is the place of birth of the director of film Confusion Na Wa?,3,78877dc3800b31f7831cf2f941219ee29493e35b53b059a1,0.00011945418
+3be59c383b827f15b3aeae8e3be3403f89c8635f0acf9330,Where was the wife of Alfred L. Copley born?,1,38387b0175b1713c6f7cc99561f16413ccb360fdcb00e814,2.4800123e-05
+3be59c383b827f15b3aeae8e3be3403f89c8635f0acf9330,Where was the wife of Alfred L. Copley born?,2,cca264d7bde411c4959eb2e5fb33d9689ffb893184b023d8,2.1066888e-05
+3be59c383b827f15b3aeae8e3be3403f89c8635f0acf9330,Where was the wife of Alfred L. Copley born?,3,10f214e9e44886b887a7fe742c949ab4d18d851df9ee68d2,1.9735557e-05
+d9a612aad6d6d6f504633151e88dd819e36ed39303c0658b,"Which film was released earlier, Pal Pal Dil Ke Paas or Another Earth?",1,d9a612aad6d6d6f504633151e88dd819e36ed39303c0658b,0.9996081
+d9a612aad6d6d6f504633151e88dd819e36ed39303c0658b,"Which film was released earlier, Pal Pal Dil Ke Paas or Another Earth?",2,b058a6541fba988d17aa0172344f2b537993008bedd729d5,0.588921
+d9a612aad6d6d6f504633151e88dd819e36ed39303c0658b,"Which film was released earlier, Pal Pal Dil Ke Paas or Another Earth?",3,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.012772481
+60163d86d206aaa179b61a2d43b27a7ec909b724b5685b50,Which country Jakobea Of Baden's mother is from?,1,60163d86d206aaa179b61a2d43b27a7ec909b724b5685b50,0.9992405
+60163d86d206aaa179b61a2d43b27a7ec909b724b5685b50,Which country Jakobea Of Baden's mother is from?,2,8af6d8a5fbee80d8de94359d33a5894a0c5169c9a33c7509,4.121617e-05
+60163d86d206aaa179b61a2d43b27a7ec909b724b5685b50,Which country Jakobea Of Baden's mother is from?,3,005c463249f9b25799798627fade1ca97e3dede4f8245a23,2.9764991e-05
+0a115dd145605a6f2b0eeb01830ff1b3c2a38f81e6734097,Who is the child of the performer of song La Voix (Song)?,1,0a115dd145605a6f2b0eeb01830ff1b3c2a38f81e6734097,0.99940455
+0a115dd145605a6f2b0eeb01830ff1b3c2a38f81e6734097,Who is the child of the performer of song La Voix (Song)?,2,2820f5f6db2a73a11f6269437ced07bf92dd3636cfda02ee,0.7934133
+0a115dd145605a6f2b0eeb01830ff1b3c2a38f81e6734097,Who is the child of the performer of song La Voix (Song)?,3,a761220766aeb2fafc85b9753e54c449fb1464f03a4b51df,0.7048409
+9354c44bd9db99cfb2b8f803def7504f1a8bf16e182b5514,Where was the father of Francesco I Acciaioli born?,1,9354c44bd9db99cfb2b8f803def7504f1a8bf16e182b5514,0.9992662
+9354c44bd9db99cfb2b8f803def7504f1a8bf16e182b5514,Where was the father of Francesco I Acciaioli born?,2,8c17c1259ed0c31bff3ee48ef8a6c4c54469c7769ffbc1c1,5.5794182e-05
+9354c44bd9db99cfb2b8f803def7504f1a8bf16e182b5514,Where was the father of Francesco I Acciaioli born?,3,8e33b783534c90d43c07617f4106a5056cb93ba21758b91c,3.3985514e-05
+8e55a3cb4c213a132ff3bfef7a6df6290427488e9b732883,Where does the director of film Scarecrow (1984 Film) work at?,1,8e55a3cb4c213a132ff3bfef7a6df6290427488e9b732883,0.99916244
+8e55a3cb4c213a132ff3bfef7a6df6290427488e9b732883,Where does the director of film Scarecrow (1984 Film) work at?,2,6a1b88bdf6b4452fbdbbc79f52f47b1ef42fa1c058e9d236,0.013388804
+8e55a3cb4c213a132ff3bfef7a6df6290427488e9b732883,Where does the director of film Scarecrow (1984 Film) work at?,3,dde2c006bfa530403e8c9bafc6497d0e65aad8cf1b6813ee,0.004311
+38387b0175b1713c6f7cc99561f16413ccb360fdcb00e814,Where did Elisabeth Zu Fürstenberg's husband die?,1,38387b0175b1713c6f7cc99561f16413ccb360fdcb00e814,0.9991037
+38387b0175b1713c6f7cc99561f16413ccb360fdcb00e814,Where did Elisabeth Zu Fürstenberg's husband die?,2,10f214e9e44886b887a7fe742c949ab4d18d851df9ee68d2,0.0001306671
+38387b0175b1713c6f7cc99561f16413ccb360fdcb00e814,Where did Elisabeth Zu Fürstenberg's husband die?,3,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,3.8812414e-05
+a761220766aeb2fafc85b9753e54c449fb1464f03a4b51df,What is the place of birth of the performer of song El Beso (Song)?,1,a761220766aeb2fafc85b9753e54c449fb1464f03a4b51df,0.99880064
+a761220766aeb2fafc85b9753e54c449fb1464f03a4b51df,What is the place of birth of the performer of song El Beso (Song)?,2,0a115dd145605a6f2b0eeb01830ff1b3c2a38f81e6734097,0.18436569
+a761220766aeb2fafc85b9753e54c449fb1464f03a4b51df,What is the place of birth of the performer of song El Beso (Song)?,3,2820f5f6db2a73a11f6269437ced07bf92dd3636cfda02ee,0.048265908
+7a0ae184978fbdd3e5e38ac179861b1951878baaac395592,What is the place of birth of the director of film Special When Lit?,1,4bc4e1176125b7f02876ca7fe1a08ec4d69b220e5a43f36f,0.0046617654
+7a0ae184978fbdd3e5e38ac179861b1951878baaac395592,What is the place of birth of the director of film Special When Lit?,2,df74c88567561261707555fa8504bf93678834b5fce5f943,0.00040791166
+7a0ae184978fbdd3e5e38ac179861b1951878baaac395592,What is the place of birth of the director of film Special When Lit?,3,78877dc3800b31f7831cf2f941219ee29493e35b53b059a1,0.00026313518
+4ad3d43b4e53817be115414af1638d04328f437bb748ebf1,Who is the uncle of John Of Brienne?,1,4ad3d43b4e53817be115414af1638d04328f437bb748ebf1,0.99939704
+4ad3d43b4e53817be115414af1638d04328f437bb748ebf1,Who is the uncle of John Of Brienne?,2,14d2d8683a1b9eeec9c699b34d541076b43ecdd3eb37b30f,0.027315114
+4ad3d43b4e53817be115414af1638d04328f437bb748ebf1,Who is the uncle of John Of Brienne?,3,f47a70ebc3471bb3fc81f93c8c812af1fb71048a720c3a47,0.00021334046
+569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,"Which film has the director who died earlier, Deuces Wild or Cavalcade Of The West?",1,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.99958974
+569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,"Which film has the director who died earlier, Deuces Wild or Cavalcade Of The West?",2,dd3a33f7a133c0cf642f5c916366314d4a4833334e35e724,0.9547825
+569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,"Which film has the director who died earlier, Deuces Wild or Cavalcade Of The West?",3,feac1266126ef65a017535d551c19f741c29144a057bac71,0.028536243
+47659268bc430f7e640db930b97fed4d0670cce46cdb83f8,"Which film has the director died later, The Rebellion Of The Brides or Arizona Gang Busters?",1,47659268bc430f7e640db930b97fed4d0670cce46cdb83f8,0.9996457
+47659268bc430f7e640db930b97fed4d0670cce46cdb83f8,"Which film has the director died later, The Rebellion Of The Brides or Arizona Gang Busters?",2,4adca5ba1654b740d1e25c6e73d45aa2f3621537bed9086b,0.95462114
+47659268bc430f7e640db930b97fed4d0670cce46cdb83f8,"Which film has the director died later, The Rebellion Of The Brides or Arizona Gang Busters?",3,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.94008356
+ffb74b527f19f9e8c0fdc8a392174309f50696c95cbd7c97,"What nationality is Henry Clifford, 2Nd Earl Of Cumberland's wife?",1,ffb74b527f19f9e8c0fdc8a392174309f50696c95cbd7c97,0.9994766
+ffb74b527f19f9e8c0fdc8a392174309f50696c95cbd7c97,"What nationality is Henry Clifford, 2Nd Earl Of Cumberland's wife?",2,ca06c3f82b647eb99a1c7b5d69047e9b373e600144bb80ee,0.0051009096
+ffb74b527f19f9e8c0fdc8a392174309f50696c95cbd7c97,"What nationality is Henry Clifford, 2Nd Earl Of Cumberland's wife?",3,853a76d5cce07034f8d10c1f94bd8beb70f4e34f4a5638ee,8.214062e-05
+59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,Are director of film Tactical Force and director of film Jumanji from the same country?,1,59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,0.99975663
+59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,Are director of film Tactical Force and director of film Jumanji from the same country?,2,df74c88567561261707555fa8504bf93678834b5fce5f943,0.0017017737
+59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,Are director of film Tactical Force and director of film Jumanji from the same country?,3,73a910a9f551d4d274e6f329d3f8a5049561120fae602224,0.0010833638
+3498041a8960ebd62cd1567bd884cd559d65792fc3014299,Where was the place of death of Thaddeus P. Mott's father?,1,3498041a8960ebd62cd1567bd884cd559d65792fc3014299,0.99871016
+3498041a8960ebd62cd1567bd884cd559d65792fc3014299,Where was the place of death of Thaddeus P. Mott's father?,2,bf38d1ee9dcb2c26f2a55cde167dae2eeb4047687079a45a,0.00036746866
+3498041a8960ebd62cd1567bd884cd559d65792fc3014299,Where was the place of death of Thaddeus P. Mott's father?,3,9354c44bd9db99cfb2b8f803def7504f1a8bf16e182b5514,3.1941938e-05
+d64ce42f72497e502a412d395566e55a3793d05b35004cb4,"Who was born later, Paul De Scherff or Lyudmyla Olyanovska?",1,d64ce42f72497e502a412d395566e55a3793d05b35004cb4,0.99956983
+d64ce42f72497e502a412d395566e55a3793d05b35004cb4,"Who was born later, Paul De Scherff or Lyudmyla Olyanovska?",2,04a89b092e375c921d967a3cb6cb77c6caf28ff1ec3a0dbf,0.00014997707
+d64ce42f72497e502a412d395566e55a3793d05b35004cb4,"Who was born later, Paul De Scherff or Lyudmyla Olyanovska?",3,8e33b783534c90d43c07617f4106a5056cb93ba21758b91c,6.862276e-05
+fe284936ae55063527821e9ee610ae67958789167aa4ba1a,Do both films: A Slave Of Vanity and Grace Of My Heart have the directors from the same country?,1,ff147ffa9d6d295cdd0bfe0d0c99ec8dc6c212c3a4d3086a,0.96199566
+fe284936ae55063527821e9ee610ae67958789167aa4ba1a,Do both films: A Slave Of Vanity and Grace Of My Heart have the directors from the same country?,2,0bc3341fffaad3e92d14d64b539df741528ef4e2b76e9632,0.0015190939
+fe284936ae55063527821e9ee610ae67958789167aa4ba1a,Do both films: A Slave Of Vanity and Grace Of My Heart have the directors from the same country?,3,da0b455bd3394d2118bf242b9458c3857d5d6e9ccbf07f64,0.0012982911
+d524ca109e5ac6284dec16931f2403ef7859225cfde19e9e,Where was the father of Bonne Of Bourbon born?,1,d524ca109e5ac6284dec16931f2403ef7859225cfde19e9e,0.9989826
+d524ca109e5ac6284dec16931f2403ef7859225cfde19e9e,Where was the father of Bonne Of Bourbon born?,2,f47a70ebc3471bb3fc81f93c8c812af1fb71048a720c3a47,7.6327706e-05
+d524ca109e5ac6284dec16931f2403ef7859225cfde19e9e,Where was the father of Bonne Of Bourbon born?,3,1e7b44a5002efba074f208c9778567477cc4d4a1ac53d7ef,3.4156776e-05
+339cb93913d08713e8202ffe6e4043f35e844ac9b7de591d,"Which film came out first, Su-Ki-Da or Tales From The Golden Age?",1,339cb93913d08713e8202ffe6e4043f35e844ac9b7de591d,0.9996855
+339cb93913d08713e8202ffe6e4043f35e844ac9b7de591d,"Which film came out first, Su-Ki-Da or Tales From The Golden Age?",2,b058a6541fba988d17aa0172344f2b537993008bedd729d5,0.027586907
+339cb93913d08713e8202ffe6e4043f35e844ac9b7de591d,"Which film came out first, Su-Ki-Da or Tales From The Golden Age?",3,23c31f6cbc44072212b709b7348b2b6f8a012d997aaa706d,0.025065457
+d8a4ba25a31cde41c5ce4581f3c4cbd827cc6fc61b31ffe1,"Which film has the director who was born later, Dead Man'S Letters or The Dance Of Death (1967 Film)?",1,d8a4ba25a31cde41c5ce4581f3c4cbd827cc6fc61b31ffe1,0.99959177
+d8a4ba25a31cde41c5ce4581f3c4cbd827cc6fc61b31ffe1,"Which film has the director who was born later, Dead Man'S Letters or The Dance Of Death (1967 Film)?",2,36a31748c55843a2c648cdf6950227889b90f9fd10707c64,0.9512897
+d8a4ba25a31cde41c5ce4581f3c4cbd827cc6fc61b31ffe1,"Which film has the director who was born later, Dead Man'S Letters or The Dance Of Death (1967 Film)?",3,04a89b092e375c921d967a3cb6cb77c6caf28ff1ec3a0dbf,0.7559066
+2820f5f6db2a73a11f6269437ced07bf92dd3636cfda02ee,Who is the father of the performer of song Everybody Needs A Best Friend?,1,2820f5f6db2a73a11f6269437ced07bf92dd3636cfda02ee,0.99903107
+2820f5f6db2a73a11f6269437ced07bf92dd3636cfda02ee,Who is the father of the performer of song Everybody Needs A Best Friend?,2,4b564dc097e7bbbd647ac1a6e70a11ab76351cc8415a733f,0.37042233
+2820f5f6db2a73a11f6269437ced07bf92dd3636cfda02ee,Who is the father of the performer of song Everybody Needs A Best Friend?,3,0a115dd145605a6f2b0eeb01830ff1b3c2a38f81e6734097,0.33404565
+3ecc9e2e427f95b0af2c256b0a538ba534a4e28adc21ac29,Where did Elizabeth Brooke (1503–1560)'s husband study at?,1,3ecc9e2e427f95b0af2c256b0a538ba534a4e28adc21ac29,0.99961793
+3ecc9e2e427f95b0af2c256b0a538ba534a4e28adc21ac29,Where did Elizabeth Brooke (1503–1560)'s husband study at?,2,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,6.4348314e-05
+3ecc9e2e427f95b0af2c256b0a538ba534a4e28adc21ac29,Where did Elizabeth Brooke (1503–1560)'s husband study at?,3,f47a70ebc3471bb3fc81f93c8c812af1fb71048a720c3a47,2.8903085e-05
+feac1266126ef65a017535d551c19f741c29144a057bac71,"Which film has the director born first, Viva Knievel! or Maria Marten, Or The Murder In The Red Barn?",1,feac1266126ef65a017535d551c19f741c29144a057bac71,0.99971443
+feac1266126ef65a017535d551c19f741c29144a057bac71,"Which film has the director born first, Viva Knievel! or Maria Marten, Or The Murder In The Red Barn?",2,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.0052657058
+feac1266126ef65a017535d551c19f741c29144a057bac71,"Which film has the director born first, Viva Knievel! or Maria Marten, Or The Murder In The Red Barn?",3,6e020fda91702d5ab63283c032fc436f3a6b7fd6c568aba7,0.0035283775
+079131850286083a72ba811e3124c3c266f7a7aba5b7f5b6,Who is the father-in-law of Chiang Fang-Liang?,1,079131850286083a72ba811e3124c3c266f7a7aba5b7f5b6,0.9992994
+da6e2f15aa7f645e3bb8393116a36ea20d8039448fdbf241,"What is the date of death of Andrew, Duke Of Slavonia's father?",1,da6e2f15aa7f645e3bb8393116a36ea20d8039448fdbf241,0.99867463
+da6e2f15aa7f645e3bb8393116a36ea20d8039448fdbf241,"What is the date of death of Andrew, Duke Of Slavonia's father?",2,40877325ac5773a0259a6e7a86ab477a4654a4cf8f94c149,0.0013929721
+da6e2f15aa7f645e3bb8393116a36ea20d8039448fdbf241,"What is the date of death of Andrew, Duke Of Slavonia's father?",3,f47a70ebc3471bb3fc81f93c8c812af1fb71048a720c3a47,0.00019036976
+ca06c3f82b647eb99a1c7b5d69047e9b373e600144bb80ee,"Who is Charles Gordon, 2Nd Earl Of Aboyne's paternal grandmother?",1,ca06c3f82b647eb99a1c7b5d69047e9b373e600144bb80ee,0.9996815
+ca06c3f82b647eb99a1c7b5d69047e9b373e600144bb80ee,"Who is Charles Gordon, 2Nd Earl Of Aboyne's paternal grandmother?",2,ffb74b527f19f9e8c0fdc8a392174309f50696c95cbd7c97,0.0011120283
+ca06c3f82b647eb99a1c7b5d69047e9b373e600144bb80ee,"Who is Charles Gordon, 2Nd Earl Of Aboyne's paternal grandmother?",3,fabab5b0e03630edd99d2b2ea223ff953d0d8de032a11bb1,0.00042276856
+774f30cf8adfb5c720dddb850cc3c22709487d594d042e54,"Which film came out earlier, Hell And Mr. Fudge or Yes Or No??",1,b058a6541fba988d17aa0172344f2b537993008bedd729d5,0.63835466
+774f30cf8adfb5c720dddb850cc3c22709487d594d042e54,"Which film came out earlier, Hell And Mr. Fudge or Yes Or No??",2,d9a612aad6d6d6f504633151e88dd819e36ed39303c0658b,0.46124136
+774f30cf8adfb5c720dddb850cc3c22709487d594d042e54,"Which film came out earlier, Hell And Mr. Fudge or Yes Or No??",3,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.05600084
+3ff90e4a03bbab1ee558b8f8c49f99ede2a353921d9a63ad,Do director of film Father'S Day (1996 Film) and director of film The Pursuit Of Happiness (1971 Film) have the same nationality?,1,3ff90e4a03bbab1ee558b8f8c49f99ede2a353921d9a63ad,0.99979454
+3ff90e4a03bbab1ee558b8f8c49f99ede2a353921d9a63ad,Do director of film Father'S Day (1996 Film) and director of film The Pursuit Of Happiness (1971 Film) have the same nationality?,2,59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,0.049767405
+3ff90e4a03bbab1ee558b8f8c49f99ede2a353921d9a63ad,Do director of film Father'S Day (1996 Film) and director of film The Pursuit Of Happiness (1971 Film) have the same nationality?,3,df74c88567561261707555fa8504bf93678834b5fce5f943,0.022115588
+f47a70ebc3471bb3fc81f93c8c812af1fb71048a720c3a47,"Which country John Ii, Duke Of Lorraine's father is from?",1,f47a70ebc3471bb3fc81f93c8c812af1fb71048a720c3a47,0.99943095
+f47a70ebc3471bb3fc81f93c8c812af1fb71048a720c3a47,"Which country John Ii, Duke Of Lorraine's father is from?",2,da6e2f15aa7f645e3bb8393116a36ea20d8039448fdbf241,0.0025263098
+f47a70ebc3471bb3fc81f93c8c812af1fb71048a720c3a47,"Which country John Ii, Duke Of Lorraine's father is from?",3,40877325ac5773a0259a6e7a86ab477a4654a4cf8f94c149,0.0003393864
+8c2e68d24afdb2a83a0299059a0ca6b5df4e4490e262bbe6,"Are both movies, Don'T Bet On Blondes and The Empress And I, from the same country?",1,8c2e68d24afdb2a83a0299059a0ca6b5df4e4490e262bbe6,0.9997818
+8c2e68d24afdb2a83a0299059a0ca6b5df4e4490e262bbe6,"Are both movies, Don'T Bet On Blondes and The Empress And I, from the same country?",2,d1cd11866ff12ea793c26c2d19db1259fcaa9cc2c7ebc1dc,5.884189e-05
+8c2e68d24afdb2a83a0299059a0ca6b5df4e4490e262bbe6,"Are both movies, Don'T Bet On Blondes and The Empress And I, from the same country?",3,da0b455bd3394d2118bf242b9458c3857d5d6e9ccbf07f64,4.530631e-05
+1359ea4b835842cf7d0192cfa52c4f8af5656b00f230f69b,"Which film has the director who died earlier, Lassie Come Home or Prairie Thunder?",1,1359ea4b835842cf7d0192cfa52c4f8af5656b00f230f69b,0.9994991
+1359ea4b835842cf7d0192cfa52c4f8af5656b00f230f69b,"Which film has the director who died earlier, Lassie Come Home or Prairie Thunder?",2,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.98958194
+1359ea4b835842cf7d0192cfa52c4f8af5656b00f230f69b,"Which film has the director who died earlier, Lassie Come Home or Prairie Thunder?",3,feac1266126ef65a017535d551c19f741c29144a057bac71,0.07419145
+dbf1e1aaf4bb930e3520de800091020e5b391556904e0ed9,"Which film has the director who died earlier, Everything'S Ducky or Karthika (Film)?",1,dbf1e1aaf4bb930e3520de800091020e5b391556904e0ed9,0.9995763
+dbf1e1aaf4bb930e3520de800091020e5b391556904e0ed9,"Which film has the director who died earlier, Everything'S Ducky or Karthika (Film)?",2,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.9873777
+dbf1e1aaf4bb930e3520de800091020e5b391556904e0ed9,"Which film has the director who died earlier, Everything'S Ducky or Karthika (Film)?",3,feac1266126ef65a017535d551c19f741c29144a057bac71,0.045819886
+2eda134b5c6564d2f1f8f3b135e65c9d42cdd63bc6fb7741,"Who was born first, Jörn Lenz or Alejandro Romualdo?",1,8e33b783534c90d43c07617f4106a5056cb93ba21758b91c,0.16794032
+2eda134b5c6564d2f1f8f3b135e65c9d42cdd63bc6fb7741,"Who was born first, Jörn Lenz or Alejandro Romualdo?",2,24144554a83a55c968553f1def746d606e45881afe44feff,0.006920682
+2eda134b5c6564d2f1f8f3b135e65c9d42cdd63bc6fb7741,"Who was born first, Jörn Lenz or Alejandro Romualdo?",3,04a89b092e375c921d967a3cb6cb77c6caf28ff1ec3a0dbf,0.00023167182
+8d5000c1cbd7582bdf96735f824c713974eb9c63797a2e48,"Which film has the director who was born first, Throw Momma From The Train or Dona Mariquita Of My Heart?",1,8d5000c1cbd7582bdf96735f824c713974eb9c63797a2e48,0.9995908
+8d5000c1cbd7582bdf96735f824c713974eb9c63797a2e48,"Which film has the director who was born first, Throw Momma From The Train or Dona Mariquita Of My Heart?",2,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.005725095
+8d5000c1cbd7582bdf96735f824c713974eb9c63797a2e48,"Which film has the director who was born first, Throw Momma From The Train or Dona Mariquita Of My Heart?",3,df74c88567561261707555fa8504bf93678834b5fce5f943,0.0006804399
+98a876b06f01c95087197cb532bb41013ac07c5598003e3a,"Who is the paternal grandfather of Amadeus Viii, Duke Of Savoy?",1,32482945828a5aab162d7534d56b2b39f5292f6cd0fe0587,0.124245636
+98a876b06f01c95087197cb532bb41013ac07c5598003e3a,"Who is the paternal grandfather of Amadeus Viii, Duke Of Savoy?",2,f47a70ebc3471bb3fc81f93c8c812af1fb71048a720c3a47,0.0054713273
+98a876b06f01c95087197cb532bb41013ac07c5598003e3a,"Who is the paternal grandfather of Amadeus Viii, Duke Of Savoy?",3,da6e2f15aa7f645e3bb8393116a36ea20d8039448fdbf241,0.0008106983
+f0e14b404e9ff2b697b784fd8395d8eeecd279eaff02df1a,Who is the mother-in-law of Maria Caroline Gibert De Lametz?,1,d64ce42f72497e502a412d395566e55a3793d05b35004cb4,3.6518777e-05
+f0e14b404e9ff2b697b784fd8395d8eeecd279eaff02df1a,Who is the mother-in-law of Maria Caroline Gibert De Lametz?,2,ca06c3f82b647eb99a1c7b5d69047e9b373e600144bb80ee,1.9092795e-05
+f0e14b404e9ff2b697b784fd8395d8eeecd279eaff02df1a,Who is the mother-in-law of Maria Caroline Gibert De Lametz?,3,1e7b44a5002efba074f208c9778567477cc4d4a1ac53d7ef,1.8627414e-05
+73a910a9f551d4d274e6f329d3f8a5049561120fae602224,Where did the director of film Crd (Film) study?,1,73a910a9f551d4d274e6f329d3f8a5049561120fae602224,0.9988121
+73a910a9f551d4d274e6f329d3f8a5049561120fae602224,Where did the director of film Crd (Film) study?,2,8e55a3cb4c213a132ff3bfef7a6df6290427488e9b732883,0.021670926
+73a910a9f551d4d274e6f329d3f8a5049561120fae602224,Where did the director of film Crd (Film) study?,3,59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,0.005743291
+fabab5b0e03630edd99d2b2ea223ff953d0d8de032a11bb1,"What is the date of death of George Feilding, 1St Earl Of Desmond's father?",1,fabab5b0e03630edd99d2b2ea223ff953d0d8de032a11bb1,0.9989881
+fabab5b0e03630edd99d2b2ea223ff953d0d8de032a11bb1,"What is the date of death of George Feilding, 1St Earl Of Desmond's father?",2,ca06c3f82b647eb99a1c7b5d69047e9b373e600144bb80ee,9.532488e-05
+fabab5b0e03630edd99d2b2ea223ff953d0d8de032a11bb1,"What is the date of death of George Feilding, 1St Earl Of Desmond's father?",3,ffb74b527f19f9e8c0fdc8a392174309f50696c95cbd7c97,4.541246e-05
+004f56357e6d3851026b1a760360d2edc0e23d1d997bfea8,Where was the director of film The Messenger (2009 Film) born?,1,004f56357e6d3851026b1a760360d2edc0e23d1d997bfea8,0.9991811
+004f56357e6d3851026b1a760360d2edc0e23d1d997bfea8,Where was the director of film The Messenger (2009 Film) born?,2,feac1266126ef65a017535d551c19f741c29144a057bac71,0.054128315
+004f56357e6d3851026b1a760360d2edc0e23d1d997bfea8,Where was the director of film The Messenger (2009 Film) born?,3,8e55a3cb4c213a132ff3bfef7a6df6290427488e9b732883,0.002595001
+79e5312122eb8a7811f0ac120e76d2ff7576287cab7c6a63,Where was the place of death of Amaury De Montfort (Died 1241)'s father?,1,79e5312122eb8a7811f0ac120e76d2ff7576287cab7c6a63,0.99905366
+79e5312122eb8a7811f0ac120e76d2ff7576287cab7c6a63,Where was the place of death of Amaury De Montfort (Died 1241)'s father?,2,bf38d1ee9dcb2c26f2a55cde167dae2eeb4047687079a45a,0.00016125939
+79e5312122eb8a7811f0ac120e76d2ff7576287cab7c6a63,Where was the place of death of Amaury De Montfort (Died 1241)'s father?,3,f47a70ebc3471bb3fc81f93c8c812af1fb71048a720c3a47,6.5660955e-05
+2fb979b11527f947e3c2b78425d5b9b5b7747941098e344f,Where was the father of R. Whidden Ganong born?,1,2fb979b11527f947e3c2b78425d5b9b5b7747941098e344f,0.9992224
+2fb979b11527f947e3c2b78425d5b9b5b7747941098e344f,Where was the father of R. Whidden Ganong born?,2,079131850286083a72ba811e3124c3c266f7a7aba5b7f5b6,5.5302608e-05
+2fb979b11527f947e3c2b78425d5b9b5b7747941098e344f,Where was the father of R. Whidden Ganong born?,3,1e7b44a5002efba074f208c9778567477cc4d4a1ac53d7ef,2.8777476e-05
+9df763aa74342832d7a49aef6c3164f15a550c09968d1378,"Which film was released more recently, Morchha or The Thing About My Folks?",1,9df763aa74342832d7a49aef6c3164f15a550c09968d1378,0.9995364
+9df763aa74342832d7a49aef6c3164f15a550c09968d1378,"Which film was released more recently, Morchha or The Thing About My Folks?",2,891a3e506822e0c94cdbc63c673cf78d6b919a7479c1e961,0.94999105
+9df763aa74342832d7a49aef6c3164f15a550c09968d1378,"Which film was released more recently, Morchha or The Thing About My Folks?",3,b058a6541fba988d17aa0172344f2b537993008bedd729d5,0.04619055
+154a6622a73d4e3db1f02476113b94d8c527b7d0ac01ed9a,Who is Rameshwari Nehru's father-in-law?,1,079131850286083a72ba811e3124c3c266f7a7aba5b7f5b6,0.016293954
+2924e8ee211188de180c4a1e39f85554615b2090e139eb63,"Which film has the director who is older, See Naples And Die or Season Of Strangers?",1,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.24400452
+2924e8ee211188de180c4a1e39f85554615b2090e139eb63,"Which film has the director who is older, See Naples And Die or Season Of Strangers?",2,feac1266126ef65a017535d551c19f741c29144a057bac71,0.040017206
+2924e8ee211188de180c4a1e39f85554615b2090e139eb63,"Which film has the director who is older, See Naples And Die or Season Of Strangers?",3,47659268bc430f7e640db930b97fed4d0670cce46cdb83f8,0.032510616
+85f3200158511b95a7eb4ed5bf9c4698247662ff8a40943c,Who is the paternal grandmother of Archduchess Dolores Of Austria?,1,85f3200158511b95a7eb4ed5bf9c4698247662ff8a40943c,0.99929047
+85f3200158511b95a7eb4ed5bf9c4698247662ff8a40943c,Who is the paternal grandmother of Archduchess Dolores Of Austria?,2,5ed74e008cbf844474db3cd9bd66a56434e7673185737175,8.766285e-05
+85f3200158511b95a7eb4ed5bf9c4698247662ff8a40943c,Who is the paternal grandmother of Archduchess Dolores Of Austria?,3,f47a70ebc3471bb3fc81f93c8c812af1fb71048a720c3a47,1.9891633e-05
+0b8977d31c66e37a03d592bb1a798d21c257493fc55cda10,What is the place of birth of Mi Saw U's father?,1,0b8977d31c66e37a03d592bb1a798d21c257493fc55cda10,0.99832267
+0b8977d31c66e37a03d592bb1a798d21c257493fc55cda10,What is the place of birth of Mi Saw U's father?,2,3498041a8960ebd62cd1567bd884cd559d65792fc3014299,5.6051227e-05
+0b8977d31c66e37a03d592bb1a798d21c257493fc55cda10,What is the place of birth of Mi Saw U's father?,3,3a4153b2cd645e567d268c92fc153be937caefb93ac238df,2.621593e-05
+74f0f31fc1a89028c0fffa4052d8acb2c92729e0122c67b2,Where did Francis W. Rockwell's father study?,1,f47a70ebc3471bb3fc81f93c8c812af1fb71048a720c3a47,3.4869354e-05
+74f0f31fc1a89028c0fffa4052d8acb2c92729e0122c67b2,Where did Francis W. Rockwell's father study?,2,dac493ba4f0384ffeca47421d2111feceecf2750e56e73f9,1.751161e-05
+74f0f31fc1a89028c0fffa4052d8acb2c92729e0122c67b2,Where did Francis W. Rockwell's father study?,3,5d2435c261cf4ec0635d68b92006f7926e6739eea53c202b,1.6617807e-05
+9e9c4bdf1d27af305babdee3de3e6800a8a29e1956a1d30a,"Are the movies Amy (2015 Film) and Manhattan Angel, from the same country?",1,59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,0.016525192
+9e9c4bdf1d27af305babdee3de3e6800a8a29e1956a1d30a,"Are the movies Amy (2015 Film) and Manhattan Angel, from the same country?",2,d1cd11866ff12ea793c26c2d19db1259fcaa9cc2c7ebc1dc,0.00016379454
+9e9c4bdf1d27af305babdee3de3e6800a8a29e1956a1d30a,"Are the movies Amy (2015 Film) and Manhattan Angel, from the same country?",3,0e1a7715016522e4285d6db621310d72b3db49464271cf47,0.00012738608
+78877dc3800b31f7831cf2f941219ee29493e35b53b059a1,What nationality is the director of film The Shark (1920 Film)?,1,78877dc3800b31f7831cf2f941219ee29493e35b53b059a1,0.9993105
+78877dc3800b31f7831cf2f941219ee29493e35b53b059a1,What nationality is the director of film The Shark (1920 Film)?,2,feac1266126ef65a017535d551c19f741c29144a057bac71,0.0057042465
+78877dc3800b31f7831cf2f941219ee29493e35b53b059a1,What nationality is the director of film The Shark (1920 Film)?,3,59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,0.0051031318
+580cf59074e3c57611569b2ea0f0916626954abb02804e6b,Where was the place of death of Helena (Empress)'s husband?,1,bf38d1ee9dcb2c26f2a55cde167dae2eeb4047687079a45a,0.35095266
+580cf59074e3c57611569b2ea0f0916626954abb02804e6b,Where was the place of death of Helena (Empress)'s husband?,2,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,0.0022732744
+580cf59074e3c57611569b2ea0f0916626954abb02804e6b,Where was the place of death of Helena (Empress)'s husband?,3,10f214e9e44886b887a7fe742c949ab4d18d851df9ee68d2,0.00015349974
+977a06fd17dadfff5c389d40fdd5a91ffcc56a45dd53fa35,"Which film has the director who was born later, Borsalino & Co. or Köpekler Adası?",1,04a89b092e375c921d967a3cb6cb77c6caf28ff1ec3a0dbf,0.91105837
+977a06fd17dadfff5c389d40fdd5a91ffcc56a45dd53fa35,"Which film has the director who was born later, Borsalino & Co. or Köpekler Adası?",2,feac1266126ef65a017535d551c19f741c29144a057bac71,0.5489596
+977a06fd17dadfff5c389d40fdd5a91ffcc56a45dd53fa35,"Which film has the director who was born later, Borsalino & Co. or Köpekler Adası?",3,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.09019315
+8d85a890f8b65203743e4e9411416d216e2bdf65f626cf23,What nationality is the director of film Muvva Gopaludu?,1,59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,0.003010336
+8d85a890f8b65203743e4e9411416d216e2bdf65f626cf23,What nationality is the director of film Muvva Gopaludu?,2,df74c88567561261707555fa8504bf93678834b5fce5f943,0.00087615114
+8d85a890f8b65203743e4e9411416d216e2bdf65f626cf23,What nationality is the director of film Muvva Gopaludu?,3,feac1266126ef65a017535d551c19f741c29144a057bac71,0.00022331902
+6a1b88bdf6b4452fbdbbc79f52f47b1ef42fa1c058e9d236,Where did the director of film Temptation (1959 Film) die?,1,6a1b88bdf6b4452fbdbbc79f52f47b1ef42fa1c058e9d236,0.9993729
+6a1b88bdf6b4452fbdbbc79f52f47b1ef42fa1c058e9d236,Where did the director of film Temptation (1959 Film) die?,2,47659268bc430f7e640db930b97fed4d0670cce46cdb83f8,0.108359285
+6a1b88bdf6b4452fbdbbc79f52f47b1ef42fa1c058e9d236,Where did the director of film Temptation (1959 Film) die?,3,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.08552279
+787a7fa58b79c188686922efbf6bbf13f30e63e699f0d96b,"Which film has the director who was born first, Hanuman Patal Vijay or Young And Dangerous: The Prequel?",1,787a7fa58b79c188686922efbf6bbf13f30e63e699f0d96b,0.9997023
+787a7fa58b79c188686922efbf6bbf13f30e63e699f0d96b,"Which film has the director who was born first, Hanuman Patal Vijay or Young And Dangerous: The Prequel?",2,54a23d6cb838dd2a56c1ef30e4b4ecf742735f659c470879,0.21678007
+787a7fa58b79c188686922efbf6bbf13f30e63e699f0d96b,"Which film has the director who was born first, Hanuman Patal Vijay or Young And Dangerous: The Prequel?",3,dd3a33f7a133c0cf642f5c916366314d4a4833334e35e724,0.027486572
+ec4d2bc458764f6bb22a554fcff40c78d1ea54c9b941b9cd,Who is Coirpre Mac Fogartaig's paternal grandfather?,1,13544cb436cbe98f1b565d58244f53f8b38eb63b4a5177e4,0.89521706
+ec4d2bc458764f6bb22a554fcff40c78d1ea54c9b941b9cd,Who is Coirpre Mac Fogartaig's paternal grandfather?,2,5d2435c261cf4ec0635d68b92006f7926e6739eea53c202b,0.007267435
+ec4d2bc458764f6bb22a554fcff40c78d1ea54c9b941b9cd,Who is Coirpre Mac Fogartaig's paternal grandfather?,3,32482945828a5aab162d7534d56b2b39f5292f6cd0fe0587,0.0019073108
+daaf2e7324a8339d157f22a8060117f70cc05a0e87ff37d1,"Where did Elisabeth Of Hesse, Electress Palatine's mother die?",1,daaf2e7324a8339d157f22a8060117f70cc05a0e87ff37d1,0.9991966
+daaf2e7324a8339d157f22a8060117f70cc05a0e87ff37d1,"Where did Elisabeth Of Hesse, Electress Palatine's mother die?",2,38387b0175b1713c6f7cc99561f16413ccb360fdcb00e814,0.02631548
+daaf2e7324a8339d157f22a8060117f70cc05a0e87ff37d1,"Where did Elisabeth Of Hesse, Electress Palatine's mother die?",3,8af6d8a5fbee80d8de94359d33a5894a0c5169c9a33c7509,2.2253587e-05
+22795cc836665fae4d6dbd8d676b0cd6be16fb7f5068c985,"Who was born first, Brodie Croft or Saad Abdulrahman?",1,22795cc836665fae4d6dbd8d676b0cd6be16fb7f5068c985,0.9995863
+22795cc836665fae4d6dbd8d676b0cd6be16fb7f5068c985,"Who was born first, Brodie Croft or Saad Abdulrahman?",2,8e33b783534c90d43c07617f4106a5056cb93ba21758b91c,0.034851957
+22795cc836665fae4d6dbd8d676b0cd6be16fb7f5068c985,"Who was born first, Brodie Croft or Saad Abdulrahman?",3,24144554a83a55c968553f1def746d606e45881afe44feff,0.002600332
+79b55eec86dd6e66a393dd4d6e510b7e696784781a6b6909,"Where did Joanna, Duchess Of Durazzo's mother die?",1,8af6d8a5fbee80d8de94359d33a5894a0c5169c9a33c7509,4.1594205e-05
+79b55eec86dd6e66a393dd4d6e510b7e696784781a6b6909,"Where did Joanna, Duchess Of Durazzo's mother die?",2,60163d86d206aaa179b61a2d43b27a7ec909b724b5685b50,3.288233e-05
+79b55eec86dd6e66a393dd4d6e510b7e696784781a6b6909,"Where did Joanna, Duchess Of Durazzo's mother die?",3,47659268bc430f7e640db930b97fed4d0670cce46cdb83f8,2.4723142e-05
+5d40d1a2db550f9a3d7c047b911ae92b38fe7af8a69eda84,Where was the performer of song Get A Life – Get Alive born?,1,5d40d1a2db550f9a3d7c047b911ae92b38fe7af8a69eda84,0.99886477
+5d40d1a2db550f9a3d7c047b911ae92b38fe7af8a69eda84,Where was the performer of song Get A Life – Get Alive born?,2,2820f5f6db2a73a11f6269437ced07bf92dd3636cfda02ee,0.006410758
+5d40d1a2db550f9a3d7c047b911ae92b38fe7af8a69eda84,Where was the performer of song Get A Life – Get Alive born?,3,8a758fe292d901d43c7729a09392968963811f61842518f3,0.004215818
+e073fe98e7399449d3472ff2c32bb8dedfc57fb49c773ee3,"Which film has the director born earlier, Pieces Of A Woman or Oriental Nights?",1,feac1266126ef65a017535d551c19f741c29144a057bac71,0.72806966
+e073fe98e7399449d3472ff2c32bb8dedfc57fb49c773ee3,"Which film has the director born earlier, Pieces Of A Woman or Oriental Nights?",2,8d5000c1cbd7582bdf96735f824c713974eb9c63797a2e48,0.35296974
+e073fe98e7399449d3472ff2c32bb8dedfc57fb49c773ee3,"Which film has the director born earlier, Pieces Of A Woman or Oriental Nights?",3,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.21937503
+7d16ac30561f6c27fcc89c64935d0f3a9367123cb90045fe,"Who is the paternal grandfather of Thomas Beaufort, Count Of Perche?",1,7d16ac30561f6c27fcc89c64935d0f3a9367123cb90045fe,0.9996013
+7d16ac30561f6c27fcc89c64935d0f3a9367123cb90045fe,"Who is the paternal grandfather of Thomas Beaufort, Count Of Perche?",2,8c17c1259ed0c31bff3ee48ef8a6c4c54469c7769ffbc1c1,0.31414768
+7d16ac30561f6c27fcc89c64935d0f3a9367123cb90045fe,"Who is the paternal grandfather of Thomas Beaufort, Count Of Perche?",3,d524ca109e5ac6284dec16931f2403ef7859225cfde19e9e,8.276815e-05
+4b75cc29103067312be5cecb01b75f9a573d51a384f3fc99,Where did Martha Bulloch Roosevelt's husband die?,1,4b75cc29103067312be5cecb01b75f9a573d51a384f3fc99,0.9984396
+4b75cc29103067312be5cecb01b75f9a573d51a384f3fc99,Where did Martha Bulloch Roosevelt's husband die?,2,10f214e9e44886b887a7fe742c949ab4d18d851df9ee68d2,3.5677847e-05
+4b75cc29103067312be5cecb01b75f9a573d51a384f3fc99,Where did Martha Bulloch Roosevelt's husband die?,3,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,2.0455947e-05
+b8737cbf764dc336463c1c85ad212b604a8825fd1feadd69,Who is the maternal grandfather of Prince Christian Of Hesse?,1,b8737cbf764dc336463c1c85ad212b604a8825fd1feadd69,0.99938285
+b8737cbf764dc336463c1c85ad212b604a8825fd1feadd69,Who is the maternal grandfather of Prince Christian Of Hesse?,2,32482945828a5aab162d7534d56b2b39f5292f6cd0fe0587,0.58414006
+b8737cbf764dc336463c1c85ad212b604a8825fd1feadd69,Who is the maternal grandfather of Prince Christian Of Hesse?,3,8e74e61b04f497cda285fdb613c9297b39c2f35c78a46bb4,0.2724221
+37619a016827bb34e18a62cfd04973927ef28a5751b50861,"Are the bands Knuckle Puck and Aqua (Band), from the same country?",1,37619a016827bb34e18a62cfd04973927ef28a5751b50861,0.99978715
+37619a016827bb34e18a62cfd04973927ef28a5751b50861,"Are the bands Knuckle Puck and Aqua (Band), from the same country?",2,c085e944c27941be03b4e45db3039b45a31f3c50117537a9,0.0001685793
+37619a016827bb34e18a62cfd04973927ef28a5751b50861,"Are the bands Knuckle Puck and Aqua (Band), from the same country?",3,0f7c34cfb1c045d4b8242556440930f7d5ce60e4754443b4,8.412879e-05
+37c2f3d34ab7cc04a5985712fe35b9ec24dd218fa4985772,"Who was born earlier, Marco Bortolami or Yan Yan Chan?",1,37c2f3d34ab7cc04a5985712fe35b9ec24dd218fa4985772,0.99966276
+37c2f3d34ab7cc04a5985712fe35b9ec24dd218fa4985772,"Who was born earlier, Marco Bortolami or Yan Yan Chan?",2,04a89b092e375c921d967a3cb6cb77c6caf28ff1ec3a0dbf,0.009267961
+37c2f3d34ab7cc04a5985712fe35b9ec24dd218fa4985772,"Who was born earlier, Marco Bortolami or Yan Yan Chan?",3,8e33b783534c90d43c07617f4106a5056cb93ba21758b91c,0.00015420494
+7eec2170fed75c198bfa60ddf8505a51e8b00b888ea01a52,What nationality is the composer of song Inescapable (Song)?,1,4757e04814693a1a0ddc4c330f892f678a9c74bb49599efb,0.1625742
+7eec2170fed75c198bfa60ddf8505a51e8b00b888ea01a52,What nationality is the composer of song Inescapable (Song)?,2,9a1ec3f581a0267d71a30d7661ceb6e277b0be8a58c12e6e,0.005456324
+7eec2170fed75c198bfa60ddf8505a51e8b00b888ea01a52,What nationality is the composer of song Inescapable (Song)?,3,081c47a97a4d7be7bdce61ef84d30fc6bb33ca65c913523b,0.004979193
+533d60d939fb6bc22e89e75a45aec3eb7e198d8b3aef0c6d,"Which film has the director who died earlier, You'Re Missing The Point or La Figliastra?",1,4adca5ba1654b740d1e25c6e73d45aa2f3621537bed9086b,0.9826347
+533d60d939fb6bc22e89e75a45aec3eb7e198d8b3aef0c6d,"Which film has the director who died earlier, You'Re Missing The Point or La Figliastra?",2,0df95375e082998e11c14660675ca1d4d28cbf40c094fa47,0.7743067
+533d60d939fb6bc22e89e75a45aec3eb7e198d8b3aef0c6d,"Which film has the director who died earlier, You'Re Missing The Point or La Figliastra?",3,ec96dad9bf806f1c5597178f476df39ad6603170efabe914,0.58061177
+a69b19d14a6387991f7dc3ec2981a854b9ab1ba23876d1a2,Who is Konrad Iii The Old's paternal grandfather?,1,a69b19d14a6387991f7dc3ec2981a854b9ab1ba23876d1a2,0.99944216
+a69b19d14a6387991f7dc3ec2981a854b9ab1ba23876d1a2,Who is Konrad Iii The Old's paternal grandfather?,2,32482945828a5aab162d7534d56b2b39f5292f6cd0fe0587,0.100803
+a69b19d14a6387991f7dc3ec2981a854b9ab1ba23876d1a2,Who is Konrad Iii The Old's paternal grandfather?,3,655fc29d0115a80d33282ccc52486416f3e2225f30f645c2,0.0513166
+8c701e4113f34446d9d2f2a8f10426690f405aaa82aa04b5,"Which film has the director who was born later, Maneater Of Hydra or The Fighting Seabees?",1,04a89b092e375c921d967a3cb6cb77c6caf28ff1ec3a0dbf,0.8906443
+8c701e4113f34446d9d2f2a8f10426690f405aaa82aa04b5,"Which film has the director who was born later, Maneater Of Hydra or The Fighting Seabees?",2,feac1266126ef65a017535d551c19f741c29144a057bac71,0.5436074
+8c701e4113f34446d9d2f2a8f10426690f405aaa82aa04b5,"Which film has the director who was born later, Maneater Of Hydra or The Fighting Seabees?",3,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.10244856
+5d2435c261cf4ec0635d68b92006f7926e6739eea53c202b,Who is the paternal grandfather of Nia Segamain?,1,32482945828a5aab162d7534d56b2b39f5292f6cd0fe0587,0.013893373
+5d2435c261cf4ec0635d68b92006f7926e6739eea53c202b,Who is the paternal grandfather of Nia Segamain?,2,4b564dc097e7bbbd647ac1a6e70a11ab76351cc8415a733f,2.5098243e-05
+5d2435c261cf4ec0635d68b92006f7926e6739eea53c202b,Who is the paternal grandfather of Nia Segamain?,3,60163d86d206aaa179b61a2d43b27a7ec909b724b5685b50,1.8632742e-05
+df26a4d86dc9b42db852cc02c6231f14bf681303430b1364,Where does Philip Goodhart's father work at?,1,df26a4d86dc9b42db852cc02c6231f14bf681303430b1364,0.99905413
+df26a4d86dc9b42db852cc02c6231f14bf681303430b1364,Where does Philip Goodhart's father work at?,2,3498041a8960ebd62cd1567bd884cd559d65792fc3014299,5.941465e-05
+df26a4d86dc9b42db852cc02c6231f14bf681303430b1364,Where does Philip Goodhart's father work at?,3,b6fdd8f9d56c029b83580e36d6b3642dbb387a9d60da03df,4.922486e-05
+dac493ba4f0384ffeca47421d2111feceecf2750e56e73f9,"Who was born later, Jean Daninos or Lincoln Kilpatrick Jr.?",1,04a89b092e375c921d967a3cb6cb77c6caf28ff1ec3a0dbf,0.0004981281
+dac493ba4f0384ffeca47421d2111feceecf2750e56e73f9,"Who was born later, Jean Daninos or Lincoln Kilpatrick Jr.?",2,8e33b783534c90d43c07617f4106a5056cb93ba21758b91c,0.00016202139
+dac493ba4f0384ffeca47421d2111feceecf2750e56e73f9,"Who was born later, Jean Daninos or Lincoln Kilpatrick Jr.?",3,4ad3d43b4e53817be115414af1638d04328f437bb748ebf1,2.2113518e-05
+7022cbda00a72169cc470d7879da58fc0673ff175aa1f19f,Which country Chu Lingyuan's husband is from?,1,7022cbda00a72169cc470d7879da58fc0673ff175aa1f19f,0.99919623
+7022cbda00a72169cc470d7879da58fc0673ff175aa1f19f,Which country Chu Lingyuan's husband is from?,2,f47a70ebc3471bb3fc81f93c8c812af1fb71048a720c3a47,0.0001953101
+7022cbda00a72169cc470d7879da58fc0673ff175aa1f19f,Which country Chu Lingyuan's husband is from?,3,56608e144ec858fa3185b2ac9e561547c68a5909c33033ba,3.332165e-05
+0f356f26b81fba8d85f6f24e82f2d11dfdd8ee32bc7025bd,Which country Eugenia Livanos's husband is from?,1,f47a70ebc3471bb3fc81f93c8c812af1fb71048a720c3a47,0.0007068493
+0f356f26b81fba8d85f6f24e82f2d11dfdd8ee32bc7025bd,Which country Eugenia Livanos's husband is from?,2,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,0.00022403774
+0f356f26b81fba8d85f6f24e82f2d11dfdd8ee32bc7025bd,Which country Eugenia Livanos's husband is from?,3,56608e144ec858fa3185b2ac9e561547c68a5909c33033ba,3.6247413e-05
+ab93c8b5c1a68316d04c11e7a9a4e9816cd754d7f655e6f6,"Who is Sancha Of Castile, Queen Of Aragon's paternal grandmother?",1,ab93c8b5c1a68316d04c11e7a9a4e9816cd754d7f655e6f6,0.99964476
+ab93c8b5c1a68316d04c11e7a9a4e9816cd754d7f655e6f6,"Who is Sancha Of Castile, Queen Of Aragon's paternal grandmother?",2,70601344d5c269a97df44b9d3429bfcc5230800d6c97ac3a,0.010471951
+ab93c8b5c1a68316d04c11e7a9a4e9816cd754d7f655e6f6,"Who is Sancha Of Castile, Queen Of Aragon's paternal grandmother?",3,ee5d9f9d86e7e98659e3e81baff53f13807147550593b3bb,0.0076156436
+ff1f1458c122cb17935c5b235537854af253dfffcd37f98d,Where did the director of film Defilada graduate from?,1,ff1f1458c122cb17935c5b235537854af253dfffcd37f98d,0.99921715
+ff1f1458c122cb17935c5b235537854af253dfffcd37f98d,Where did the director of film Defilada graduate from?,2,59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,0.0034818407
+ff1f1458c122cb17935c5b235537854af253dfffcd37f98d,Where did the director of film Defilada graduate from?,3,dde2c006bfa530403e8c9bafc6497d0e65aad8cf1b6813ee,0.0028456426
+23c31f6cbc44072212b709b7348b2b6f8a012d997aaa706d,"Which film has the director born first, The Ugly Ones or Practical Jokers?",1,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.011970597
+23c31f6cbc44072212b709b7348b2b6f8a012d997aaa706d,"Which film has the director born first, The Ugly Ones or Practical Jokers?",2,df74c88567561261707555fa8504bf93678834b5fce5f943,0.0010500785
+23c31f6cbc44072212b709b7348b2b6f8a012d997aaa706d,"Which film has the director born first, The Ugly Ones or Practical Jokers?",3,8e55a3cb4c213a132ff3bfef7a6df6290427488e9b732883,0.0010245963
+379a5df5053403945db30c234b02d7d7087a593b070abb95,"Which film has the director who is older, Cry Of The Hunted or Salvage With A Smile?",1,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.16798386
+379a5df5053403945db30c234b02d7d7087a593b070abb95,"Which film has the director who is older, Cry Of The Hunted or Salvage With A Smile?",2,feac1266126ef65a017535d551c19f741c29144a057bac71,0.075792
+379a5df5053403945db30c234b02d7d7087a593b070abb95,"Which film has the director who is older, Cry Of The Hunted or Salvage With A Smile?",3,8d5000c1cbd7582bdf96735f824c713974eb9c63797a2e48,0.06453797
+891a3e506822e0c94cdbc63c673cf78d6b919a7479c1e961,"Which film was released more recently, Singapore Dreaming or Gray Lady Down?",1,891a3e506822e0c94cdbc63c673cf78d6b919a7479c1e961,0.9997719
+891a3e506822e0c94cdbc63c673cf78d6b919a7479c1e961,"Which film was released more recently, Singapore Dreaming or Gray Lady Down?",2,b058a6541fba988d17aa0172344f2b537993008bedd729d5,0.005090968
+891a3e506822e0c94cdbc63c673cf78d6b919a7479c1e961,"Which film was released more recently, Singapore Dreaming or Gray Lady Down?",3,7de7d760b636aee90f01cbc0d33fcd4f3029bfbe12edf862,0.00032411065
+4e1520d379bc44b174f44482a9f512db0a7f9db46b7b68b7,"Who lived longer, Motu Hafoka or Wilhelm Meise?",1,4e1520d379bc44b174f44482a9f512db0a7f9db46b7b68b7,0.9993831
+4e1520d379bc44b174f44482a9f512db0a7f9db46b7b68b7,"Who lived longer, Motu Hafoka or Wilhelm Meise?",2,e1439b2d77ce90280f85c9b3aaca79d8880aa1f7d97545ea,0.37344778
+4e1520d379bc44b174f44482a9f512db0a7f9db46b7b68b7,"Who lived longer, Motu Hafoka or Wilhelm Meise?",3,051d0c0da566fd0fe1d29d5d4916b118c73d76d0ae78a215,1.5190563e-05
+70601344d5c269a97df44b9d3429bfcc5230800d6c97ac3a,Who is the paternal grandmother of Seleucus V Philometor?,1,d524ca109e5ac6284dec16931f2403ef7859225cfde19e9e,1.9795876e-05
+4634cb79db611f92c95058db25906924969edc6a4fa86796,"Which film has the director who is older than the other, Ebar Shabor or Circle Of Deception? ",1,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.1396639
+4634cb79db611f92c95058db25906924969edc6a4fa86796,"Which film has the director who is older than the other, Ebar Shabor or Circle Of Deception? ",2,feac1266126ef65a017535d551c19f741c29144a057bac71,0.032934293
+4634cb79db611f92c95058db25906924969edc6a4fa86796,"Which film has the director who is older than the other, Ebar Shabor or Circle Of Deception? ",3,8d5000c1cbd7582bdf96735f824c713974eb9c63797a2e48,0.019120298
+f212a163fb7a09cc359579e6556fa9673926760ed4c9adc6,"Are the movies Je Suis Né D'Une Cigogne and La Chair De L'Orchidée, from the same country?",1,54afee9afec7cd7053b95b1f9c63f196392fd26653c0824e,0.027478738
+f212a163fb7a09cc359579e6556fa9673926760ed4c9adc6,"Are the movies Je Suis Né D'Une Cigogne and La Chair De L'Orchidée, from the same country?",2,0e1a7715016522e4285d6db621310d72b3db49464271cf47,7.42998e-05
+f212a163fb7a09cc359579e6556fa9673926760ed4c9adc6,"Are the movies Je Suis Né D'Une Cigogne and La Chair De L'Orchidée, from the same country?",3,f47a70ebc3471bb3fc81f93c8c812af1fb71048a720c3a47,7.2740695e-05
+abcece2a80908d35b2f960f69df896560b7945225fd8f8e7,"Which film has the director who died later, Searchlight On Japan or Beauties Of The Night?",1,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.9371771
+abcece2a80908d35b2f960f69df896560b7945225fd8f8e7,"Which film has the director who died later, Searchlight On Japan or Beauties Of The Night?",2,36a31748c55843a2c648cdf6950227889b90f9fd10707c64,0.2799721
+abcece2a80908d35b2f960f69df896560b7945225fd8f8e7,"Which film has the director who died later, Searchlight On Japan or Beauties Of The Night?",3,feac1266126ef65a017535d551c19f741c29144a057bac71,0.031206992
+6b201c0435cc4b092d4e902e776e9fa619d1881a903d2e72,Who is Sirikitiya Jensen's maternal grandmother?,1,6b201c0435cc4b092d4e902e776e9fa619d1881a903d2e72,0.99915993
+32482945828a5aab162d7534d56b2b39f5292f6cd0fe0587,"Who is Hermann, Prince Of Hohenlohe-Langenburg's paternal grandfather?",1,32482945828a5aab162d7534d56b2b39f5292f6cd0fe0587,0.9996433
+32482945828a5aab162d7534d56b2b39f5292f6cd0fe0587,"Who is Hermann, Prince Of Hohenlohe-Langenburg's paternal grandfather?",2,8c17c1259ed0c31bff3ee48ef8a6c4c54469c7769ffbc1c1,0.9898818
+32482945828a5aab162d7534d56b2b39f5292f6cd0fe0587,"Who is Hermann, Prince Of Hohenlohe-Langenburg's paternal grandfather?",3,b8737cbf764dc336463c1c85ad212b604a8825fd1feadd69,0.02608727
+57d950b45a45d065fadfe4f352de3f11fcf3d7f57b89e322,"Which film whose director is younger, Torments Of The Night or Dirty Dancing?",1,57d950b45a45d065fadfe4f352de3f11fcf3d7f57b89e322,0.9990945
+57d950b45a45d065fadfe4f352de3f11fcf3d7f57b89e322,"Which film whose director is younger, Torments Of The Night or Dirty Dancing?",2,8d5000c1cbd7582bdf96735f824c713974eb9c63797a2e48,0.025105476
+57d950b45a45d065fadfe4f352de3f11fcf3d7f57b89e322,"Which film whose director is younger, Torments Of The Night or Dirty Dancing?",3,feac1266126ef65a017535d551c19f741c29144a057bac71,0.022150204
+dd3a33f7a133c0cf642f5c916366314d4a4833334e35e724,"Which film has the director died first, A Cinema Girl'S Romance or Buffalo Bill, Hero Of The Far West?",1,dd3a33f7a133c0cf642f5c916366314d4a4833334e35e724,0.9996137
+dd3a33f7a133c0cf642f5c916366314d4a4833334e35e724,"Which film has the director died first, A Cinema Girl'S Romance or Buffalo Bill, Hero Of The Far West?",2,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.90716887
+dd3a33f7a133c0cf642f5c916366314d4a4833334e35e724,"Which film has the director died first, A Cinema Girl'S Romance or Buffalo Bill, Hero Of The Far West?",3,23c31f6cbc44072212b709b7348b2b6f8a012d997aaa706d,0.11066764
+65590dadf33ffaf6588e11574f9534f5bd2cfd6be6ed04af,Where was the place of burial of Meritites I's husband?,1,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,0.00039031412
+65590dadf33ffaf6588e11574f9534f5bd2cfd6be6ed04af,Where was the place of burial of Meritites I's husband?,2,3498041a8960ebd62cd1567bd884cd559d65792fc3014299,0.00021810309
+65590dadf33ffaf6588e11574f9534f5bd2cfd6be6ed04af,Where was the place of burial of Meritites I's husband?,3,ffb74b527f19f9e8c0fdc8a392174309f50696c95cbd7c97,2.289683e-05
+ed5cc4c54d4f1e0c40ed2f1856e2a7b77727ec270fb7ea8d,Who is the spouse of the composer of film Carmen On Ice?,1,126e59f70d78a02c20e400e5b0ad54b85643c1d6bae5ac01,0.011055413
+ed5cc4c54d4f1e0c40ed2f1856e2a7b77727ec270fb7ea8d,Who is the spouse of the composer of film Carmen On Ice?,2,f920e9270cd0ef6a7db5e9f31c830c591a4e6443084ad25d,0.0003857452
+ed5cc4c54d4f1e0c40ed2f1856e2a7b77727ec270fb7ea8d,Who is the spouse of the composer of film Carmen On Ice?,3,081c47a97a4d7be7bdce61ef84d30fc6bb33ca65c913523b,4.899458e-05
+fc80892790b31b3cc4863aec12c7c4231b79b71ede178fcb,Who is the paternal grandmother of Julia Drusilla (Daughter Of Caligula)?,1,fc80892790b31b3cc4863aec12c7c4231b79b71ede178fcb,0.9996959
+fc80892790b31b3cc4863aec12c7c4231b79b71ede178fcb,Who is the paternal grandmother of Julia Drusilla (Daughter Of Caligula)?,2,ab93c8b5c1a68316d04c11e7a9a4e9816cd754d7f655e6f6,0.08232046
+fc80892790b31b3cc4863aec12c7c4231b79b71ede178fcb,Who is the paternal grandmother of Julia Drusilla (Daughter Of Caligula)?,3,6b201c0435cc4b092d4e902e776e9fa619d1881a903d2e72,0.011768927
+d21649a79fe09ff3a8fb6b24c8cf2080e5aed3d29314fd9e,Who is the spouse of the director of film The Glass Boat?,1,df74c88567561261707555fa8504bf93678834b5fce5f943,0.01274298
+d21649a79fe09ff3a8fb6b24c8cf2080e5aed3d29314fd9e,Who is the spouse of the director of film The Glass Boat?,2,feac1266126ef65a017535d551c19f741c29144a057bac71,0.0011305409
+d21649a79fe09ff3a8fb6b24c8cf2080e5aed3d29314fd9e,Who is the spouse of the director of film The Glass Boat?,3,004f56357e6d3851026b1a760360d2edc0e23d1d997bfea8,0.00044140476
+895501bb4736e0444f51d79ad89dbf1ba864fbe5746bf60d,Where was the place of death of Mark Rockefeller's father?,1,895501bb4736e0444f51d79ad89dbf1ba864fbe5746bf60d,0.99843067
+895501bb4736e0444f51d79ad89dbf1ba864fbe5746bf60d,Where was the place of death of Mark Rockefeller's father?,2,3498041a8960ebd62cd1567bd884cd559d65792fc3014299,0.070490584
+895501bb4736e0444f51d79ad89dbf1ba864fbe5746bf60d,Where was the place of death of Mark Rockefeller's father?,3,bf38d1ee9dcb2c26f2a55cde167dae2eeb4047687079a45a,0.00070161594
+3a4153b2cd645e567d268c92fc153be937caefb93ac238df,Where did the composer of song Stairway To Paradise die?,1,3a4153b2cd645e567d268c92fc153be937caefb93ac238df,0.99880123
+3a4153b2cd645e567d268c92fc153be937caefb93ac238df,Where did the composer of song Stairway To Paradise die?,2,9a1ec3f581a0267d71a30d7661ceb6e277b0be8a58c12e6e,0.00030304448
+3a4153b2cd645e567d268c92fc153be937caefb93ac238df,Where did the composer of song Stairway To Paradise die?,3,081c47a97a4d7be7bdce61ef84d30fc6bb33ca65c913523b,0.000217813
+8b06481342514795c94dba8c3908439d584f6e4cdd87c2cd,"Where did Thomas Howard, 2Nd Duke Of Norfolk's father die?",1,8b06481342514795c94dba8c3908439d584f6e4cdd87c2cd,0.99926156
+8b06481342514795c94dba8c3908439d584f6e4cdd87c2cd,"Where did Thomas Howard, 2Nd Duke Of Norfolk's father die?",2,da6e2f15aa7f645e3bb8393116a36ea20d8039448fdbf241,0.0068909917
+8b06481342514795c94dba8c3908439d584f6e4cdd87c2cd,"Where did Thomas Howard, 2Nd Duke Of Norfolk's father die?",3,ca06c3f82b647eb99a1c7b5d69047e9b373e600144bb80ee,7.0390604e-05
+fe435be4a12cc594fc8802bfcf90f347b021af5ad41e8bff,Do both films The Ides Of March (2011 Film) and Killer'S Romance have the directors from the same country?,1,fe435be4a12cc594fc8802bfcf90f347b021af5ad41e8bff,0.9998541
+fe435be4a12cc594fc8802bfcf90f347b021af5ad41e8bff,Do both films The Ides Of March (2011 Film) and Killer'S Romance have the directors from the same country?,2,ff147ffa9d6d295cdd0bfe0d0c99ec8dc6c212c3a4d3086a,0.89300686
+fe435be4a12cc594fc8802bfcf90f347b021af5ad41e8bff,Do both films The Ides Of March (2011 Film) and Killer'S Romance have the directors from the same country?,3,d1cd11866ff12ea793c26c2d19db1259fcaa9cc2c7ebc1dc,0.0014453481
+946f55e2ae8f0554988eafb8742ad72df47697cc67d5a1da,Where did Sarah Scullin's husband graduate from?,1,946f55e2ae8f0554988eafb8742ad72df47697cc67d5a1da,0.99920326
+946f55e2ae8f0554988eafb8742ad72df47697cc67d5a1da,Where did Sarah Scullin's husband graduate from?,2,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,2.8250211e-05
+946f55e2ae8f0554988eafb8742ad72df47697cc67d5a1da,Where did Sarah Scullin's husband graduate from?,3,f47a70ebc3471bb3fc81f93c8c812af1fb71048a720c3a47,2.4191775e-05
+35a170925f742e797e3009a3de4fb04254adc24b27c18327,"Which film whose director is younger, Back To School or Bitter Moon?",1,35a170925f742e797e3009a3de4fb04254adc24b27c18327,0.9993235
+35a170925f742e797e3009a3de4fb04254adc24b27c18327,"Which film whose director is younger, Back To School or Bitter Moon?",2,dd3a33f7a133c0cf642f5c916366314d4a4833334e35e724,0.006041978
+35a170925f742e797e3009a3de4fb04254adc24b27c18327,"Which film whose director is younger, Back To School or Bitter Moon?",3,dde2c006bfa530403e8c9bafc6497d0e65aad8cf1b6813ee,0.0027199842
+ee48c43c95fa56bfe9b01e1972a65fe143f6e0905bb9da7f,"Which film has the director born first, Free Hand For A Tough Cop or Man'S Favorite Sport??",1,23c31f6cbc44072212b709b7348b2b6f8a012d997aaa706d,0.9543269
+ee48c43c95fa56bfe9b01e1972a65fe143f6e0905bb9da7f,"Which film has the director born first, Free Hand For A Tough Cop or Man'S Favorite Sport??",2,6ee099c71de8536b8f73518c6ba8d3c96366caa4869aa429,0.032538686
+ee48c43c95fa56bfe9b01e1972a65fe143f6e0905bb9da7f,"Which film has the director born first, Free Hand For A Tough Cop or Man'S Favorite Sport??",3,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.0030771377
+2344eeed78f160706f574a00ac6fce2601bdfbda95b0847c,Where does Maureen Reagan's mother work at?,1,8af6d8a5fbee80d8de94359d33a5894a0c5169c9a33c7509,2.7792597e-05
+2344eeed78f160706f574a00ac6fce2601bdfbda95b0847c,Where does Maureen Reagan's mother work at?,2,2fb979b11527f947e3c2b78425d5b9b5b7747941098e344f,1.8342314e-05
+2344eeed78f160706f574a00ac6fce2601bdfbda95b0847c,Where does Maureen Reagan's mother work at?,3,3498041a8960ebd62cd1567bd884cd559d65792fc3014299,1.720212e-05
+56608e144ec858fa3185b2ac9e561547c68a5909c33033ba,Who is the spouse of the director of film Shaadi Ka Laddoo?,1,df74c88567561261707555fa8504bf93678834b5fce5f943,0.04208779
+56608e144ec858fa3185b2ac9e561547c68a5909c33033ba,Who is the spouse of the director of film Shaadi Ka Laddoo?,2,59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,0.00023218001
+56608e144ec858fa3185b2ac9e561547c68a5909c33033ba,Who is the spouse of the director of film Shaadi Ka Laddoo?,3,8d5000c1cbd7582bdf96735f824c713974eb9c63797a2e48,0.00011323308
+5d96128f61a057b9dbd947816e3d1344ec721974476308ce,Where did Rainilaiarivony's father die?,1,79e5312122eb8a7811f0ac120e76d2ff7576287cab7c6a63,0.0057426104
+5d96128f61a057b9dbd947816e3d1344ec721974476308ce,Where did Rainilaiarivony's father die?,2,9354c44bd9db99cfb2b8f803def7504f1a8bf16e182b5514,6.8483845e-05
+5d96128f61a057b9dbd947816e3d1344ec721974476308ce,Where did Rainilaiarivony's father die?,3,b6fdd8f9d56c029b83580e36d6b3642dbb387a9d60da03df,2.3779165e-05
+da0b455bd3394d2118bf242b9458c3857d5d6e9ccbf07f64,"Which film has the director who was born earlier, South Sea Sinner or I Was A Male War Bride?",1,da0b455bd3394d2118bf242b9458c3857d5d6e9ccbf07f64,0.99936575
+da0b455bd3394d2118bf242b9458c3857d5d6e9ccbf07f64,"Which film has the director who was born earlier, South Sea Sinner or I Was A Male War Bride?",2,16b98a59e06d1c72b4da73f79e5c99f936e8c2fdbee29a0b,0.8313653
+da0b455bd3394d2118bf242b9458c3857d5d6e9ccbf07f64,"Which film has the director who was born earlier, South Sea Sinner or I Was A Male War Bride?",3,cca264d7bde411c4959eb2e5fb33d9689ffb893184b023d8,0.0013880096
+4fff6183a4b54b4882e619b0641bc5371d4f0d14be96893c,Where was the place of burial of Şirin Hatun's husband?,1,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,0.00018886407
+4fff6183a4b54b4882e619b0641bc5371d4f0d14be96893c,Where was the place of burial of Şirin Hatun's husband?,2,3498041a8960ebd62cd1567bd884cd559d65792fc3014299,0.00017106466
+4fff6183a4b54b4882e619b0641bc5371d4f0d14be96893c,Where was the place of burial of Şirin Hatun's husband?,3,8af6d8a5fbee80d8de94359d33a5894a0c5169c9a33c7509,2.6347085e-05
+3795313abd01d109fcd48784fd0930d7af60a7caa223cdfe,Who is the mother-in-law of Prince Radu Of Romania?,1,3795313abd01d109fcd48784fd0930d7af60a7caa223cdfe,0.99941313
+3795313abd01d109fcd48784fd0930d7af60a7caa223cdfe,Who is the mother-in-law of Prince Radu Of Romania?,2,b8737cbf764dc336463c1c85ad212b604a8825fd1feadd69,0.0005985949
+3795313abd01d109fcd48784fd0930d7af60a7caa223cdfe,Who is the mother-in-law of Prince Radu Of Romania?,3,32482945828a5aab162d7534d56b2b39f5292f6cd0fe0587,6.418738e-05
+7e9f113e82fc06b71e2d1791d35e6fb5d9548f7e2d37e68a,Where was the director of film The Central Park Five born?,1,feac1266126ef65a017535d551c19f741c29144a057bac71,0.013501292
+7e9f113e82fc06b71e2d1791d35e6fb5d9548f7e2d37e68a,Where was the director of film The Central Park Five born?,2,df74c88567561261707555fa8504bf93678834b5fce5f943,0.0003394076
+7e9f113e82fc06b71e2d1791d35e6fb5d9548f7e2d37e68a,Where was the director of film The Central Park Five born?,3,883b4b8a680112178587dfb9511033c219999312a8e283e8,0.00015595887
+fd540d0934a1450311a70666fe922779d77a831c56f545d2,What is the cause of death of Alexandra Voronin's husband?,1,151426237d6b0e7678191426593135623644541aba08e8ad,7.725691e-05
+fd540d0934a1450311a70666fe922779d77a831c56f545d2,What is the cause of death of Alexandra Voronin's husband?,2,4cd06c998601679deb329a164b76914224ddd81d133d052a,2.8966468e-05
+fd540d0934a1450311a70666fe922779d77a831c56f545d2,What is the cause of death of Alexandra Voronin's husband?,3,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,2.8723325e-05
+2f09ba9e44f712209fb73586e9f4fcc3b4080409689fe4b0,Why did Grand Duke Kirill Vladimirovich Of Russia's wife die?,1,2f09ba9e44f712209fb73586e9f4fcc3b4080409689fe4b0,0.99916506
+2f09ba9e44f712209fb73586e9f4fcc3b4080409689fe4b0,Why did Grand Duke Kirill Vladimirovich Of Russia's wife die?,2,79b55eec86dd6e66a393dd4d6e510b7e696784781a6b6909,5.7143763e-05
+2f09ba9e44f712209fb73586e9f4fcc3b4080409689fe4b0,Why did Grand Duke Kirill Vladimirovich Of Russia's wife die?,3,da6e2f15aa7f645e3bb8393116a36ea20d8039448fdbf241,3.1463755e-05
+cddd24b3abd6643af5507f0bd5f523ce049256756a6a3648,When was the presenter of Tim Russert (Talk Show) born?,1,cddd24b3abd6643af5507f0bd5f523ce049256756a6a3648,0.99875724
+cddd24b3abd6643af5507f0bd5f523ce049256756a6a3648,When was the presenter of Tim Russert (Talk Show) born?,2,8e33b783534c90d43c07617f4106a5056cb93ba21758b91c,3.7775248e-05
+cddd24b3abd6643af5507f0bd5f523ce049256756a6a3648,When was the presenter of Tim Russert (Talk Show) born?,3,04a89b092e375c921d967a3cb6cb77c6caf28ff1ec3a0dbf,2.9524612e-05
+c085e944c27941be03b4e45db3039b45a31f3c50117537a9,"Which country the performer of song That'S Good, That'S Bad (Frankie Laine Song) is from?",1,c085e944c27941be03b4e45db3039b45a31f3c50117537a9,0.99953365
+c085e944c27941be03b4e45db3039b45a31f3c50117537a9,"Which country the performer of song That'S Good, That'S Bad (Frankie Laine Song) is from?",2,690049a1a7cf75590b79f2c8cb48fb2fa62b3d6880c70aa4,0.2112668
+c085e944c27941be03b4e45db3039b45a31f3c50117537a9,"Which country the performer of song That'S Good, That'S Bad (Frankie Laine Song) is from?",3,8a758fe292d901d43c7729a09392968963811f61842518f3,0.010027019
+ff147ffa9d6d295cdd0bfe0d0c99ec8dc6c212c3a4d3086a,Do both Modesty Blaise (1966 Film) and Desperate Living films have the directors from the same country?,1,ff147ffa9d6d295cdd0bfe0d0c99ec8dc6c212c3a4d3086a,0.999869
+ff147ffa9d6d295cdd0bfe0d0c99ec8dc6c212c3a4d3086a,Do both Modesty Blaise (1966 Film) and Desperate Living films have the directors from the same country?,2,dbf1e1aaf4bb930e3520de800091020e5b391556904e0ed9,0.0015442572
+ff147ffa9d6d295cdd0bfe0d0c99ec8dc6c212c3a4d3086a,Do both Modesty Blaise (1966 Film) and Desperate Living films have the directors from the same country?,3,0bc3341fffaad3e92d14d64b539df741528ef4e2b76e9632,0.0013202901
+e3b48ce573be703c885c575899651a98ec7317b8d788e92d,Where did the director of film Circle Of The Sun study?,1,73a910a9f551d4d274e6f329d3f8a5049561120fae602224,0.34374654
+e3b48ce573be703c885c575899651a98ec7317b8d788e92d,Where did the director of film Circle Of The Sun study?,2,8e55a3cb4c213a132ff3bfef7a6df6290427488e9b732883,0.00065224536
+e3b48ce573be703c885c575899651a98ec7317b8d788e92d,Where did the director of film Circle Of The Sun study?,3,883b4b8a680112178587dfb9511033c219999312a8e283e8,0.00039822108
+8dd616390124afd4e969f4764bf8fe02b8f4a60a3443c061,Where did the director of film The Brave Bulls (Film) die?,1,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.17163253
+8dd616390124afd4e969f4764bf8fe02b8f4a60a3443c061,Where did the director of film The Brave Bulls (Film) die?,2,47659268bc430f7e640db930b97fed4d0670cce46cdb83f8,0.12307037
+8dd616390124afd4e969f4764bf8fe02b8f4a60a3443c061,Where did the director of film The Brave Bulls (Film) die?,3,8e55a3cb4c213a132ff3bfef7a6df6290427488e9b732883,0.010754418
+c0589a8a7f7861f01a1a6396aeafcf23caaa2f0e154b711a,Where did the performer of song Protection (Donna Summer Song) die?,1,3a4153b2cd645e567d268c92fc153be937caefb93ac238df,0.028995862
+c0589a8a7f7861f01a1a6396aeafcf23caaa2f0e154b711a,Where did the performer of song Protection (Donna Summer Song) die?,2,c085e944c27941be03b4e45db3039b45a31f3c50117537a9,0.0028778801
+c0589a8a7f7861f01a1a6396aeafcf23caaa2f0e154b711a,Where did the performer of song Protection (Donna Summer Song) die?,3,690049a1a7cf75590b79f2c8cb48fb2fa62b3d6880c70aa4,0.0022721307
+a404b5f1c4663d5e1aca2ddf6e5cc0f2b00a45c53c9181c9,Where did the director of film Only The Lonely (Film) study?,1,73a910a9f551d4d274e6f329d3f8a5049561120fae602224,0.6202546
+a404b5f1c4663d5e1aca2ddf6e5cc0f2b00a45c53c9181c9,Where did the director of film Only The Lonely (Film) study?,2,8e55a3cb4c213a132ff3bfef7a6df6290427488e9b732883,0.008106515
+a404b5f1c4663d5e1aca2ddf6e5cc0f2b00a45c53c9181c9,Where did the director of film Only The Lonely (Film) study?,3,feac1266126ef65a017535d551c19f741c29144a057bac71,0.0008770369
+9a1ec3f581a0267d71a30d7661ceb6e277b0be8a58c12e6e,What is the award that the composer of song The Seeker (The Who Song) earned?,1,9a1ec3f581a0267d71a30d7661ceb6e277b0be8a58c12e6e,0.99843234
+9a1ec3f581a0267d71a30d7661ceb6e277b0be8a58c12e6e,What is the award that the composer of song The Seeker (The Who Song) earned?,2,081c47a97a4d7be7bdce61ef84d30fc6bb33ca65c913523b,0.6779831
+9a1ec3f581a0267d71a30d7661ceb6e277b0be8a58c12e6e,What is the award that the composer of song The Seeker (The Who Song) earned?,3,4757e04814693a1a0ddc4c330f892f678a9c74bb49599efb,0.0014622485
+88b2be0a381982b7b05070e267d2440c77654bc8128403e6,Who is the mother-in-law of Beatrice Of Provence?,1,88b2be0a381982b7b05070e267d2440c77654bc8128403e6,0.999316
+88b2be0a381982b7b05070e267d2440c77654bc8128403e6,Who is the mother-in-law of Beatrice Of Provence?,2,ec4d2bc458764f6bb22a554fcff40c78d1ea54c9b941b9cd,2.2373795e-05
+0f7c34cfb1c045d4b8242556440930f7d5ce60e4754443b4,Were Don Leo Jonathan and Richard F. Kneip of the same nationality?,1,0f7c34cfb1c045d4b8242556440930f7d5ce60e4754443b4,0.9998983
+0f7c34cfb1c045d4b8242556440930f7d5ce60e4754443b4,Were Don Leo Jonathan and Richard F. Kneip of the same nationality?,2,fe435be4a12cc594fc8802bfcf90f347b021af5ad41e8bff,0.0001073771
+0f7c34cfb1c045d4b8242556440930f7d5ce60e4754443b4,Were Don Leo Jonathan and Richard F. Kneip of the same nationality?,3,0f356f26b81fba8d85f6f24e82f2d11dfdd8ee32bc7025bd,2.0472398e-05
+9cda7c350b304bb4031d1f45de52bd897f0c79fb16aeafb8,"Which film has the director who was born later, Steele Of The Royal Mounted or Beauty No. 2?",1,04a89b092e375c921d967a3cb6cb77c6caf28ff1ec3a0dbf,0.8450222
+9cda7c350b304bb4031d1f45de52bd897f0c79fb16aeafb8,"Which film has the director who was born later, Steele Of The Royal Mounted or Beauty No. 2?",2,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.068996534
+9cda7c350b304bb4031d1f45de52bd897f0c79fb16aeafb8,"Which film has the director who was born later, Steele Of The Royal Mounted or Beauty No. 2?",3,78877dc3800b31f7831cf2f941219ee29493e35b53b059a1,0.0019207926
+49f7b1a3cba0780245fe5dd975a3d396cf0301be50fe624c,Do both directors of films Mr. And Mrs. Iyer and Ponnu Veetukkaran have the same nationality?,1,ff147ffa9d6d295cdd0bfe0d0c99ec8dc6c212c3a4d3086a,0.49386254
+49f7b1a3cba0780245fe5dd975a3d396cf0301be50fe624c,Do both directors of films Mr. And Mrs. Iyer and Ponnu Veetukkaran have the same nationality?,2,dde2c006bfa530403e8c9bafc6497d0e65aad8cf1b6813ee,0.023166455
+49f7b1a3cba0780245fe5dd975a3d396cf0301be50fe624c,Do both directors of films Mr. And Mrs. Iyer and Ponnu Veetukkaran have the same nationality?,3,e073fe98e7399449d3472ff2c32bb8dedfc57fb49c773ee3,0.00041517703
+00e8a018b17073a175614172e73871939a3b2ac4ca0c71c0,Where was the performer of song Greatest Love (Ciara Song) born?,1,00e8a018b17073a175614172e73871939a3b2ac4ca0c71c0,0.9990497
+00e8a018b17073a175614172e73871939a3b2ac4ca0c71c0,Where was the performer of song Greatest Love (Ciara Song) born?,2,5d40d1a2db550f9a3d7c047b911ae92b38fe7af8a69eda84,0.13992971
+00e8a018b17073a175614172e73871939a3b2ac4ca0c71c0,Where was the performer of song Greatest Love (Ciara Song) born?,3,2820f5f6db2a73a11f6269437ced07bf92dd3636cfda02ee,0.0074456907
+24144554a83a55c968553f1def746d606e45881afe44feff,"Which film whose director was born first, Kuei-Mei, A Woman or A Castle In Italy?",1,df74c88567561261707555fa8504bf93678834b5fce5f943,0.0077121155
+24144554a83a55c968553f1def746d606e45881afe44feff,"Which film whose director was born first, Kuei-Mei, A Woman or A Castle In Italy?",2,abcece2a80908d35b2f960f69df896560b7945225fd8f8e7,0.0011125226
+24144554a83a55c968553f1def746d606e45881afe44feff,"Which film whose director was born first, Kuei-Mei, A Woman or A Castle In Italy?",3,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.00090375764
+655fc29d0115a80d33282ccc52486416f3e2225f30f645c2,"Who is Philipp I, Count Of Hanau-Münzenberg's maternal grandfather?",1,655fc29d0115a80d33282ccc52486416f3e2225f30f645c2,0.9995647
+655fc29d0115a80d33282ccc52486416f3e2225f30f645c2,"Who is Philipp I, Count Of Hanau-Münzenberg's maternal grandfather?",2,8e74e61b04f497cda285fdb613c9297b39c2f35c78a46bb4,0.30141842
+655fc29d0115a80d33282ccc52486416f3e2225f30f645c2,"Who is Philipp I, Count Of Hanau-Münzenberg's maternal grandfather?",3,8c17c1259ed0c31bff3ee48ef8a6c4c54469c7769ffbc1c1,0.21212304
+97dd525d6b0d91e4d483f22988607e87048cfe088af93d80,What is the cause of death of director of film Love On The Ground?,1,6ee099c71de8536b8f73518c6ba8d3c96366caa4869aa429,0.09414186
+97dd525d6b0d91e4d483f22988607e87048cfe088af93d80,What is the cause of death of director of film Love On The Ground?,2,dd3a33f7a133c0cf642f5c916366314d4a4833334e35e724,0.012797319
+97dd525d6b0d91e4d483f22988607e87048cfe088af93d80,What is the cause of death of director of film Love On The Ground?,3,1c58a30eb49959465cf6b97dc7e86d22b05436c8813c9499,0.0057101557
+cca264d7bde411c4959eb2e5fb33d9689ffb893184b023d8,Who is the spouse of the director of film Jimmy Gallu?,1,df74c88567561261707555fa8504bf93678834b5fce5f943,0.006018881
+cca264d7bde411c4959eb2e5fb33d9689ffb893184b023d8,Who is the spouse of the director of film Jimmy Gallu?,2,feac1266126ef65a017535d551c19f741c29144a057bac71,0.00034631055
+cca264d7bde411c4959eb2e5fb33d9689ffb893184b023d8,Who is the spouse of the director of film Jimmy Gallu?,3,59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,0.00027715386
+90c0b94b55bd4b31318d1fe53ac681eac695021547503740,"Which one was established first, The Gravity Group or Victoria'S Secret?",1,90c0b94b55bd4b31318d1fe53ac681eac695021547503740,0.9997141
+90c0b94b55bd4b31318d1fe53ac681eac695021547503740,"Which one was established first, The Gravity Group or Victoria'S Secret?",2,b058a6541fba988d17aa0172344f2b537993008bedd729d5,2.5680973e-05
+90c0b94b55bd4b31318d1fe53ac681eac695021547503740,"Which one was established first, The Gravity Group or Victoria'S Secret?",3,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,1.6163824e-05
+d3624780a9e9ffd5d7685f3f14e4df5d2a52601c151067fa,Who is Margaret Hughes's father-in-law?,1,d3624780a9e9ffd5d7685f3f14e4df5d2a52601c151067fa,0.9994048
+d3624780a9e9ffd5d7685f3f14e4df5d2a52601c151067fa,Who is Margaret Hughes's father-in-law?,2,079131850286083a72ba811e3124c3c266f7a7aba5b7f5b6,0.008833417
+d3624780a9e9ffd5d7685f3f14e4df5d2a52601c151067fa,Who is Margaret Hughes's father-in-law?,3,88b2be0a381982b7b05070e267d2440c77654bc8128403e6,0.002312174
+0e0bc7878677a1e7602253b2c26f6f96e58bc454b2b03ab8,Are Ed Stelmach and Jack Goohsen of the same nationality?,1,0e0bc7878677a1e7602253b2c26f6f96e58bc454b2b03ab8,0.9998983
+0e0bc7878677a1e7602253b2c26f6f96e58bc454b2b03ab8,Are Ed Stelmach and Jack Goohsen of the same nationality?,2,0f7c34cfb1c045d4b8242556440930f7d5ce60e4754443b4,0.06470556
+0e0bc7878677a1e7602253b2c26f6f96e58bc454b2b03ab8,Are Ed Stelmach and Jack Goohsen of the same nationality?,3,fe435be4a12cc594fc8802bfcf90f347b021af5ad41e8bff,0.00036904428
+a12cab6db102d0096a60793a7681384930172b9f66642b88,What is the place of birth of David Hyrum Smith's father?,1,3498041a8960ebd62cd1567bd884cd559d65792fc3014299,0.00012741282
+a12cab6db102d0096a60793a7681384930172b9f66642b88,What is the place of birth of David Hyrum Smith's father?,2,5d2435c261cf4ec0635d68b92006f7926e6739eea53c202b,2.1958202e-05
+a12cab6db102d0096a60793a7681384930172b9f66642b88,What is the place of birth of David Hyrum Smith's father?,3,edb60ceb434cc994df4b00ae08a49efb2f66a2ba0df1adf0,1.8766274e-05
+ff2da93ebf68b5f17fc7a7ba517067923702187fa561f91a,"Where does the director of film L'Arbre, Le Maire Et La Médiathèque work at?",1,69a87bbff8b28f72b9fe9fc39b9c920466f6f939e8289675,0.007291434
+ff2da93ebf68b5f17fc7a7ba517067923702187fa561f91a,"Where does the director of film L'Arbre, Le Maire Et La Médiathèque work at?",2,dde2c006bfa530403e8c9bafc6497d0e65aad8cf1b6813ee,0.0011017439
+ff2da93ebf68b5f17fc7a7ba517067923702187fa561f91a,"Where does the director of film L'Arbre, Le Maire Et La Médiathèque work at?",3,6a1b88bdf6b4452fbdbbc79f52f47b1ef42fa1c058e9d236,0.00087933085
+ee5d9f9d86e7e98659e3e81baff53f13807147550593b3bb,"Who is Joan Of France, Duchess Of Brittany's maternal grandmother?",1,ee5d9f9d86e7e98659e3e81baff53f13807147550593b3bb,0.9995654
+ee5d9f9d86e7e98659e3e81baff53f13807147550593b3bb,"Who is Joan Of France, Duchess Of Brittany's maternal grandmother?",2,8e74e61b04f497cda285fdb613c9297b39c2f35c78a46bb4,0.011926091
+ee5d9f9d86e7e98659e3e81baff53f13807147550593b3bb,"Who is Joan Of France, Duchess Of Brittany's maternal grandmother?",3,8c17c1259ed0c31bff3ee48ef8a6c4c54469c7769ffbc1c1,0.0001406522
+4ced3912f614aca56f95eb0431c22e53c24c05717bf75f62,Where was the director of film War Of The Buttons (1994 Film) born?,1,4ced3912f614aca56f95eb0431c22e53c24c05717bf75f62,0.9993573
+4ced3912f614aca56f95eb0431c22e53c24c05717bf75f62,Where was the director of film War Of The Buttons (1994 Film) born?,2,16b98a59e06d1c72b4da73f79e5c99f936e8c2fdbee29a0b,0.7292243
+4ced3912f614aca56f95eb0431c22e53c24c05717bf75f62,Where was the director of film War Of The Buttons (1994 Film) born?,3,78877dc3800b31f7831cf2f941219ee29493e35b53b059a1,0.0018876377
+38ef6500ef63554606cf0cbea9d2a1839d2c162ddee3d5e3,Where was the performer of song Wee Wee Hours born?,1,5d40d1a2db550f9a3d7c047b911ae92b38fe7af8a69eda84,0.40310612
+38ef6500ef63554606cf0cbea9d2a1839d2c162ddee3d5e3,Where was the performer of song Wee Wee Hours born?,2,0a115dd145605a6f2b0eeb01830ff1b3c2a38f81e6734097,0.05175985
+38ef6500ef63554606cf0cbea9d2a1839d2c162ddee3d5e3,Where was the performer of song Wee Wee Hours born?,3,2820f5f6db2a73a11f6269437ced07bf92dd3636cfda02ee,0.02088044
+889a1f36f923d982676936ef5e04a451058981bc3ebdb614,What is the place of birth of the composer of song Bullet (Misfits Song)?,1,4757e04814693a1a0ddc4c330f892f678a9c74bb49599efb,0.90658015
+889a1f36f923d982676936ef5e04a451058981bc3ebdb614,What is the place of birth of the composer of song Bullet (Misfits Song)?,2,9a1ec3f581a0267d71a30d7661ceb6e277b0be8a58c12e6e,0.0006356818
+889a1f36f923d982676936ef5e04a451058981bc3ebdb614,What is the place of birth of the composer of song Bullet (Misfits Song)?,3,081c47a97a4d7be7bdce61ef84d30fc6bb33ca65c913523b,0.0005910607
+99f20fa9a6c649ab2d8158e55dec3f11a62ff85ccc4bfd06,What is the place of birth of the founder of university University Of Los Andes (Colombia)?,1,99f20fa9a6c649ab2d8158e55dec3f11a62ff85ccc4bfd06,0.99942064
+99f20fa9a6c649ab2d8158e55dec3f11a62ff85ccc4bfd06,What is the place of birth of the founder of university University Of Los Andes (Colombia)?,2,7a0ae184978fbdd3e5e38ac179861b1951878baaac395592,0.00031266263
+99f20fa9a6c649ab2d8158e55dec3f11a62ff85ccc4bfd06,What is the place of birth of the founder of university University Of Los Andes (Colombia)?,3,238c9791d4b5657f901615f165c478530891a2986fe93d05,3.4833694e-05
+ae89a74d85721669f0befd1330ce01155e78286c2f487b0c,Where does Olaf Iii Of Norway's father work at?,1,1e7b44a5002efba074f208c9778567477cc4d4a1ac53d7ef,5.9847218e-05
+ae89a74d85721669f0befd1330ce01155e78286c2f487b0c,Where does Olaf Iii Of Norway's father work at?,2,3498041a8960ebd62cd1567bd884cd559d65792fc3014299,3.3931497e-05
+ae89a74d85721669f0befd1330ce01155e78286c2f487b0c,Where does Olaf Iii Of Norway's father work at?,3,2fb979b11527f947e3c2b78425d5b9b5b7747941098e344f,3.0443036e-05
+a827b18fdd282f4927917274185947356b3ad903c4cb1138,"Which film came out earlier, Terminator 3: Rise Of The Machines or The Adventures Of Nellie Bly?",1,1359ea4b835842cf7d0192cfa52c4f8af5656b00f230f69b,0.0065419483
+a827b18fdd282f4927917274185947356b3ad903c4cb1138,"Which film came out earlier, Terminator 3: Rise Of The Machines or The Adventures Of Nellie Bly?",2,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.0026572833
+a827b18fdd282f4927917274185947356b3ad903c4cb1138,"Which film came out earlier, Terminator 3: Rise Of The Machines or The Adventures Of Nellie Bly?",3,6a1b88bdf6b4452fbdbbc79f52f47b1ef42fa1c058e9d236,7.832839e-05
+151426237d6b0e7678191426593135623644541aba08e8ad,What is the cause of death of performer of song Just Playing (Dreams)?,1,151426237d6b0e7678191426593135623644541aba08e8ad,0.99913967
+151426237d6b0e7678191426593135623644541aba08e8ad,What is the cause of death of performer of song Just Playing (Dreams)?,2,8a758fe292d901d43c7729a09392968963811f61842518f3,0.00088945264
+151426237d6b0e7678191426593135623644541aba08e8ad,What is the cause of death of performer of song Just Playing (Dreams)?,3,8086467ebb712146e7215eb1656245f9901dad34f6931fdf,0.00082455634
+7de7d760b636aee90f01cbc0d33fcd4f3029bfbe12edf862,"Which film has the director died later, Tenth Avenue Angel or Brink Of Life?",1,7de7d760b636aee90f01cbc0d33fcd4f3029bfbe12edf862,0.99972194
+7de7d760b636aee90f01cbc0d33fcd4f3029bfbe12edf862,"Which film has the director died later, Tenth Avenue Angel or Brink Of Life?",2,4bc4e1176125b7f02876ca7fe1a08ec4d69b220e5a43f36f,0.056126676
+7de7d760b636aee90f01cbc0d33fcd4f3029bfbe12edf862,"Which film has the director died later, Tenth Avenue Angel or Brink Of Life?",3,b6fdd8f9d56c029b83580e36d6b3642dbb387a9d60da03df,0.027308749
+9586d46352803a35f5726af431ea649bdd71efec91590036,Where did Miguel I Of Portugal's mother die?,1,9586d46352803a35f5726af431ea649bdd71efec91590036,0.99894756
+9586d46352803a35f5726af431ea649bdd71efec91590036,Where did Miguel I Of Portugal's mother die?,2,79e5312122eb8a7811f0ac120e76d2ff7576287cab7c6a63,0.00014325125
+9586d46352803a35f5726af431ea649bdd71efec91590036,Where did Miguel I Of Portugal's mother die?,3,9354c44bd9db99cfb2b8f803def7504f1a8bf16e182b5514,3.1316322e-05
+45455a25fccc87732be135d786a3e41c36476ac878aca6a2,"Which film was released more recently, A Gamble With Hearts or Lethal Weapon 2?",1,45455a25fccc87732be135d786a3e41c36476ac878aca6a2,0.9997844
+45455a25fccc87732be135d786a3e41c36476ac878aca6a2,"Which film was released more recently, A Gamble With Hearts or Lethal Weapon 2?",2,891a3e506822e0c94cdbc63c673cf78d6b919a7479c1e961,0.74192226
+45455a25fccc87732be135d786a3e41c36476ac878aca6a2,"Which film was released more recently, A Gamble With Hearts or Lethal Weapon 2?",3,7de7d760b636aee90f01cbc0d33fcd4f3029bfbe12edf862,0.0009837751
+d6513ef664a26614629e878672c0ce2d7dd0f40c01592b85,"Which film has the director who died earlier, Santa And The Fairy Snow Queen or Hearts In Bondage?",1,d6513ef664a26614629e878672c0ce2d7dd0f40c01592b85,0.9996778
+d6513ef664a26614629e878672c0ce2d7dd0f40c01592b85,"Which film has the director who died earlier, Santa And The Fairy Snow Queen or Hearts In Bondage?",2,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.97739726
+d6513ef664a26614629e878672c0ce2d7dd0f40c01592b85,"Which film has the director who died earlier, Santa And The Fairy Snow Queen or Hearts In Bondage?",3,6ee099c71de8536b8f73518c6ba8d3c96366caa4869aa429,0.49251732
+df369bbc837532888f001476535df2eb80cdbfaed0c6f294,"Which film has the director who was born later, Je Suis Né D'Une Cigogne or The Legend Of Bagger Vance?",1,04a89b092e375c921d967a3cb6cb77c6caf28ff1ec3a0dbf,0.6365873
+df369bbc837532888f001476535df2eb80cdbfaed0c6f294,"Which film has the director who was born later, Je Suis Né D'Une Cigogne or The Legend Of Bagger Vance?",2,feac1266126ef65a017535d551c19f741c29144a057bac71,0.10714176
+df369bbc837532888f001476535df2eb80cdbfaed0c6f294,"Which film has the director who was born later, Je Suis Né D'Une Cigogne or The Legend Of Bagger Vance?",3,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.010530363
+005c463249f9b25799798627fade1ca97e3dede4f8245a23,Who is Bohemond Iv Of Antioch's paternal grandmother?,1,1f1f8f7d0e3fe9ec70cf846d6d3f8e64167a9d3a571484f9,0.16040534
+005c463249f9b25799798627fade1ca97e3dede4f8245a23,Who is Bohemond Iv Of Antioch's paternal grandmother?,2,8c17c1259ed0c31bff3ee48ef8a6c4c54469c7769ffbc1c1,0.009653581
+005c463249f9b25799798627fade1ca97e3dede4f8245a23,Who is Bohemond Iv Of Antioch's paternal grandmother?,3,40877325ac5773a0259a6e7a86ab477a4654a4cf8f94c149,3.1257277e-05
+de12796f0b44192fa49330a70a956b53668b09b95a2e72d1,What is the place of birth of Frankie Bridge's husband?,1,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,0.013691492
+de12796f0b44192fa49330a70a956b53668b09b95a2e72d1,What is the place of birth of Frankie Bridge's husband?,2,bf38d1ee9dcb2c26f2a55cde167dae2eeb4047687079a45a,0.00021909396
+de12796f0b44192fa49330a70a956b53668b09b95a2e72d1,What is the place of birth of Frankie Bridge's husband?,3,3498041a8960ebd62cd1567bd884cd559d65792fc3014299,2.5593517e-05
+8086467ebb712146e7215eb1656245f9901dad34f6931fdf,Where was the performer of song Believe It (Meek Mill Song) detained?,1,8086467ebb712146e7215eb1656245f9901dad34f6931fdf,0.99935836
+8086467ebb712146e7215eb1656245f9901dad34f6931fdf,Where was the performer of song Believe It (Meek Mill Song) detained?,2,5d40d1a2db550f9a3d7c047b911ae92b38fe7af8a69eda84,0.02340085
+8086467ebb712146e7215eb1656245f9901dad34f6931fdf,Where was the performer of song Believe It (Meek Mill Song) detained?,3,a761220766aeb2fafc85b9753e54c449fb1464f03a4b51df,0.0031305843
+4072ff277a7ef3ebd671ad0df389adb782f316051dec1edf,Where was the place of death of Yazid Iii's father?,1,3498041a8960ebd62cd1567bd884cd559d65792fc3014299,0.24064596
+4072ff277a7ef3ebd671ad0df389adb782f316051dec1edf,Where was the place of death of Yazid Iii's father?,2,bf38d1ee9dcb2c26f2a55cde167dae2eeb4047687079a45a,0.00033731505
+4072ff277a7ef3ebd671ad0df389adb782f316051dec1edf,Where was the place of death of Yazid Iii's father?,3,9354c44bd9db99cfb2b8f803def7504f1a8bf16e182b5514,6.49629e-05
+e367499fba5b229051bc79021a1ad30bbd066b1f89c277f6,Who is Rose Schlossberg's father?,1,e367499fba5b229051bc79021a1ad30bbd066b1f89c277f6,0.9991561
+e367499fba5b229051bc79021a1ad30bbd066b1f89c277f6,Who is Rose Schlossberg's father?,2,b6fdd8f9d56c029b83580e36d6b3642dbb387a9d60da03df,0.00047629204
+e367499fba5b229051bc79021a1ad30bbd066b1f89c277f6,Who is Rose Schlossberg's father?,3,5d2435c261cf4ec0635d68b92006f7926e6739eea53c202b,0.00011357512
+5ed74e008cbf844474db3cd9bd66a56434e7673185737175,"Who is the father-in-law of Maria Manuela, Princess Of Portugal?",1,079131850286083a72ba811e3124c3c266f7a7aba5b7f5b6,0.0051760403
+5ed74e008cbf844474db3cd9bd66a56434e7673185737175,"Who is the father-in-law of Maria Manuela, Princess Of Portugal?",2,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,0.0003461625
+5ed74e008cbf844474db3cd9bd66a56434e7673185737175,"Who is the father-in-law of Maria Manuela, Princess Of Portugal?",3,85f3200158511b95a7eb4ed5bf9c4698247662ff8a40943c,0.0001948243
+a90876cb94542570afab3b1ecc9632b46ed73f0c703edb79,What is the place of birth of Joely Collins's father?,1,61fa50e62866fbeeffc9822aa76f8f363578e72c1a7436af,0.00059970503
+a90876cb94542570afab3b1ecc9632b46ed73f0c703edb79,What is the place of birth of Joely Collins's father?,2,3498041a8960ebd62cd1567bd884cd559d65792fc3014299,0.00013221445
+a90876cb94542570afab3b1ecc9632b46ed73f0c703edb79,What is the place of birth of Joely Collins's father?,3,5d2435c261cf4ec0635d68b92006f7926e6739eea53c202b,2.572367e-05
+3809f116856e090121b8d2d54cb0416076a8916013f06997,Where did the director of film India Speaks die?,1,3809f116856e090121b8d2d54cb0416076a8916013f06997,0.99867225
+3809f116856e090121b8d2d54cb0416076a8916013f06997,Where did the director of film India Speaks die?,2,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.06545255
+3809f116856e090121b8d2d54cb0416076a8916013f06997,Where did the director of film India Speaks die?,3,b6fdd8f9d56c029b83580e36d6b3642dbb387a9d60da03df,0.0009029846
+ee5c0b8fe31f40bbf2579439858229041ea769a46d82f49b,Are both directors of films Escape From East Berlin and A Place In The Sun (Film) from the same country?,1,ff147ffa9d6d295cdd0bfe0d0c99ec8dc6c212c3a4d3086a,0.6994775
+ee5c0b8fe31f40bbf2579439858229041ea769a46d82f49b,Are both directors of films Escape From East Berlin and A Place In The Sun (Film) from the same country?,2,d1cd11866ff12ea793c26c2d19db1259fcaa9cc2c7ebc1dc,0.00059445243
+ee5c0b8fe31f40bbf2579439858229041ea769a46d82f49b,Are both directors of films Escape From East Berlin and A Place In The Sun (Film) from the same country?,3,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.00047651815
+247aec3a792a00436b8b371eb86bbe6e46bdc5f05029c7e8,Who is Sun Luyu's paternal grandfather?,1,247aec3a792a00436b8b371eb86bbe6e46bdc5f05029c7e8,0.9992448
+247aec3a792a00436b8b371eb86bbe6e46bdc5f05029c7e8,Who is Sun Luyu's paternal grandfather?,2,edb60ceb434cc994df4b00ae08a49efb2f66a2ba0df1adf0,0.020819835
+247aec3a792a00436b8b371eb86bbe6e46bdc5f05029c7e8,Who is Sun Luyu's paternal grandfather?,3,32482945828a5aab162d7534d56b2b39f5292f6cd0fe0587,0.012953939
+a19b5039e3aa94a03697678cc751b306232b2a7aa4c2b3c0,What is the place of birth of Patricia Kennedy Lawford's father?,1,f5baef0cdea8281ca147cfad48a104a418e04e3a8667cde5,7.328663e-05
+a19b5039e3aa94a03697678cc751b306232b2a7aa4c2b3c0,What is the place of birth of Patricia Kennedy Lawford's father?,2,3498041a8960ebd62cd1567bd884cd559d65792fc3014299,5.5401262e-05
+a19b5039e3aa94a03697678cc751b306232b2a7aa4c2b3c0,What is the place of birth of Patricia Kennedy Lawford's father?,3,bf38d1ee9dcb2c26f2a55cde167dae2eeb4047687079a45a,2.4937342e-05
+3028780b1d61923e9791e81da2147de86a3be9e559e3bd73,What is the place of birth of the director of film My Case?,1,4bc4e1176125b7f02876ca7fe1a08ec4d69b220e5a43f36f,0.016812103
+3028780b1d61923e9791e81da2147de86a3be9e559e3bd73,What is the place of birth of the director of film My Case?,2,df74c88567561261707555fa8504bf93678834b5fce5f943,0.0066047404
+3028780b1d61923e9791e81da2147de86a3be9e559e3bd73,What is the place of birth of the director of film My Case?,3,78877dc3800b31f7831cf2f941219ee29493e35b53b059a1,0.0007677002
+8419d7b9bbd7db822732f59dca410050121aa69c36964cf1,"Which film has the director born first, The Favor (1994 Film) or Heaven Knows, Mr. Allison?",1,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.010034984
+8419d7b9bbd7db822732f59dca410050121aa69c36964cf1,"Which film has the director born first, The Favor (1994 Film) or Heaven Knows, Mr. Allison?",2,dde2c006bfa530403e8c9bafc6497d0e65aad8cf1b6813ee,0.0012108088
+8419d7b9bbd7db822732f59dca410050121aa69c36964cf1,"Which film has the director born first, The Favor (1994 Film) or Heaven Knows, Mr. Allison?",3,df74c88567561261707555fa8504bf93678834b5fce5f943,0.0010156352
+4cd06c998601679deb329a164b76914224ddd81d133d052a,Who is the spouse of the director of film På Solsiden?,1,df74c88567561261707555fa8504bf93678834b5fce5f943,0.0069946153
+4cd06c998601679deb329a164b76914224ddd81d133d052a,Who is the spouse of the director of film På Solsiden?,2,59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,0.0002661904
+4cd06c998601679deb329a164b76914224ddd81d133d052a,Who is the spouse of the director of film På Solsiden?,3,feac1266126ef65a017535d551c19f741c29144a057bac71,0.00011345227
+c5521b710d470612448ccb7e77d6c161b5f28f159d12af3e,Who is the mother of the founder of Waitrose Duchy Organic?,1,8af6d8a5fbee80d8de94359d33a5894a0c5169c9a33c7509,4.3454955e-05
+c5521b710d470612448ccb7e77d6c161b5f28f159d12af3e,Who is the mother of the founder of Waitrose Duchy Organic?,2,5d2435c261cf4ec0635d68b92006f7926e6739eea53c202b,2.369692e-05
+c5521b710d470612448ccb7e77d6c161b5f28f159d12af3e,Who is the mother of the founder of Waitrose Duchy Organic?,3,daaf2e7324a8339d157f22a8060117f70cc05a0e87ff37d1,2.192861e-05
+718f63a7f06993d0dc1632cb0114348dceb9897f821c2d55,Are director of film The Girl In The Sneakers and director of film Long Pants both from the same country?,1,718f63a7f06993d0dc1632cb0114348dceb9897f821c2d55,0.999713
+718f63a7f06993d0dc1632cb0114348dceb9897f821c2d55,Are director of film The Girl In The Sneakers and director of film Long Pants both from the same country?,2,ec96dad9bf806f1c5597178f476df39ad6603170efabe914,0.02002228
+718f63a7f06993d0dc1632cb0114348dceb9897f821c2d55,Are director of film The Girl In The Sneakers and director of film Long Pants both from the same country?,3,d1cd11866ff12ea793c26c2d19db1259fcaa9cc2c7ebc1dc,0.003062906
+5679a28af119c49eef128407fce019942c46a7bfb755b130,Who is the spouse of the director of film Rodney Steps In?,1,df74c88567561261707555fa8504bf93678834b5fce5f943,0.004189457
+5679a28af119c49eef128407fce019942c46a7bfb755b130,Who is the spouse of the director of film Rodney Steps In?,2,59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,0.00032176956
+5679a28af119c49eef128407fce019942c46a7bfb755b130,Who is the spouse of the director of film Rodney Steps In?,3,feac1266126ef65a017535d551c19f741c29144a057bac71,0.00031073403
+e5dd7853e4698d1605ac8993911f1dd498a8229cce0fb842,Where was the director of film The Heart Of The World born?,1,d214078fd2eaaa345d77f1f06bbb7765253b476fec74d965,0.2866411
+e5dd7853e4698d1605ac8993911f1dd498a8229cce0fb842,Where was the director of film The Heart Of The World born?,2,883b4b8a680112178587dfb9511033c219999312a8e283e8,0.0071004275
+e5dd7853e4698d1605ac8993911f1dd498a8229cce0fb842,Where was the director of film The Heart Of The World born?,3,5e46e20a637625300d8e198a1d11435e9c83592bb527321a,0.005148347
+0874617ba73c23542f0abc0a68c4792cf2c535bbec0e11b5,What nationality is Godan Khan's father?,1,5d2435c261cf4ec0635d68b92006f7926e6739eea53c202b,5.331665e-05
+0874617ba73c23542f0abc0a68c4792cf2c535bbec0e11b5,What nationality is Godan Khan's father?,2,3498041a8960ebd62cd1567bd884cd559d65792fc3014299,3.369668e-05
+0874617ba73c23542f0abc0a68c4792cf2c535bbec0e11b5,What nationality is Godan Khan's father?,3,0f356f26b81fba8d85f6f24e82f2d11dfdd8ee32bc7025bd,3.0299982e-05
+3217ac618975993bd935ed6711f8aeaa1b310d4157667829,"Which film was released more recently, State Rowdy or Spy Kids 2: The Island Of Lost Dreams?",1,3217ac618975993bd935ed6711f8aeaa1b310d4157667829,0.99976665
+3217ac618975993bd935ed6711f8aeaa1b310d4157667829,"Which film was released more recently, State Rowdy or Spy Kids 2: The Island Of Lost Dreams?",2,891a3e506822e0c94cdbc63c673cf78d6b919a7479c1e961,0.91087604
+3217ac618975993bd935ed6711f8aeaa1b310d4157667829,"Which film was released more recently, State Rowdy or Spy Kids 2: The Island Of Lost Dreams?",3,f2ed3f27a7f66e531b09f0eb6e57275ed822f1e5376e3530,0.0050255046
+df9e21637eedca8ff688f26f20ae83e7883c92575a225130,What nationality is the director of film Civil Brand?,1,df9e21637eedca8ff688f26f20ae83e7883c92575a225130,0.99836427
+df9e21637eedca8ff688f26f20ae83e7883c92575a225130,What nationality is the director of film Civil Brand?,2,59d531329c51fbdcdfc3e9af4565136b072a2af1d3b68ea2,0.0047291815
+df9e21637eedca8ff688f26f20ae83e7883c92575a225130,What nationality is the director of film Civil Brand?,3,df74c88567561261707555fa8504bf93678834b5fce5f943,0.0010877522
+31cd60e0e4f7769a631584652127f3f626f55edc8d85887a,What nationality is Rajaraja Ii's father?,1,df74c88567561261707555fa8504bf93678834b5fce5f943,0.000103583516
+31cd60e0e4f7769a631584652127f3f626f55edc8d85887a,What nationality is Rajaraja Ii's father?,2,5d2435c261cf4ec0635d68b92006f7926e6739eea53c202b,0.00010130289
+31cd60e0e4f7769a631584652127f3f626f55edc8d85887a,What nationality is Rajaraja Ii's father?,3,0f356f26b81fba8d85f6f24e82f2d11dfdd8ee32bc7025bd,3.3331566e-05
+cdca45dc9a7a450ca91719626f641a58e92a5ce2e3fbe767,Who is the maternal grandmother of Prince Feodor Alexandrovich Of Russia?,1,b8737cbf764dc336463c1c85ad212b604a8825fd1feadd69,0.07436386
+cdca45dc9a7a450ca91719626f641a58e92a5ce2e3fbe767,Who is the maternal grandmother of Prince Feodor Alexandrovich Of Russia?,2,32482945828a5aab162d7534d56b2b39f5292f6cd0fe0587,0.0036882386
+cdca45dc9a7a450ca91719626f641a58e92a5ce2e3fbe767,Who is the maternal grandmother of Prince Feodor Alexandrovich Of Russia?,3,2f09ba9e44f712209fb73586e9f4fcc3b4080409689fe4b0,0.0011692106
+87932b85c9972f32d1e88477d93d8115a87d42eaf0091ee9,Who is the paternal grandfather of Shahrbanu?,1,87932b85c9972f32d1e88477d93d8115a87d42eaf0091ee9,0.9990631
+87932b85c9972f32d1e88477d93d8115a87d42eaf0091ee9,Who is the paternal grandfather of Shahrbanu?,2,32482945828a5aab162d7534d56b2b39f5292f6cd0fe0587,0.02609422
+87932b85c9972f32d1e88477d93d8115a87d42eaf0091ee9,Who is the paternal grandfather of Shahrbanu?,3,4b564dc097e7bbbd647ac1a6e70a11ab76351cc8415a733f,2.2926019e-05
+d4b716f9cc9884457dbe3369ee030d8b2c0e39a26036c592,What is the place of birth of the performer of song If You Want To Be My Woman?,1,a761220766aeb2fafc85b9753e54c449fb1464f03a4b51df,0.91091186
+d4b716f9cc9884457dbe3369ee030d8b2c0e39a26036c592,What is the place of birth of the performer of song If You Want To Be My Woman?,2,2820f5f6db2a73a11f6269437ced07bf92dd3636cfda02ee,0.021110138
+d4b716f9cc9884457dbe3369ee030d8b2c0e39a26036c592,What is the place of birth of the performer of song If You Want To Be My Woman?,3,0a115dd145605a6f2b0eeb01830ff1b3c2a38f81e6734097,0.0059340587
+6db754cfbd5b3e680c13bee29dec733d35be7d4fe0f46b36,Where did the composer of song Nocturne (Britten) die?,1,6db754cfbd5b3e680c13bee29dec733d35be7d4fe0f46b36,0.99905676
+6db754cfbd5b3e680c13bee29dec733d35be7d4fe0f46b36,Where did the composer of song Nocturne (Britten) die?,2,3a4153b2cd645e567d268c92fc153be937caefb93ac238df,0.5354371
+6db754cfbd5b3e680c13bee29dec733d35be7d4fe0f46b36,Where did the composer of song Nocturne (Britten) die?,3,9a1ec3f581a0267d71a30d7661ceb6e277b0be8a58c12e6e,0.00022454203
+1c58a30eb49959465cf6b97dc7e86d22b05436c8813c9499,"Which film has the director died earlier, Frankenstein 90 or Messenger Of Death?",1,1c58a30eb49959465cf6b97dc7e86d22b05436c8813c9499,0.99974674
+1c58a30eb49959465cf6b97dc7e86d22b05436c8813c9499,"Which film has the director died earlier, Frankenstein 90 or Messenger Of Death?",2,569f8b123108053ea946f9efffbe0406abcfd288b5b13bf2,0.9766818
+1c58a30eb49959465cf6b97dc7e86d22b05436c8813c9499,"Which film has the director died earlier, Frankenstein 90 or Messenger Of Death?",3,004f56357e6d3851026b1a760360d2edc0e23d1d997bfea8,0.25050372
+947f3484b4e4e37f04811bf3de2685b71145510a3fdbf906,Do Shari Roman and Stately Wayne Manor share the same nationality?,1,947f3484b4e4e37f04811bf3de2685b71145510a3fdbf906,0.99988616
+947f3484b4e4e37f04811bf3de2685b71145510a3fdbf906,Do Shari Roman and Stately Wayne Manor share the same nationality?,2,ffb74b527f19f9e8c0fdc8a392174309f50696c95cbd7c97,3.8817005e-05
+947f3484b4e4e37f04811bf3de2685b71145510a3fdbf906,Do Shari Roman and Stately Wayne Manor share the same nationality?,3,f47a70ebc3471bb3fc81f93c8c812af1fb71048a720c3a47,1.8158073e-05
+54afee9afec7cd7053b95b1f9c63f196392fd26653c0824e,Do both Extract (Film) and Thou Wast Mild And Lovely films have the directors from the same country?,1,54afee9afec7cd7053b95b1f9c63f196392fd26653c0824e,0.99972457
+54afee9afec7cd7053b95b1f9c63f196392fd26653c0824e,Do both Extract (Film) and Thou Wast Mild And Lovely films have the directors from the same country?,2,ff147ffa9d6d295cdd0bfe0d0c99ec8dc6c212c3a4d3086a,0.9656392
+54afee9afec7cd7053b95b1f9c63f196392fd26653c0824e,Do both Extract (Film) and Thou Wast Mild And Lovely films have the directors from the same country?,3,d1cd11866ff12ea793c26c2d19db1259fcaa9cc2c7ebc1dc,0.0006873738
+01f2daeaf538f2fe512ea44ea999e66a1b190a1b1d283ddf,What is the cause of death of performer of song Things Done Changed?,1,151426237d6b0e7678191426593135623644541aba08e8ad,0.9781793
+01f2daeaf538f2fe512ea44ea999e66a1b190a1b1d283ddf,What is the cause of death of performer of song Things Done Changed?,2,8a758fe292d901d43c7729a09392968963811f61842518f3,0.00043493093
+01f2daeaf538f2fe512ea44ea999e66a1b190a1b1d283ddf,What is the cause of death of performer of song Things Done Changed?,3,00e8a018b17073a175614172e73871939a3b2ac4ca0c71c0,0.0001757367
+3605abcc4f4de1deab21d77ea9de019d736e6b9331123370,What is the place of birth of Philip Willkie's father?,1,df26a4d86dc9b42db852cc02c6231f14bf681303430b1364,0.0052136723
+3605abcc4f4de1deab21d77ea9de019d736e6b9331123370,What is the place of birth of Philip Willkie's father?,2,3498041a8960ebd62cd1567bd884cd559d65792fc3014299,0.00021001822
+3605abcc4f4de1deab21d77ea9de019d736e6b9331123370,What is the place of birth of Philip Willkie's father?,3,79e5312122eb8a7811f0ac120e76d2ff7576287cab7c6a63,8.2893035e-05
+215c97da09f739be0c873d0a2496a5fe5490e0bd2da665e5,Where was the husband of Nagammai born?,1,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,0.00019748532
+215c97da09f739be0c873d0a2496a5fe5490e0bd2da665e5,Where was the husband of Nagammai born?,2,38387b0175b1713c6f7cc99561f16413ccb360fdcb00e814,2.3299326e-05
+215c97da09f739be0c873d0a2496a5fe5490e0bd2da665e5,Where was the husband of Nagammai born?,3,4cd06c998601679deb329a164b76914224ddd81d133d052a,2.1895865e-05
+c8196f55c719e2e4e3b10439d7b124a90f9f4b3c1cd39db9,Where was the place of death of Maurice De Saxe's father?,1,c8196f55c719e2e4e3b10439d7b124a90f9f4b3c1cd39db9,0.9989483
+c8196f55c719e2e4e3b10439d7b124a90f9f4b3c1cd39db9,Where was the place of death of Maurice De Saxe's father?,2,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,0.09057717
+c8196f55c719e2e4e3b10439d7b124a90f9f4b3c1cd39db9,Where was the place of death of Maurice De Saxe's father?,3,bf38d1ee9dcb2c26f2a55cde167dae2eeb4047687079a45a,0.0011361575
+c5b6ca14b3a40c33643e1d1bccb55a7898e9db8bda5780b8,Where does Emmy Göring's husband work at?,1,cca264d7bde411c4959eb2e5fb33d9689ffb893184b023d8,4.3701475e-05
+c5b6ca14b3a40c33643e1d1bccb55a7898e9db8bda5780b8,Where does Emmy Göring's husband work at?,2,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,2.0574076e-05
+c5b6ca14b3a40c33643e1d1bccb55a7898e9db8bda5780b8,Where does Emmy Göring's husband work at?,3,f47a70ebc3471bb3fc81f93c8c812af1fb71048a720c3a47,1.7462662e-05
+f1b27c9b1e5e3c79b01d560da3336cafba5dd2db5f475845,"Which film has the director died earlier, Ludwig Ii, King Of Bavaria or Meyer From Berlin?",1,ec96dad9bf806f1c5597178f476df39ad6603170efabe914,0.17518303
+f1b27c9b1e5e3c79b01d560da3336cafba5dd2db5f475845,"Which film has the director died earlier, Ludwig Ii, King Of Bavaria or Meyer From Berlin?",2,23c31f6cbc44072212b709b7348b2b6f8a012d997aaa706d,0.0023860503
+f1b27c9b1e5e3c79b01d560da3336cafba5dd2db5f475845,"Which film has the director died earlier, Ludwig Ii, King Of Bavaria or Meyer From Berlin?",3,b058a6541fba988d17aa0172344f2b537993008bedd729d5,0.0016174575
+081c47a97a4d7be7bdce61ef84d30fc6bb33ca65c913523b,What is the award that the composer of song I'M One earned?,1,081c47a97a4d7be7bdce61ef84d30fc6bb33ca65c913523b,0.9984812
+081c47a97a4d7be7bdce61ef84d30fc6bb33ca65c913523b,What is the award that the composer of song I'M One earned?,2,9a1ec3f581a0267d71a30d7661ceb6e277b0be8a58c12e6e,0.95149636
+081c47a97a4d7be7bdce61ef84d30fc6bb33ca65c913523b,What is the award that the composer of song I'M One earned?,3,4757e04814693a1a0ddc4c330f892f678a9c74bb49599efb,0.0032645746
+83c9affafe86b9685bac3a6f08866e566f30993f94ae0f34,Are Big Pal and The Invisible Man Attacks from the same country?,1,83c9affafe86b9685bac3a6f08866e566f30993f94ae0f34,0.99983096
+83c9affafe86b9685bac3a6f08866e566f30993f94ae0f34,Are Big Pal and The Invisible Man Attacks from the same country?,2,b9995c8b89dd0bc26c2f2b4a77c7604ca4b60339b79a7744,5.0343042e-05
+83c9affafe86b9685bac3a6f08866e566f30993f94ae0f34,Are Big Pal and The Invisible Man Attacks from the same country?,3,d1cd11866ff12ea793c26c2d19db1259fcaa9cc2c7ebc1dc,2.9833624e-05
+4b564dc097e7bbbd647ac1a6e70a11ab76351cc8415a733f,Who is the father of the composer of song I Miss You (Miley Cyrus Song)?,1,4b564dc097e7bbbd647ac1a6e70a11ab76351cc8415a733f,0.99933666
+4b564dc097e7bbbd647ac1a6e70a11ab76351cc8415a733f,Who is the father of the composer of song I Miss You (Miley Cyrus Song)?,2,4757e04814693a1a0ddc4c330f892f678a9c74bb49599efb,0.2407168
+4b564dc097e7bbbd647ac1a6e70a11ab76351cc8415a733f,Who is the father of the composer of song I Miss You (Miley Cyrus Song)?,3,081c47a97a4d7be7bdce61ef84d30fc6bb33ca65c913523b,0.009371225
+9c97734975e213c99c7db7454cbe8f847934f5525772f95b,Where did Brooklyn Sudano's mother die?,1,9c97734975e213c99c7db7454cbe8f847934f5525772f95b,0.9982652
+9c97734975e213c99c7db7454cbe8f847934f5525772f95b,Where did Brooklyn Sudano's mother die?,2,895501bb4736e0444f51d79ad89dbf1ba864fbe5746bf60d,6.292315e-05
+9c97734975e213c99c7db7454cbe8f847934f5525772f95b,Where did Brooklyn Sudano's mother die?,3,8af6d8a5fbee80d8de94359d33a5894a0c5169c9a33c7509,2.294914e-05
+690049a1a7cf75590b79f2c8cb48fb2fa62b3d6880c70aa4,Who is the mother of the performer of song Feel Good (Robin Thicke Song)?,1,690049a1a7cf75590b79f2c8cb48fb2fa62b3d6880c70aa4,0.9992939
+690049a1a7cf75590b79f2c8cb48fb2fa62b3d6880c70aa4,Who is the mother of the performer of song Feel Good (Robin Thicke Song)?,2,2820f5f6db2a73a11f6269437ced07bf92dd3636cfda02ee,0.7185978
+690049a1a7cf75590b79f2c8cb48fb2fa62b3d6880c70aa4,Who is the mother of the performer of song Feel Good (Robin Thicke Song)?,3,0a115dd145605a6f2b0eeb01830ff1b3c2a38f81e6734097,0.08163329
+91e951fe724d2850c40cfc8c0ad4357f5ab5a6068ab7f6e6,Who is the mother-in-law of Hafsa Hatun?,1,91e951fe724d2850c40cfc8c0ad4357f5ab5a6068ab7f6e6,0.9991425
+91e951fe724d2850c40cfc8c0ad4357f5ab5a6068ab7f6e6,Who is the mother-in-law of Hafsa Hatun?,2,ec4d2bc458764f6bb22a554fcff40c78d1ea54c9b941b9cd,1.8154076e-05
+051d0c0da566fd0fe1d29d5d4916b118c73d76d0ae78a215,Where was the father of Alexei Antonovich Of Brunswick born?,1,8e33b783534c90d43c07617f4106a5056cb93ba21758b91c,5.2007188e-05
+051d0c0da566fd0fe1d29d5d4916b118c73d76d0ae78a215,Where was the father of Alexei Antonovich Of Brunswick born?,2,1e7b44a5002efba074f208c9778567477cc4d4a1ac53d7ef,2.8510682e-05
+051d0c0da566fd0fe1d29d5d4916b118c73d76d0ae78a215,Where was the father of Alexei Antonovich Of Brunswick born?,3,5d2435c261cf4ec0635d68b92006f7926e6739eea53c202b,1.9726282e-05
+bf38d1ee9dcb2c26f2a55cde167dae2eeb4047687079a45a,"Where was the place of death of Elizabeth Fitzalan, Duchess Of Norfolk's husband?",1,bf38d1ee9dcb2c26f2a55cde167dae2eeb4047687079a45a,0.9989109
+bf38d1ee9dcb2c26f2a55cde167dae2eeb4047687079a45a,"Where was the place of death of Elizabeth Fitzalan, Duchess Of Norfolk's husband?",2,9b357d3b583cd0dd72575f76173c48b9f8704ce7af37cac3,0.0004922755
+bf38d1ee9dcb2c26f2a55cde167dae2eeb4047687079a45a,"Where was the place of death of Elizabeth Fitzalan, Duchess Of Norfolk's husband?",3,10f214e9e44886b887a7fe742c949ab4d18d851df9ee68d2,5.1645766e-05
