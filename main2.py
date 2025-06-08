@@ -11,6 +11,24 @@ api_key = os.getenv('PINECONE_API_KEY')
 index_name = os.getenv('PINECONE_INDEX_NAME')
 pc = services.PineconeService(api_key, index_name)
 
+    # Backend processes
+    ## Convert PDF ->  [markdown]
+    ## pdf_md_converter.py
+
+    ## Parse and select sections from Markdown 
+    ## paper_compresser.py    
+
+    ## Save Metadata 
+    ## get_metadata.py 
+
+    ## Generate main reaearch questions answered 
+    ## question_generation.py
+
+    ## Generate paper cards 
+    ## generate_card.py 
+    
+    ## Upserting them to pinecone
+    ## upsert_pine_card.py
 
 # Iterate through queries, fetch results, and store them
 def process_queries(input_csv_path, output_csv_path):
